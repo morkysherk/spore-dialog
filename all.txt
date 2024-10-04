@@ -7505,6 +7505,988 @@ Archetype mission already active:
  Response 2
   "I will do what it takes to prove my worth to you. Fare well."
 
+Becoming a Space Captain (Tutorial Adventure) briefing 1:
+ MySpecies
+  "Mission Control has an exciting new mission instore for you.~p~We want you to travel to the planet ~mission_target_planet~ and perform a reconnaissance mission at the Vat Tego Spaceport.  "
+ Response 1
+  "Tell me more..."
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Becoming a Space Captain (Tutorial Adventure) briefing 2:
+ MySpecies
+  "Commanding a Spacecraft is only half of the responsibilities of a Space Captain.  The other half requires planetside tactical skills, where you and your crew will need to leave your Spaceship and beam down to planets."
+ Response 1
+  "Beam Down?"
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Becoming a Space Captain (Tutorial Adventure) briefing 3:
+ MySpecies
+  "Our scientists have fitted your ship with a teleportation device that will beam you and your crew down to the planet's surface to perform planetary missions.~p~All the cool Captains have them.~p~Are you ready to visit Vat Tego?    "
+ Response 1
+  "An Adventure!  Count me in."
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Becoming a Space Captain (Tutorial Adventure) accepted:
+ MySpecies
+  "Super!  Once you get to planet ~mission_target_planet~ just fly down into the planet as usual to start the beam-down sequence.~p~Look for the Head Bot when you get to Vat Tego.  He'll have more information on where to go and who to see once at the Spaceport.~p~Safe journeys Captain.  "
+ Response 1
+  "I'd like to ask you something else..."
+ Response 2
+  "Roger that Mission Control.  "
+
+Becoming a Space Captain (Tutorial Adventure) rejected:
+ MySpecies
+  "Looks like you'll have to find out how to be a legendary Space Captain on your own...the hard way.~p~Good luck with that.  "
+ Response 1
+  "I'd like to ask you something else..."
+ Response 2
+  "Understood. Bye"
+
+Becoming a Space Captain (Tutorial Adventure) reminder:
+ MySpecies
+  "Have you checked your Mission Log lately?! ~p~You need to get to Vat Tego Spaceport on planet ~mission_target_planet~, right away.  This could be the most important mission of your career.  "
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I don't work for 'The Man'! No deal!"
+  "Never! Clearly, I abhor violence."
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+  "No. The whole thing feels... unsporting."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Becoming a Space Captain (Tutorial Adventure) aborted:
+ MySpecies
+  "Looks like you'll have to find out how to be a legendary Space Captain on your own...the hard way.~p~Good luck with that.  "
+ Response 1
+  "I'd like to ask you something else..."
+ Response 2
+  "Understood. Bye"
+
+Becoming a Space Captain (Tutorial Adventure) complete:
+ MySpecies
+  "Welcome back Captain!  Data from your Ship's log says you've aquired all the information needed about becoming a skilled Space Captain.~p~ Let's recap shall we?~p~First, you'll need to perform Adventure missions to raise your Captain experience.  As you rise in ranks, you'll aquire new accessories and abilitites for you to equip.  Aquiring crew members from your fleet will only make missions easier when planetside.~p~Piece-o-cake!  Now get out there, your saga is waiting to begin.  "
+ Response 1
+  "I'd like to ask you something else..."
+ Response 2
+  "Roger that Mission Control.  "
+
+Generic adventure briefing:
+ MySpecies
+  "Headquarters has a top secret mission for you on planet ~mission_target_planet~.~p~Will you accept this mission Captain?"
+  "Details are sketchy Captain, but intelligence indicates an immediate need for you to travel to planet ~mission_target_planet~ and see what's going on there.~p~Are you interested?"
+  "Our scouting drones have reported activity on planet ~mission_target_planet~.  The transmission was garbled, but seemed to indicate an urgent need to investigate. Wish we could tell you more...we have put a ticket into Help Desk.~p~Would you go?"
+ Diplomat
+  "We've received reports from the Grand Council, that there is unknown activity at ~mission_target_planet~.  Will you travel to the planet and take a closer look?   "
+  "The Grand Council has received word from it's ambassadors on ~mission_target_planet~ that aid is needed.  We'd like to contract you for the job.  Interested in some extra work, which may involve going down to the planets surface?  "
+  "Such unsettling times and we barely have the resources to police the stars, let alone go down and visit every planet.  Intelligence reports a need for an ambassador to be sent to ~mission_target_planet~.~p~Could you we persuade you to go on our behalf?  "
+ Ecologist
+  "Care to see the wildlife on ~mission_target_planet~?  We hear it's beautiful this time of the year and we have an urgent request for you to go down to the planet to make sure it's safe.  "
+  "As active members of 'Keep Our Oxygen Klean'.  We KOOK's are attempting to research every planet in the galaxy.  Will you go down to ~mission_target_planet~ and investigate?  "
+  "As much as it pains us to waste the energy to travel to another planet.  We need you to travel to ~mission_target_planet~.~p~Our conservationists on the planet report some strange activity.  "
+ Bard
+  "This is a good one...~p~What beams down to planet ~mission_target_planet~ and get paid for it?~p~Give up?~p~You!  Interested?"
+  "We're too busy to celebrating the 'Celebration of Celebration' a year long party on our planet.  Would you be so kind to go to planet ~mission_target_planet~ and investigate?~p~We pay well and free butterfly kisses.  "
+  "1, 2, 3...would you do something for me?~p~4, 5, 6...go to planet ~mission_target_planet~ in a fix.~p~7, 8, 9...make sure all is fine.~p~What comes after 9?"
+ Zealot
+  "It's been told that you must go to ~mission_target_planet~ in the name of Spode.  The details are not revealed at this time, but it does involve a great journey on the planet."
+  "Great adventures await you on ~mission_target_planet~.  There is a greater power out there that wills it.~p~Are you up for it?  "
+  "The One has spoken.  We must send a hero to ~mission_target_planet~ and spread the word.  Will you be that hero?"
+ Scientist
+  "Our research beacon has reported some interesting data on ~mission_target_planet~.  You'll need to beam down to ~mission_target_planet~ and investigate.~p~Would you perform this service for us?  "
+  "Our scientists on ~mission_target_planet~ have informed us that there might be something of interest on the planet's surface for someone like yourself.~p~Interested?"
+  "If our calculations are correct, there's definitely something big happening on ~mission_target_planet~ surface.~p~If it's not too much of an inconvenience, could you travel there and investigate?  "
+ Trader
+  "So good of you and your stature to visit one as insignificant as us.  If it wouldn't be too much trouble, we have a favor to ask.~p~Could you travel to planet ~mission_target_planet~ and see what opportunities might await?  Only if it would not be too much trouble."
+  "Not to be a bother, but could you do us a favor?  Please, oh please, could you fly to planet ~mission_target_planet~.~p~One of our freighters reports there might be great opportunities for one as brave as yourself.~p~We'll pay of course.  "
+  "It's an honor to be in the presence of such a mighty hero as you.  Planet ~mission_target_planet~ is need of your services.~p~We would forever be in your debt and pay you handsomely.  "
+ Shaman
+  "The winds have whispered a hero would come in need of adventure.  Are you that hero?~p~If so, go to planet ~mission_target_planet~, your adventure awaits.  "
+  "The Great Waters speak of fantastic experiences awaiting those who dare.  Go to planet ~mission_target_planet~ with haste.~p~May the Spirit Watcher protect you.  "
+  "When the Star of Stone aligns with the Gates of Wrath, magical things will happen.  That magic awaits you on planet ~mission_target_planet~.~p~Will you go?"
+ Warrior
+  "Do you think you're stronger than The ~race~?  Prove it.~p~Go to planet ~mission_target_planet~ and face whatever perils may await.  It will prove lucrative.  "
+  "We've seen many adventurers come through here.  What makes you any different?~p~Travel to planet ~mission_target_planet~.  The risk may be great, but the reward even better.  "
+  "The ~race~ respect those who are courageous and laugh in the face of danger.~p~Travel to planet ~mission_target_planet~ and investigate.  We're not sure what journey awaits you, but it will be dangerous.~p~Are you ready?"
+ Grob
+  "Insignificant life form, go to planet ~mission_target_planet~.  Do not question our authority.  "
+  "Leave at once to planet ~mission_target_planet~.  That is all.  "
+  "You're to expedite yourself to planet ~mission_target_planet~ or face punishment.  "
+ Response 1
+  "Count me in, I love Adventures."
+  "Sounds like an interesting Adventure.  I'm in."
+  "I'm always up for an Adventure!"
+ Response 2
+  "I'm not going to do this, for several reasons."
+  "I appreciate the offer, but have to decline."
+  "I must decline, but I can't tell you why."
+  "I regret that I must say no. "
+
+Generic adventure accepted:
+ MySpecies
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~Come back here when you're done Captain and we'll expedite your operation fees.  "
+ Diplomat
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~Return here when you're done to receive payment for services rendered.    "
+ Ecologist
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~Return to us when you've completed your task and we'll be sure to reward you.  "
+ Bard
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~Money, Songs, and Dancing when you return.    "
+ Zealot
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~Riches will be bestowed upon thee, upon your safe return.  "
+ Scientist
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~We'll have your payment ready for you once you're finished.    "
+ Trader
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~Please come back when you're done, for we will shower you with riches.    "
+ Shaman
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~Your money will flow like the Rushing River once you've completed your journey.  "
+ Warrior
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~Your payment will be waiting for your return.  "
+ Grob
+  "Once you get to ~mission_target_planet~ you will need to beam down to the planet.  You'll have an opportunity to equip your landing party before you beam down.~p~Some adventures allow you to beam down members of your Flight Squad.~p~We may decide to pay you IF you return.  "
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I understand. I'll be back soon."
+
+Generic adventure rejected:
+ MySpecies
+  "Perfectly understandable, Captain.~p~Sorry to trouble you with such matters.~p~"
+ Diplomat
+  "Understood, ~player_title~ ~player_creature_name~. We appreciate your decorum.~p~It will actually save us a bit of paperwork. The sub-contract approval process for interplanetary creature transport requires only three hundred and sixty-two separate forms signed and stamped in triplicate. ~p~Of course, this is well below the guidelines established in the Standard Operating Procedure... You should see the required forms for transporting fermented spices. "
+ Ecologist
+  "Oooh... okay... Yes, that's alright. ~p~If your heart is not in it, we wouldn't want you interacting with another life form... ~p~"
+ Bard
+  "FINE...be THAT way.  It won't hurt our feelings.~p~OK...it hurt a little."
+ Zealot
+  "The ~race~ questions your indecision. It is clear you lack a strong force guiding your direction. How unfortunate."
+ Scientist
+  "Interesting choice ~player_title~ ~player_creature_name~. Perhaps you have some information we do not, although that seems unlikely."
+ Trader
+  "Of course, of course. I knew it was hopeless to bring such a trivial matter to so glorious a one as yourself. Perhaps you could console me by spending money in the boutique?"
+ Shaman
+  "You must follow your own path.~p~Be well my friend."
+ Warrior
+  "Quit is not something ~race~ understand. ~player_creature_name~ is not ~race~."
+ Grob
+  "You dare to go back on your word to the Grox! Insolent fool!"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+  "I beg your understanding."
+
+Generic adventure reminder:
+ MySpecies
+  "You still have not completed your mission Captain.  You need to get to  ~mission_target_planet~ right away before Headquarters freaks out."
+ Diplomat
+  "Your diplomatic endeavor is not finished.  Please travel to  ~mission_target_planet~ and beam down to the planet.  "
+ Ecologist
+  "Wooooah, you still haven't beamed down to  ~mission_target_planet~?  You should like...go...and take care of business.   "
+ Bard
+  "We'd invite you to our party, but it looks like you haven't completed your mission on  ~mission_target_planet~.  Don't be a party pooper...get it done!"
+ Zealot
+  "The Enlightened One will not be pleased.  You must go to  ~mission_target_planet~ at once and prove yourself worthy.  "
+ Scientist
+  "Despite the data in your Mission Log, you seem to have left uncompleted your task on planet ~mission_target_planet~.  This does not seem logical."
+ Trader
+  "Not to be rude...but...but you haven't finished your expedition to  ~mission_target_planet~.  It would be profitable for all parties if you completed your task."
+ Shaman
+  "Journey to  ~mission_target_planet~ and complete the task you have accepted.  We are patient and wait your safe return."
+ Warrior
+  "Despite the data in your Mission Log, you have not fulfilled your task on planet ~mission_target_planet~. Will you act with honor, or cowardice?"
+ Grob
+  "Despite the data downloaded into your Mission Log, you have not completed your assignment on planet ~mission_target_planet~. Will you obey? "
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I apologize, but must decline to continue this project."
+  "I don't work for 'The Man'! No deal!"
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Generic adventure aborted:
+ MySpecies
+  "Perfectly understandable, Captain.~p~Sorry to trouble you with such matters."
+ Diplomat
+  "Understood, ~player_title~ ~player_creature_name~. We appreciate your decorum.~p~It will actually save us a bit of paperwork. The sub-contract approval process for interplanetary creature transport requires only three hundred and sixty-two separate forms signed and stamped in triplicate. ~p~Of course, this is well below the guidelines established in the Standard Operating Procedure... You should see the required forms for transporting fermented spices. "
+ Ecologist
+  "Oooh... okay... Yes, that's alright. ~p~If your heart is not in it, we wouldn't want you interacting with another life form... ~p~"
+ Bard
+  "FINE...be THAT way.  It won't hurt our feelings.~p~OK...it hurt a little."
+ Zealot
+  "The ~race~ questions your indecision. It is clear you lack a strong force guiding your direction. How unfortunate."
+ Scientist
+  "Interesting choice ~player_title~ ~player_creature_name~. Perhaps you have some information we do not, although that seems unlikely."
+ Trader
+  "Of course, of course. I knew it was hopeless to bring such a trivial matter to so glorious a one as yourself. Perhaps you could console me by spending money in the boutique?"
+ Shaman
+  "You must follow your own path.~p~Be well my friend."
+ Warrior
+  "Quit is not something ~race~ understand. ~player_creature_name~ is not ~race~."
+ Grob
+  "You dare to go back on your word to the Grox! Insolent fool!"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+  "I beg your understanding. "
+
+Generic adventure complete:
+ MySpecies
+  "Captain, your mission log indicates SUCCESS!  We're so totally impressed!~p~Have ~mission_rewards~ Sporebucks and our complete gratitude!"
+ Diplomat
+  "You have served your galaxy well. On behalf of the Grand Council, I am authorized to offer you ~mission_rewards~ and this Certificate of Commendation, Second Class."
+ Ecologist
+  "You have done well! We're happy to offer you ~mission_rewards~ Sporebucks, and the title, Friend of the Cosmos!"
+ Bard
+  "What glorious days these are friend!  You've done it...what did you do again?~p~It doesn't matter...let us sing and get silly.  As promised, ~mission_rewards~ Sporebucks."
+ Zealot
+  "You have shown yourself to be a Friend of Spode. Take ~mission_rewards~ Sporebucks in Spode's name, along with a copy of the Word of Spode."
+ Scientist
+  "In the past, we have discovered recompense to be useful in gaining the cooperation of another species. We therefore offer ~mission_rewards~ Sporebucks to you."
+ Trader
+  "The Great One returns triumphant!  We howl and prance with delight! Please accept ~mission_rewards~ Sporebucks and a free tour of our excellent boutique."
+ Shaman
+  "By The Great Solar Winds...you have done it!  Please take ~mission_rewards~ Sporebucks, and we'll be sure to adjust your ship's feng shui before you leave!"
+ Warrior
+  "You have aided us, and you will not find us ungrateful. Please take ~mission_rewards~ Sporebucks."
+ Grob
+  "You have completed your mission satisfactorily. These ~mission_rewards~ Sporebucks are useless to us, but they may be of service to you."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Another assignment may be the right thing."
+  "One more thing..."
+ Response 2
+  "A pleasure to help. So long."
+  "No trouble at all. Farewell."
+  "Anytime. See you later."
+  "You are most generous. "
+
+Delicate Negotiations (Diplomat Adventure) briefing:
+ Diplomat
+  "~ep1_captain_full_name~, it's good to see you.  The Grand Council has been made aware of a situation developing down on ~mission_target_planet~. ~p~An urgent diplomatic intervention is required, and we ask that you visit - at once!"
+ Response 1
+  "Count me in, I love Adventures."
+  "Sounds like an interesting Adventure.  I'm in."
+  "I'm always up for an Adventure!"
+ Response 2
+  "I'm not going to do this, for several reasons."
+  "I appreciate the offer, but have to decline."
+  "I must decline, but I can't tell you why."
+
+Delicate Negotiations (Diplomat Adventure) accepted:
+ Diplomat
+  "Excellent. Our sources inform us that tensions are high. Solve this problem with words, not weapons!"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+
+Delicate Negotiations (Diplomat Adventure) rejected:
+ Diplomat
+  "An unfortunate turn of events. ~p~We were counting on you to solve this problem diplomatically..."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Delicate Negotiations (Diplomat Adventure) reminder:
+ Diplomat
+  "Your mission log tells a tale of a war about to start.~p~Perhaps you could get over there and help to play your part?"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I don't work for 'The Man'! No deal!"
+  "Never! Clearly, I abhor violence."
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+  "No. The whole thing feels... unsporting."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Delicate Negotiations (Diplomat Adventure) aborted:
+ Diplomat
+  "The Grand Council understands that solving problems with patience and words can be much more challenging than using haste and force.~p~Perhaps you will come to understand this as your race matures. "
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Delicate Negotiations (Diplomat Adventure) complete:
+ Diplomat
+  "Excellent work! We have just been informed that a wedding ceremony is scheduled. We can only hope the two families don't go to war after arguing over the color of the wedding cake frosting. ~p~For a job well done, the Grand Council has decided it would be prudent to bestow ~mission_rewards~ Sporebucks to you."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Another assignment may be the right thing."
+  "One more thing..."
+ Response 2
+  "A pleasure to help. So long."
+  "No trouble at all. Farewell."
+  "Anytime. See you later."
+
+It Came From The Sky (Ecologist Adventure) briefing:
+ Ecologist
+  "~ep1_captain_full_name~, we just received word of a biological catastrophe! An unidentified alien craft has crash landed near one of our remote Ecological Research Stations. ~p~We have lost all communication with the station. ~p~We're worried that the alien craft might have been carrying some kind of contagion. ~p~Will you check it out for us?"
+ Response 1
+  "Count me in, I love Adventures."
+  "Sounds like an interesting Adventure.  I'm in."
+  "I'm always up for an Adventure!"
+ Response 2
+  "I'm not going to do this, for several reasons."
+  "I appreciate the offer, but have to decline."
+  "I must decline, but I can't tell you why."
+
+It Came From The Sky (Ecologist Adventure) accepted:
+ Ecologist
+  "I knew we could count on you. Find out what happened at the Research Station and report back here immediately. ~p~Hurry ~ep1_captain_full_name~, before the contagion spreads."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+
+It Came From The Sky (Ecologist Adventure) rejected:
+ Ecologist
+  "To be honest, we wouldn't want to beam down to a dangerous planet to investigate a lethal alien contagion either.~p~Your race is smarter than it looks."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+It Came From The Sky (Ecologist Adventure) reminder:
+ Ecologist
+  "The planetary coordinates have been uploaded to your mission log. Hurry before the contagion spreads."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I don't work for 'The Man'! No deal!"
+  "Never! Clearly, I abhor violence."
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+  "No. The whole thing feels... unsporting."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+It Came From The Sky (Ecologist Adventure) aborted:
+ Ecologist
+  "You're sure you don't want to expose yourself to a potentially deadly alien contagion?~p~Our list of guinea pigs is growing shorter... "
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+It Came From The Sky (Ecologist Adventure) complete:
+ Ecologist
+  "It's as we feared. The entire station was lost to the contagion except for this one little girl. Hopefully her immune system holds the clues that will help us prevent this type of catastrophe in the future.~p~ It's not much, but we would like to offer you ~mission_rewards~ Sporebucks for your help in this matter."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Another assignment may be the right thing."
+  "One more thing..."
+ Response 2
+  "A pleasure to help. So long."
+  "No trouble at all. Farewell."
+  "Anytime. See you later."
+
+Concert in the Park (Bard Adventure) briefing:
+ Bard
+  "I  just received a top priority emergency distress signal from Colonel Farkus.~p~He's putting on a rock concert in the park and his lead singer is...huh? Wait a secton! This isn't an emergency! How many times do I have to tell Farkus not to call me on my hotline?~p~Uhh...could you do me a favor and take care of this?"
+ Response 1
+  "Count me in, I love Adventures."
+  "Sounds like an interesting Adventure.  I'm in."
+  "I'm always up for an Adventure!"
+ Response 2
+  "I'm not going to do this, for several reasons."
+  "I appreciate the offer, but have to decline."
+  "I must decline, but I can't tell you why."
+
+Concert in the Park (Bard Adventure) accepted:
+ Bard
+  "Colonel Farkus can you give you all the details when you beam down. You can't miss him.~p~Just look for a guy with a top hat, a bow tie, and four arms."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+
+Concert in the Park (Bard Adventure) rejected:
+ Bard
+  "I hear you. Personally, I'd rather be planting flowers on Grox planets than helping an old concert promoter put on a show."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Concert in the Park (Bard Adventure) reminder:
+ Bard
+  "Colonel Farkus is a swell guy, but I can't come to his rescue every time one of his singers throws a tantrum. Could you please handle this for me?"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I don't work for 'The Man'! No deal!"
+  "Never! Clearly, I abhor violence."
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+  "No. The whole thing feels... unsporting."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Concert in the Park (Bard Adventure) aborted:
+ Bard
+  "I don't blame you. Dealing with overpaid, self-centered celebrities is enough to drive anyone crazy."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Concert in the Park (Bard Adventure) complete:
+ Bard
+  "Colonel Farkus told me the concert was a hit, thanks to you! I don't suppose you smuggled out a bootleg holochip recording for me, did you?~p~Here's ~mission_rewards~ Sporebucks for doing such a rockin' job!"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Another assignment may be the right thing."
+  "One more thing..."
+ Response 2
+  "A pleasure to help. So long."
+  "No trouble at all. Farewell."
+  "Anytime. See you later."
+
+Temple of Spode (Zealot Adventure) briefing:
+ Zealot
+  "Welcome ~ep1_captain_full_name~, fellow follower of the true Philosophy of Faith! You are a fellow follower, right? ~p~I have a Priest in need of protection down on ~mission_target_planet~.~p~He's trying to reach the Temple of Spode and could use an escort. Interested?"
+ Response 1
+  "Count me in, I love Adventures."
+  "Sounds like an interesting Adventure.  I'm in."
+  "I'm always up for an Adventure!"
+ Response 2
+  "I'm not going to do this, for several reasons."
+  "I appreciate the offer, but have to decline."
+  "I must decline, but I can't tell you why."
+
+Temple of Spode (Zealot Adventure) accepted:
+ Zealot
+  "Praise Spode! The Priest awaits your arrival by the shore.~p~May your journey be uneventful and swift."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+
+Temple of Spode (Zealot Adventure) rejected:
+ Zealot
+  "We will pray that Spode's divine shield surrounds and protects the Priest while we search for another escort."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Temple of Spode (Zealot Adventure) reminder:
+ Zealot
+  "The Priest awaits you on the planet ~mission_target_planet~. Check your mission log for the exact location.~p~Be quick! How are you going to help him if he gets eaten before you arrive?"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I don't work for 'The Man'! No deal!"
+  "Never! Clearly, I abhor violence."
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+  "No. The whole thing feels... unsporting."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Temple of Spode (Zealot Adventure) aborted:
+ Zealot
+  "Did you try asking Spode for help? Good things come to those that believe."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Temple of Spode (Zealot Adventure) complete:
+ Zealot
+  "Why are the Black Claw so upset? They should appreciate the Temple we built for them to worship in.~p~Why can't they simply drop their weapons and embrace the teachings of Spode?~p~For your faithful service we grant you ~mission_rewards~ Sporebucks. May Spode travel with you in your journeys."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Another assignment may be the right thing."
+  "One more thing..."
+ Response 2
+  "A pleasure to help. So long."
+  "No trouble at all. Farewell."
+  "Anytime. See you later."
+
+TX-5000 Super Weapon (Scientist Adventure) briefing:
+ Scientist
+  "Salutations ~ep1_captain_full_name~.  We've just received terrible news. We have reason to believe that C'Servoid scientists are constructing a giant weapon on the planet ~mission_target_planet~.~p~We need someone to beam down there and take a closer look at their technology. You interested?"
+ Response 1
+  "Count me in, I love Adventures."
+  "Sounds like an interesting Adventure.  I'm in."
+  "I'm always up for an Adventure!"
+ Response 2
+  "I'm not going to do this, for several reasons."
+  "I appreciate the offer, but have to decline."
+  "I must decline, but I can't tell you why."
+
+TX-5000 Super Weapon (Scientist Adventure) accepted:
+ Scientist
+  "Our spy, Bantuii, is already inside the base. Sneak past the guards and find him. He'll give you further instructions.~p~This is not a combat mission ~ep1_captain_full_name~! Stealth and patience are key.~p~Good luck!"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+
+TX-5000 Super Weapon (Scientist Adventure) rejected:
+ Scientist
+  "Would you change your mind if we told you that our calculations show that you have a 92.3% chance to succeed?"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+TX-5000 Super Weapon (Scientist Adventure) reminder:
+ Scientist
+  "Everything you need to know is in your mission log.~p~Remember, you're there to gather scientific data. Try not to blow anything up."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I don't work for 'The Man'! No deal!"
+  "Never! Clearly, I abhor violence."
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+  "No. The whole thing feels... unsporting."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+TX-5000 Super Weapon (Scientist Adventure) aborted:
+ Scientist
+  "We're not asking you to charge in with Pulsar weapons blazing. We only want a small sample of the TX-5000 technology.~p~If you stay out of sight the odds of you being vaporized are actually quite small."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+TX-5000 Super Weapon (Scientist Adventure) complete:
+ Scientist
+  "Too bad the TX-5000 exploded. With a bit of luck we can analyze the debris and find a way to reverse engineer the power source.~p~Of course, WE would never use the technology as a weapon. We are only interested in the...uh...potential to create clean, renewable energy.~p~Anyway, thanks for the help. You definitely earned these ~mission_rewards~ Sporebucks."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Another assignment may be the right thing."
+  "One more thing..."
+ Response 2
+  "A pleasure to help. So long."
+  "No trouble at all. Farewell."
+  "Anytime. See you later."
+
+Ruins of Doom (Trader Adventure) briefing:
+ Trader
+  "~ep1_captain_full_name~, you like treasure? Artifacts? Rare idols and precious gems? Of course you do!~p~Well, listen up, because I got a plan. I'll tell you the whereabouts of the legendary Golden Llama if you go fetch it for me.~p~In exchange I'll pay you ~mission_rewards~ Sporebucks.~p~Deal?"
+ Response 1
+  "Count me in, I love Adventures."
+  "Sounds like an interesting Adventure.  I'm in."
+  "I'm always up for an Adventure!"
+ Response 2
+  "I'm not going to do this, for several reasons."
+  "I appreciate the offer, but have to decline."
+  "I must decline, but I can't tell you why."
+
+Ruins of Doom (Trader Adventure) accepted:
+ Trader
+  "The Golden Llama is sitting right out in the open. You just have to navigate a maze of blood-thirsty creatures to get to it.~p~Hey, if the job was easy I'd do it myself!"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+
+Ruins of Doom (Trader Adventure) rejected:
+ Trader
+  "Which part of this mission don't you like? The gold or the llama?"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Ruins of Doom (Trader Adventure) reminder:
+ Trader
+  "Having trouble getting your hands on that Golden Llama? Check your mission log for the exact coordinates."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I don't work for 'The Man'! No deal!"
+  "Never! Clearly, I abhor violence."
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+  "No. The whole thing feels... unsporting."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Ruins of Doom (Trader Adventure) aborted:
+ Trader
+  "Travelling through dangerous jungles looking for treasure isn't for everyone.~p~It's not even for me. That's why I pay others to do it!"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Ruins of Doom (Trader Adventure) complete:
+ Trader
+  "Yes! The Golden Llama is finally mine! This will look great with my collection of gold things. Hmmm...maybe it would look better with my collection of llamas?~p~Thanks ~ep1_captain_full_name~ for risking your life for ~mission_rewards~ Sporebucks. I'll be sure to look you up the next time I need help acquiring a precious artifact. "
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Another assignment may be the right thing."
+  "One more thing..."
+ Response 2
+  "A pleasure to help. So long."
+  "No trouble at all. Farewell."
+  "Anytime. See you later."
+
+The Spirits Are Restless (Shaman Adventure) briefing:
+ Shaman
+  "~ep1_captain_full_name~, we have received a distress message from a nearby colony. Their small village is being attacked each night by monstrous creatures.~p~We suspect the cause of the disturbance is a harmonic imbalance, but we cannot pinpoint the source from orbit. ~p~ Violence and force will not help in this matter. But we sense in you an inner harmony that may prove quite useful for this mission.~p~ Are you in?"
+ Response 1
+  "Count me in, I love Adventures."
+  "Sounds like an interesting Adventure.  I'm in."
+  "I'm always up for an Adventure!"
+ Response 2
+  "I'm not going to do this, for several reasons."
+  "I appreciate the offer, but have to decline."
+  "I must decline, but I can't tell you why."
+
+The Spirits Are Restless (Shaman Adventure) accepted:
+ Shaman
+  "Beam down and talk to the Town Leader. He is oblivious to Harmonic energy, but listen closely and you may perceive a greater truth."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+
+The Spirits Are Restless (Shaman Adventure) rejected:
+ Shaman
+  "No one Captain has the ability to walk all the paths that the galaxy offers. May you be blessed on the paths you take."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+The Spirits Are Restless (Shaman Adventure) reminder:
+ Shaman
+  "Excuse me, kind traveler. I don't want to unbalance your aura, but the villagers need your aid. ~p~All the required information is stored in your mission log."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I don't work for 'The Man'! No deal!"
+  "Never! Clearly, I abhor violence."
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+  "No. The whole thing feels... unsporting."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+The Spirits Are Restless (Shaman Adventure) aborted:
+ Shaman
+  "Not everyone has the inner balance necessary to navigate between the two sides of reality. We wish you luck on the side you choose."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+The Spirits Are Restless (Shaman Adventure) complete:
+ Shaman
+  "~ep1_captain_full_name~, you did it! You've followed the path and restored harmony. ~p~The Oneness has a place for you in the Great Plan, so get out and pass that good harmonic vibe on! ~p~To help you on your spiritual journey we offer ~mission_rewards~ Sporebucks. Spend it with wisdom."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Another assignment may be the right thing."
+  "One more thing..."
+ Response 2
+  "A pleasure to help. So long."
+  "No trouble at all. Farewell."
+  "Anytime. See you later."
+
+Infestation (Warrior Adventure) complete:
+ Warrior
+  "Red alert! A Grox drone ship has been spotted on ~mission_target_planet~!  It looks like they are trying to convert the planet. We need soldiers down on the ground and we need them fast!~p~~ep1_captain_full_name~, are you in?"
+ Response 1
+  "Count me in, I love Adventures."
+  "Sounds like an interesting Adventure.  I'm in."
+  "I'm always up for an Adventure!"
+ Response 2
+  "I'm not going to do this, for several reasons."
+  "I appreciate the offer, but have to decline."
+  "I must decline, but I can't tell you why."
+
+Infestation (Warrior Adventure) accepted:
+ Warrior
+  "When a Grox Infestation ship lands you gotta take it out fast. If it roots in place the only way to remove it is with a Planet Buster.~p~Unfortunately, that removes the planet, too."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+
+Infestation (Warrior Adventure) rejected:
+ Warrior
+  "Who's side are you on? If the Grox infest ~mission_target_planet~ then the rest of this sector will fall fast."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Infestation (Warrior Adventure) reminder:
+ Warrior
+  "Let's go soldier! The planetary coordinates have already been uploaded to your mission log!"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I don't work for 'The Man'! No deal!"
+  "Never! Clearly, I abhor violence."
+  "I'm not going to do this, for several reasons."
+  "This just doesn't feel right. No."
+  "No. The whole thing feels... unsporting."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Infestation (Warrior Adventure) aborted:
+ Warrior
+  "We'll have to keep on fightin' the Grox without you. We can't let this sector fall!"
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Perhaps another time. So long."
+  "I can see you are busy. We'll speak later."
+  "I can see you need a moment. Farewell."
+
+Infestation (Warrior Adventure) complete:
+ Warrior
+  "Good fightin' ~ep1_captain_full_name~! You've got the Warrior instinct, that's for sure.~p~The Grox won't have a chance as long as you're around.~p~Here's ~mission_rewards~ Sporebucks. That should be more than enough to cover the cost of your ammo."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions..."
+  "Another assignment may be the right thing."
+  "One more thing..."
+ Response 2
+  "A pleasure to help. So long."
+  "No trouble at all. Farewell."
+  "Anytime. See you later."
+
 Unused disaster (?):
  MySpecies
   "Captain. We regret to inform you that the citizens of planet ~mission_target_planet~ are on strike and refuse to produce more Spice. Furthermore, they are threatening to reallocate the current Spice storage out of the Space Program and into more terrestrial pursuits.~p~It seems they have gone so long without a visit from you that they are failing to realize how the Space Program benefits them. I'm sure a simple visit from you would be the key to motivating them.~p~We hope to see you soon before the Spice is reallocated.~p~Planet ~mission_target_planet~ Out."
