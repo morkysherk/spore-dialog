@@ -1,0 +1,697 @@
+Player enters empire's territory:
+ Diplomat (Annoyed)
+  "You are encroaching on our sector of space. Stay out of our way."
+  "You have come into our territory unannounced. The Grand Council demands an explanation."
+  "You have violated our borders. Explain yourself at once."
+  "You are not here at our invitation. Account for yourself quickly, or leave at once."
+ Diplomat (Neutral)
+  "You are in an area of space governed by the Grand Council. Welcome!"
+  "You seem to have inadvertently strayed into our territory.  The Grand Council looks forward to a mutually beneficial relationship."
+  "Our Grand Council welcomes you to this sector."
+ Ecologist (Annoyed)
+  "You have entered our quarantine zone. Have you come to infect us with hostile bioforms?"
+  "Who are you, stranger, and who invited you here?"
+  "Your arrival is in violation of our laws. Account for yourself."
+ Ecologist (Neutral)
+  "Provided that you are not machine life, you are welcome in our territory."
+  "You have entered the territory of ~race~. We hope our relationship will be fruitful."
+  "You have entered space under our control. All peaceful species are welcome."
+ Bard (Annoyed)
+  "Normally we have to consume a lot of juice before we see something like you!"
+  "Don't you know it's not polite to enter without knocking?"
+  "Who said you could crash the party?"
+ Bard (Neutral)
+  "You're welcome to our territory! Please try to be amusing!"
+  "Excuse me, but you seem to be wandering around in our territory. Are you lost?"
+  "We were just thinking we needed a new species to play with, and here you are! What an interesting coincidence!"
+ Zealot (Annoyed)
+  "Be prepared to bow before the might of Spode!"
+  "What are you doing here, unbeliever?"
+  "Explain your presence among Spode's Chosen!"
+ Zealot (Neutral)
+  "You find yourself among the Children of Spode. As long as you do not practice your unbelieving ways, you are welcome."
+  "Our missionaries are delighted by your arrival. Would you like to meet some?"
+  "We have faith that your arrival is not a coincidence."
+ Scientist (Annoyed)
+  "You have blundered into our territory. Who are you, and why are you here?"
+  "You have entered our domain. Explain your presence, and quickly."
+  "That you've wandered into our territory does not speak well for your intelligence."
+ Scientist (Neutral)
+  "You are in our territory.  May we help you?"
+  "You are welcome to reason with us."
+  "Greetings. Peaceful inquiries will be met with polite interest."
+ Trader (Annoyed)
+  "Are you a trespasser, or a thief, or both?"
+  "When you arrive in our territory, be prepared to spend lots of money!"
+  "You're trespassing! I hope you're ready to pay the fine!"
+ Trader (Neutral)
+  "Welcome, stranger! Did you bring money?"
+  "You're in our territory! And luckily for you, we have a lot of things on sale!"
+  "Why wander around in the darkness when you can come in and buy something?"
+ Shaman (Annoyed)
+  "We do not permit unenlightened species in our territory."
+  "Your arrival has disturbed our harmony. Justify yourself."
+  "Your aura is laden with disharmony. Why are you here?"
+ Shaman (Neutral)
+  "We greet you, stranger, in the name of the Light."
+  "You arrive at an interesting point in our spiritual evolution."
+  "You find yourself in our domain. Are you Enlightened?"
+ Warrior (Annoyed)
+  "You're in our security zone. Make no sudden moves."
+  "You have violated our territory. Be thankful we are not already at war."
+  "You have blundered into a militarized zone. Commit no further crimes!"
+ Warrior (Neutral)
+  "You are in our security zone. Who are you, and why are you here?"
+  "You now have an astonishing amount of weaponry pointed at you. Fortunately, we're more in the mood for talking."
+  "Do you come in peace? If not, you are in for a life-changing experience."
+ Grob (Annoyed)
+  "You have violated the territory of the Grox. Explain why you should not be destroyed."
+  "You are within our security zone. We have destroyed entire civilizations for less."
+  "Halt! The Grox demand to know why you are here!"
+ Grob (Neutral)
+  "You have come into a prohibited zone. Explain yourself."
+  "You have reached the territory of the Grox. Speak the truth, and it will go better for you."
+  "The Grox give you permission to speak."
+ Response 1
+  "Close Transmission"
+
+First greetings:
+ Diplomat (Annoyed)
+  "You are in the security zone of the ~race~. The Grand Council requires that you state your business."
+  "The Grand Council wishes to know what you are doing here."
+  "The Grand Council views your existence with grave concern."
+ Diplomat (Neutral)
+  "Greetings. Your ship is not in our data records.~p~What is your identification and registration information?"
+  "Hello, most welcome visitor. Please present your documents and requisite approval forms."
+  "The Grand Council of the ~race~ greets you.~p~We are pleased to make the acquaintance of another intelligent species. May we have your information and documentation please?"
+ Ecologist (Annoyed)
+  "We stand ready to guard the Universal Life Web from despoilers such as you."
+  "Nature is our guide, and to us you seem unnatural."
+  "We are the ~race~. We stand against your aggression and your unnatural lifestyle."
+ Ecologist (Neutral)
+  "We see that the well of nature... flowing with life force of all things... has produced another intelligent species. Greetings!~p~In the ~race~, we believe that a place for all exists within the Galactic Life Web. Live in harmony with nature, and we can make our journeys together. What may we call you friend?"
+  "Wondrous well... new life presents itself to the ~race~... most welcome are you... What are you called?"
+  "Welcome... dear fellow life form... it's nice just to enjoy each other, isn't it... Let's savor this moment...~p~What may we call you?"
+  "Welcome... dear fellow life form... it's nice just to enjoy each other, isn't it... Let's savor this moment...~p~What may we call you?"
+ Bard (Annoyed)
+  "Shall we eat you now?"
+  "What are you boring little people doing here, exactly?"
+  "You're giving us a splitting headache! "
+ Bard (Neutral)
+  "Are you Food?"
+  "We are the ~race~.~p~You are not, but we hope you're at least amusing."
+  "Ho! The universe has tossed up another new species, still wet from the egg!~p~We think you're cute! Can we play with you?"
+  "Are you Food?"
+  "O, the glorious heavens shine their countenance upon the ~race~! Another alien society has deemed us worthy of first contact! This is truly the most auspicious of occasions! We shall sup on the finest and most fragrant foods! We shall sing! We shall dance, and make merry!~p~And lastly, we shall scrapbook furiously, so that future generations may know of this great day!"
+ Zealot (Annoyed)
+  "We in the ~race~ have accepted the Word of Spode, and you have not. What could we possibly have in common?"
+  "Our civilization sings the praises of Spode, who brought us truth and enlightenment. You, however, remain in darkness. What do you want with us?"
+  "Unless you accept the Word of Spode, we are not destined to walk in harmony. "
+ Zealot (Neutral)
+  "Hold. The magnificent ~race~, followers of the truth, crusaders of right, will consider your character.~p~Who do you present yourself to be?"
+  "Halt in the name of the ~race~. All travelers must submit for inspection of fortitude.~p~State your name and be known to the supreme ~race~. "
+  "Unenlightened visitor. You are in the presence of the planet of the mighty ~race~.~p~Who do you presume yourself to be and the ~race~ will consider you."
+ Scientist (Annoyed)
+  "We are the ~race~. Perhaps you would volunteer to be dissected?"
+  "We in the ~race~ are devoted to the pursuit of knowledge and reason. We're not sure you meet this standard, however."
+  "You're an interesting specimen. We'd like to see you on a slab."
+ Scientist (Neutral)
+  "Fascinating alien life form. What are you called?"
+  "Curious DNA structure. Are you able to speak?"
+  "Ah, another undocumented species. Wonderful. Do give us your information."
+  "In the name of reason, we send you greetings.~p~In the ~race~, we subject all propositions to the light of observation, experimentation, and hard empirical truth. The universe provides its own answers to those clever enough to find them.~p~May we aid you on your task of discovery?"
+ Trader (Annoyed)
+  "We are disturbed that a being of your splendor notices us at all. Why don't you go away?"
+  "We are too mean and insignificant for your notice. Why don't you go somewhere else...? Unless of course you want to spend lots of money in our bazaar?"
+  "Take warning! Our emporium contains many weapons which the ~race~ will use to defend ourselves!~p~Of course, we also sell these, if the price is right."
+ Trader (Neutral)
+  "Welcome, welcome! Always a pleasure, pleasure to see a friend again. Wait, wait, don't tell me... I know I have your information around here somewhere. We've met before yes? I'd never forget a ship as interesting as yours..."
+  "Welcome, welcome and again welcome. That's a very interesting ship you have. I'd love to talk to your engineers. Fascinating, fascinating. You must give me your details."
+  "Oh, my! You startled us! You really should give a species fair warning when you intend to make first contact. What if the entire ~race~ had a fainting spell. It's happened before, you know. When we came to, we discovered mischievous aliens had drawn terrible things on our faces. In permanent marker!"
+  "Welcome, welcome! Always a pleasure, pleasure to meet another friend, provided you are a friend of course...~p~Give us your name?"
+  "We are in awe! ~player_creature_name~ strides among the stars like a race of giants!~p~We are the ~race~! We believe that the universal currency is happiness, and that the best way to achieve happiness is through free and unencumbered trade, in which each party agrees on the exchange and is made happier by the result!~p~How can we make you happy? Perhaps you would like to pass your eyes across the items in our emporium?"
+ Shaman (Annoyed)
+  "We want to finish this conversation business before your bad karma drops an anvil on your head."
+  "Your aura is so... hostile. Removing you would abolish a major source of bad vibrations."
+  "All you did was show up, and now all our clairvoyants are chanting, 'Kill, kill!'"
+ Shaman (Neutral)
+  "Friend. Who goes there?"
+  "A new galactic presence is felt. Welcome.~p~What are you called?"
+  "Your shape is unfamiliar, friend.~p~By what are you known?"
+ Warrior (Annoyed)
+  "Pay no attention to the many large weapons pointed directly at your brain. They are here for your protection."
+  "State your case for continued existence."
+  "The ~race~ are a reasonable people. We reason that your species might soon be crushed beneath our military might."
+ Warrior (Neutral)
+  "Halt. Identify yourself."
+  "You stop. Give name."
+  "Alien, who is you?"
+  "What!? What do you want?~p~It seems like there's always some new galactic whippersnapper buzzin' in our ear, wantin' to make contact with the ~race~.~p~Well, fine, but you listen good: you stay off our lawns!~p~And any Frisbees we find there, we're keeping!"
+ Grob
+  "Identify yourself."
+  "Identify."
+  "Ship unknown. Identify."
+ Response 1
+  "I am from the ~player_creature_name~. I come in peace."
+ Response 2
+  "Behold! I am from the great and mighty planet ~player_homeworld~."
+ Response 3
+  "Call off your fighter before I blast it into pieces."
+ Response 4
+  "Wait! Perhaps some money could end this war."
+ Response 5
+  "I'll see you on the galactic battlefield!"
+
+First greetings after uplift:
+ Diplomat
+  "We humbly thank you for sharing your technology with us and advancing our society. We hope our empires can share this galaxy in peace. "
+ Ecologist
+  "We sense much good in you. Good luck in your travels and we hope that our Empires can live as one within the galaxy. "
+ Bard
+  "Who would have thought leaving the holiday lights on a month too long would lead to this.~p~Thanks for advancing our primitive society."
+ Zealot
+  "Praise Spode! Time to start spreading the word across the galaxy."
+ Scientist
+  "It was only logical that at some point our race would evolve into a space faring empire. We thank you for your contribution. "
+ Trader
+  "Our race thanks you for your kindness. We can now market our goods galaxy wide. "
+ Shaman
+  "Thank you for helping us transcend to the next level of physical and spiritual being. "
+ Warrior
+  "We hold much respect for you for your actions.~p~We have much work to do. Building a large fleet to secure our place in the galaxy doesn't happen over night. "
+ Grob
+  "These actions do not compute. "
+ Response 1
+  "On behalf of the Galactic Community, I welcome you to Space."
+
+New colony greetings:
+ MySpecies
+  "Greetings Captain. Your colony on planet ~planet_name~ is up and running!~p~It's a pleasure to speak to you directly."
+  "Hail Captain! We have arrived on planet ~planet_name~ safely and are starting the unpacking process.~p~We're eager to start our Spice mining operation. As you know, if you invest in adding more buildings to the colony, it would help increase productivity. "
+  "Greetings Captain! Planet ~planet_name~ appears to be a fine place to start a colony.~p~We look forward to serving you and our Empire. "
+  "Good to hear from you Captain! Our colonizing operation appears to be going well on planet ~planet_name~.~p~Feel free to add more buildings to increase our productivity. "
+  "Good day Captain! It appears you have made an excellent choice of planets to colonize.~p~Planet ~planet_name~ will be an excellent location to mine spice and establish a foothold in the galaxy. "
+ Response 1
+  "Congratulations, Colony of ~planet_name~! May our Empire continue to grow and prosper."
+
+Player introduces self politely:
+ Diplomat
+  "The Grand Council hopes for a constructive dialog. "
+  "We hope that a state of peace will always exist between our species. "
+ Ecologist
+  "We are all humble before the magnificent instrument that is Nature."
+  "May all your worlds be fruitful! "
+ Bard
+  "And as for us, we're not humble at all!"
+  "...and you have so much to be humble about! Just kidding. Really."
+ Zealot
+  "Humility is the first step to becoming a follower of Spode!"
+  "The only true peace is the peace that Spode gives to his believers."
+ Scientist
+  "We hope for a productive exchange of information."
+  "Let us reason together."
+ Trader
+  "If you're peaceful, we won't sell you weapons unless you insist!"
+  "Beings of your magnificence are surely prepared to spend magnificently!"
+ Shaman
+  "All beings of true spiritual worth wish for nothing more than peace, harmony, and a distant chorus of angel voices."
+  "Humility is the largest lily pad on the pond of wisdom!"
+ Warrior
+  "It is well that you approach us with humility, stranger."
+  "As long as you retain your humility, we will have little to quarrel about."
+ Grob
+  "You will remain peaceful until we order you to war with our enemies."
+  "It is well that you recognize our superiority."
+ Response 1
+  "It is an honor."
+
+Player introduces self boastfully:
+ Diplomat
+  "Greatness is achieved only by service to a higher ideal than the self."
+  "Boastfulness is a quality unsuited to a diplomat."
+ Ecologist
+  "That may be possible, but even so you are only an expression of the Universal Life Web."
+  "Civilizations come and civilizations go, but Nature remains."
+ Bard
+  "If you're so great, how come we never heard of you?"
+  "You may be great, but you're wandering lost in a town full of frowns!"
+ Zealot
+  "Any greatness you possess is but a mere reflection of the greatness of Spode."
+  "You are animated dust. Only Spode is great. "
+ Scientist
+  "Does the data support that claim?"
+  "Who besides you says that you're so great?"
+ Trader
+  "If you're so great and powerful, you'll want to spend lots of money in our emporium!"
+  "We agree that you're absolutely tremendous! Will you spend money now?"
+ Shaman
+  "Boastfulness is a characteristic of the spiritually unevolved."
+  "Our clairvoyants knew you were going to say that."
+ Warrior
+  "Perhaps one day this greatness shall be tested."
+  "We look forward to a demonstration of this so-called greatness."
+ Grob
+  "We have encountered many civilizations that claimed greatness, and we have crushed them all."
+  "On the contrary, you are nothing"
+ Response 1
+  "I'm not as small as you think. But let's continue..."
+
+Player introduces self angrily:
+ Diplomat
+  "The Grand Council has every right to protect its citizens."
+  "You have not yet achieved a status sufficient to give us orders."
+ Ecologist
+  "We act as we see fit within our own territory."
+  "We do not recall inviting you here."
+ Bard
+  "~player_title~ seems a little petulant today, don't you think?"
+  "Our weapons are tracking your every move, but only because we like you!"
+ Zealot
+  "We stand alert to guard Spode's People from unbelievers."
+  "Speak more respectfully before the followers of Spode!"
+ Scientist
+  "It is illogical to expect us to obey your orders."
+  "Your pointless aggression is the sign of an inferior intelligence."
+ Trader
+  "Just buy some stuff and leave, will you?"
+  "Any unpleasantness from you, and we'll close the emporium!"
+ Shaman
+  "Why the belligerent aura, pilgrim?"
+  "Chant with us, and be prepared to turn that frown upside-down!"
+ Warrior
+  "If you wish a test of skills, let it begin now."
+  "It is a poor guest who threatens his host."
+ Grob
+  "Your threats mean nothing. "
+  "If you wish to commit suicide, we will be happy to assist."
+ Response 1
+  "I sense some tension here. But let's continue..."
+
+Greetings:
+ Homeworld
+  "Hail Captain ~player_creature_name~! Your home world of ~race_homeworld~ welcomes you with open arms.~p~I expect your journeys have produced quite a few tall tales. The whole of ~race_homeworld~ awaits news of your adventures. Please, tell us all you have seen and done."
+ Colony
+  "Well, lookit that. It looks like our favorite explorer has come a-callin'. It's always great to see a fellow ~player_creature_name~ way out here in the colonies. I hope you brought your appetite, 'cause we aim to fix you up a mess o'grub!"
+ Diplomat (Furious)
+  "The Grand Council graciously considers ~player_title~'s petition for capitulation. "
+  "In order to explore all possible avenues for peace and security, the Grand Council gives ~player_title~ license to address us."
+ Diplomat (Annoyed)
+  "Has ~player_title~ come to a realization of the terrible consequences of your actions?"
+  "The ~race~ stand fast against the aggression of ~player_title~. Talk quickly."
+  "The Grand Council views ~player_title~ with suspicion. What do you want here?"
+ Diplomat (Neutral)
+  "The Grand Council views ~player_title~'s arrival with interest."
+  "Please state the reason for ~player_title~'s visit to the ~race~."
+  "The Grand Council wishes to know ~player_title~'s purpose here."
+ Diplomat (Pleased)
+  "In the name of the Grand Council, we greet our friend, ~player_title~."
+  "The Grand Council is pleased to welcome ~player_title~ to the home of the ~race~."
+  "The Grand Council is pleased to greet its friend, ~player_title~."
+  "Ahh, it's always a pleasure to receive a visit from one of our interstellar comrades.~p~How goes it?"
+  "In the name of the Grand Council, we greet you."
+ Ecologist (Furious)
+  "We are at war. Be thankful ~player_title~ still lives, and state your business."
+  "Has ~player_title~ reconsidered your policy of viciousness and aggression?"
+ Ecologist (Annoyed)
+  "~player_title~, make this quick."
+  "Kindly provide a justification for ~player_title~'s presence."
+  "Is ~player_title~ here to learn proper behavior?"
+ Ecologist (Neutral)
+  "Hello. The ~race~ recognize ~player_title~. "
+  "Greetings. We hope ~player_title~ will be brief."
+  "We hope this discussion with ~player_title~ will help to serve nature."
+ Ecologist (Pleased)
+  "Greetings, Child of Nature. We are pleased to see our friend, ~player_title~."
+  "Welcome to our sylvan abode, ~player_title~."
+  "~player_title~ is welcome to join us in our worldly paradise."
+  "Greetings, Child of Nature."
+  "We surrender! Please! We...~p~Oh, hey, everyone! Look! It's ~player_creature_name~! What a relief! We thought maybe we were possibly under attack, so we thought it best to capitulate pre-emptively.~p~It's okay, everyone! Looks like we're not being enslaved after all. Carry on."
+  "Oh dear, ~player_creature_name~.~p~You'll have to forgive us. Last week, all of ~race_homeworld~ came down with hysterical pregnancies. So, we've been busy sorting out that mess..."
+ Bard (Furious)
+  "Your violence is both useless and tedious in the extreme. And to think we once thought ~player_title~ was cute! "
+  "If ~player_title~ surrenders, we could all have a big party!"
+ Bard (Annoyed)
+  "It's the boring old ~player_title~! Who let ~player_title~ in?"
+  "Is it the ~player_title~, or has the headache come back?"
+  "Here you are... just in time for us to appoint you the honorary subject in our Festival of Humiliations! Stick around and we'll send you some ripe garbage to get started."
+  "Hey, it's our old nemesis, ~player_creature_name~! I was just thinking about your rotten carcass, and now here you are. Perhaps I am evolving psychic abilities. Let me see if I know what you're thinking now...~p~Hey, that's rude! You're a jerk!"
+ Bard (Neutral)
+  "We think we've seen ~player_title~ before. Or maybe it was someone else equally bland."
+  "Hello! We hope that ~player_title~ will amuse us today."
+  "~player_title~ is an odd creature, but oddly endearing. Maybe this visit will be fun."
+ Bard (Pleased)
+  "The ~race~ find ~player_title~'s antics an endless source of amusement! Welcome!"
+  "It's the cute little ~player_title~ come back! We can have fun playing with the cute little ~player_title~!"
+  "Your civilization is all grown up! Little ~player_title~ should be proud!"
+  "Are you ready to be eaten yet?"
+  "Well met, ~player_creature_name~! The ~race~ find you hearty and hale, no doubt? You must regale us with your many travails of derring-do and gallantry among the stars! We hang on your every breath! Our own tales will seem as bromides by comparison!"
+  "Hark! From the very periphery of the Hubble volume itself, our noble hero from afar returns! How goes it? Do tell! Soon, all of ~race_homeworld~ shall be abuzz with stories of your exploits among the stars!"
+ Zealot (Furious)
+  "~player_title~ wars against Spode himself! Accept Spode or die!"
+  "~player_title~'s extinction will serve Spode's Holy Plan!"
+  "The Warriors of Spode will hold their fire for only a short time. Be brief."
+ Zealot (Annoyed)
+  "Beware, lest Spode unleash his wrath."
+  "~player_title~ comes from outer darkness to seek the Light of Spode?"
+  "The servants of Spode are busy. Be quick."
+ Zealot (Neutral)
+  "Greetings. The servants of Spode wonder what has brought ~player_title~ here."
+  "Hello. Spode requires that we offer hospitality even to unbelievers."
+  "Spode is the source of all hope. ~player_title~ would do well to listen to the Word of Spode. "
+ Zealot (Pleased)
+  "Greetings to our friend ~player_title~. Welcome in Spode's name."
+  "We hope the servants of Spode may help ~player_title~."
+  "Is ~player_title~ ready to hear the Word of Spode?"
+  "I greet you in Spode's name."
+ Scientist (Furious)
+  "We'd like to see your head in a jar of formaldehyde!"
+  "Get out the dissecting knives! The guest of honor has arrived!"
+  "Let's just shoot first and reason afterward."
+ Scientist (Annoyed)
+  "Can ~player_title~ give us a reason not to dissect you immediately?"
+  "We are reasoning beings. ~player_title~, however, we're not sure about."
+  "Your species is a perfect argument against intelligent design."
+ Scientist (Neutral)
+  "We hope ~player_title~ is capable of intelligent conversation."
+  "The ~race~ stand for reason and the advancement of knowledge. Does ~player_title~ stand for anything in particular?"
+  "We are having a hard time fitting ~player_title~ into our taxonomy. Do you happen to know your phylum?"
+ Scientist (Pleased)
+  "Welcome, friend ~player_title~. Let us reason together."
+  "How may the ~race~ aid its friend ~player_title~?"
+  "We are met in the light of knowledge. Speak freely, ~player_title~."
+  "Let us reason together."
+ Trader (Furious)
+  "We're at war! The boutique is closed!"
+  "No matter how much ~player_title~ begs, we won't sell you things until you surrender!"
+  "We are a peaceful people, but when aroused we are fierce!"
+ Trader (Annoyed)
+  "We hope that ~player_title~ is prepared to spend lots of money."
+  "We are willing to trade even with the likes of ~player_title~."
+  "You honor us with your presence. Now that we've been honored, will ~player_title~ go away?"
+ Trader (Neutral)
+  "We hope your splendor comes prepared to boost our economy."
+  "The ~race~'s bazaar is closed for the moment, but we suppose we could open it if ~player_title~ promised to buy something."
+  "Our delight in your presence is matched only by our hopes that ~player_title~ will visit our boutique."
+ Trader (Pleased)
+  "~player_title~ is rivaled in appearance only by the sun in splendor! Welcome! We regret that our emporium cannot equal your glory, but we hope you take a look at it anyway."
+  "Your appearance is glorious, marred only by the lack of accessories. Perhaps we could sell ~player_title~ some?"
+  "Ahh, my friend! I was wondering where that devilishly handsome galactic hero had gone off to. Have you lost weight? Are you working out? You look fabulous. Supple.~p~You should come by more often. The ~race_homeworld~oids make a great stir-fry. We'll have you over sometime! "
+  "It's so lovely to see you again. It's a true delight for all of ~race_homeworld~ to deal with someone of your poise and station! You honor us with your presence... and those steely good looks! That's right - I'm comfortable enough with myself to say it! "
+  "Greetings! Once again our eyes feast upon your magnificence. How can we make ~player_title~ happy?"
+ Shaman (Furious)
+  "Your vibrations are disharmonious. Speak quickly!"
+  "Has ~player_title~ come to surrender?"
+ Shaman (Annoyed)
+  "It takes generations of bad karma to produce someone like ~player_title~. "
+  "If you intend to impose a materialist lifestyle on us, you're sadly mistaken."
+  "There is a special abyss in the afterlife reserved for those such as ~player_title~."
+ Shaman (Neutral)
+  "Hello, ~player_title~, may we rectify your spirits?"
+  "~player_title~ has interrupted our aromatherapy session. But now that you're here, I suppose we can talk."
+  "We are all made of star-stuff. Even ~player_title~. "
+ Shaman (Pleased)
+  "The ~race~ send you greetings, wanderer! ~player_title~, we perceive your benevolent aura."
+  "How are you, friend ~player_title~? May we balance your yin and yang?"
+  "Greetings, seeker ~player_title~. The ~race~ are pleased to greet you."
+  "Child of Eternity, we perceive your aura."
+ Warrior (Furious)
+  "Your pleas for mercy are unlikely to be answered."
+  "An abject surrender may prove your best option."
+  "When the beasts of war are unleashed, it is nearly impossible to recall them."
+  "Puny, ~player_creature_name~! You and your people shall soon know what it is to live your lives under the jackboots of the mighty ~race~! All you know shall be as dust! We will destroy you all!"
+ Warrior (Annoyed)
+  "The flame of your species flutters in the wind, and may soon die."
+  "We stand ready to crush ~player_title~ as if you were a meddlesome insect. Perhaps you have a reason why this should not occur?"
+  "Has ~player_title~ come to beg our aid?"
+ Warrior (Neutral)
+  "The light of your species is not yet extinguished, we see."
+  "~player_title~ has come again to our security zone. We will restrain our curiosity concerning the reason."
+  "~player_title~ has returned. We assume you require our aid."
+  "Ehhh? Who's there? No solicitors!~p~Oh. You again. The ~race~ doesn't like you.~p~Course, we don't like no one. At least we know you, so I guess you're ahead of the game there. Well? What do you want?"
+ Warrior (Pleased)
+  "We see that ~player_title~ prospers, like a vine wrapped around a strong tree. The ~race~ are the tree. You are the vine."
+  "We welcome the honorable ~player_title~ to our security zone. "
+  "~player_title~ has dealt with the ~race~ in honor. Therefore we honor you with our welcome."
+  "Hmmm, what? I seem to recall you dimly. I know you're no threat, but that's about the nicest thing I have to say about you. Was there something you wanted? We probably won't help, but it don't cost nothin' to ask..."
+  "The light of your species is not yet extinguished, we see."
+ Grob (Furious)
+  "The Grox will exterminate you. "
+ Grob (Annoyed)
+  "~player_title~ has made a fatal error."
+ Grob (Neutral)
+  "Make your case."
+  "Phzzzzzp. Scanning...~p~Scanning...~p~Entity identified: ~player_creature_name~~p~Threat Status: Low.~p~Likes/Dislikes: IRRELEVANT! IRRELEVANT!"
+  "Grox says 'Hello'... again."
+ Grob (Pleased)
+  "~player_title~ may now attempt to justify your continued existence."
+  "Bzzzzzt. Object identified: ~player_creature_name~. This entity is already known to The Grox. Designation: Banal. Thank you for visiting. End."
+  "You may now attempt to justify your continued existence."
+ Response 1
+  "Greetings ~race~. A pleasure to see you."
+  "Greetings. Nice to see you."
+  "Starship ~ufo_name~ requesting permission to orbit."
+  "Salutations! There is something I'd like to discuss..."
+  "Thank you for receiving me. "
+ Response 2
+  "I forgot what I was gonna say."
+  "I think we're done here. Bye."
+  "Oops, sorry. Wrong alien."
+  "Never mind. I have to go."
+  "Oops. Wrong number."
+ Response 3
+  "Wait! Perhaps some money could end this war."
+ Response 4
+  "I'll see you on the galactic battlefield!"
+  "Bigfatstupidaliensayswhat?"
+
+Greetings after player dies:
+ MySpecies
+  "Eeghad! The galaxy appears to be a dangerous place.~p~Try to take care of this ship, they're not cheap. "
+  "Hey Captain! Did you make a wrong turn and find yourself in a bad part of the galaxy?~p~Enjoy the new ship smell. "
+  "Gadzooks! You really took a beating out there.~p~The Empire acknowledges your bravery. "
+ Response 1
+  "Bring it! I'm ready for more."
+
+Greetings after meeting Grox:
+ MySpecies
+  "You met the Grox? And you're alive to tell the story.~p~All ~player_creature_name~ will sing your praise.~p~We'll need to destroy the Grox, if we're ever to find out the secrets that lie at the center of the galaxy. "
+ Diplomat
+  "You've visited the Grox? That means they must be close.~p~We must alert the Galactic Council at once.~p~They must be protecting something at the center of the galaxy."
+ Ecologist
+  "Some friends told us you visited the Grox on one of their colonies. Is that for real?~p~That's like totally insane and far out at the same time.~p~We encountered them once on a trip to the center of the galaxy. They're not natural. "
+ Bard
+  "Good Groxily moxily, you met the Grox and are still in one piece.~p~Don't bring any of your robotic freak friends to any of our planets.~p~I hope they just stay at the center of the galaxy where they belong."
+ Zealot
+  "Spode has prophesized that one day a great hero will emerge to vanquish the Grox.~p~~player_creature_name~ may very well be that hero, after your encounter with the Grox.~p~The prophecy ends at the center of the galaxy."
+ Scientist
+  "~player_title~ ~player_creature_name~, our data recorders show you've encountered the Grox.~p~We too have been studying them and the mysteries that surround the center of the galaxy.~p~Good luck with your research. "
+ Trader
+  "Now you've done it. You visited a Grox occupied planet and then came here?~p~We'll need to close our shops early. There is sure to be trouble coming.~p~Traveling that close to the center of the galaxy is dangerous."
+ Shaman
+  "An encounter with the Grox cannot be good for one's spirit.~p~You should sit in the Pools of Cleansing to rid yourself of such negative energy.~p~Ah, the secrets they must hold about the center of the galaxy."
+ Warrior
+  "We ~race~ are honored to be in the presence of one so great.~p~It is said that ~player_creature_name~ has visited Grox worlds and is fearless.~p~To really prove one's courage, ~player_creature_name~ should try visiting the center of the galaxy."
+ Grob
+  "STATUS REPORT: Contact made."
+ Response 1
+  "Hmmm, maybe I will go to the center of the galaxy."
+
+Greetings after player is killed by Grox:
+ MySpecies
+  "Ouch! The Grox appear to be as strong and dangerous as rumored.~p~Be careful out there, Captain."
+  "Jeepers! The Grox appear to show no mercy, Captain.~p~We commend your heroism. "
+  "Good Googly Moogly! These Grox are tough.~p~Captain, your bravery does not go unnoticed here. "
+ Response 1
+  "Bring it! I'm ready for more."
+
+Main menu:
+ MySpecies
+  "Yes, Captain? How may we assist you?"
+  "Yes, Captain. What can we do for you?"
+  "Yes, Captain. How may we help?"
+ Diplomat
+  "Now that all things are in order, please state your business."
+  "The Grand Council is ready to receive your request.."
+ Ecologist
+  "Peace and light. What is your wish?"
+  "Take your time... enjoy the waves of the galactic flow...~p~When you are ready... tell us what you need."
+ Bard
+  "Wait, wait. Let us guess what you want...!~p~Hmmmmm... is it... an umbrella??!~p~Okay, no... you go ahead and tell us."
+  "Do you want some cake? We have some cake?~p~Oh, wait... We don't have any cake.~p~Hmmm...~p~Hey, are you selling any cake?"
+ Zealot
+  "Speak of what thou doest desire and the followers of Spode will listen."
+  "For it is written in the Scrolls of Faith, 'Reject ye not the traveler, until you know their purpose.'~p~What is your purpose?"
+ Scientist
+  "~player_title~ ~player_creature_name~. It is only reasonable to argue that if you don't tell us what you want, we won't be able to help you."
+  "~player_title~ ~player_creature_name~. State your purpose of visit."
+ Trader (Not At War)
+  "Yes, yes! Happy to help, happy to help. What can we do for you?"
+  "Please tell us how we can make your visit more comfortable.~p~We are more than happy to assist you any way we can."
+ Trader
+  "What is the business that you have with us?"
+ Shaman (Not At War)
+  "Noble ~player_creature_name~. What would you request of us this day?"
+ Shaman
+  "Noble ~player_creature_name~. Speak to us of your request."
+  "Noble ~player_creature_name~. Would you tell us what you desire?"
+ Warrior (Not At War)
+  "What do you want? Be quick and do not waste our time."
+ Warrior
+  "Speak then. What do you want."
+  "We await your briefing."
+ Grob (Not At War)
+  "Fzbzzork.~p~Input purpose of visit."
+ Grob
+  "Tell us your business."
+  "Speak."
+
+Empire offers gift:
+ Diplomat
+  "The Grand Council has decided that you are worthy of a Friendship Grant of ~cost~. "
+  "We treasure your friendship. Please accept a gift of ~cost~."
+  "The Grand Council is pleased to present you with a gift of ~cost~."
+ Ecologist
+  "We are pleased to award you the Ecological Awareness Prize of ~cost~."
+  "We hope you will accept this gift of ~cost~."
+  "Please take this gift of ~cost~. We hope you will use it to advance the Universal Life Web."
+ Bard
+  "We're totally bribing you now! Please take ~cost~!"
+  "You're so terrific, we're going to give you ~cost~ for no reason whatsoever!"
+  "Please accept this gift of ~cost~. No strings attached. Really!"
+ Zealot
+  "We hope you will accept this gift of ~cost~ from Spode's Children."
+  "Spode commands us to charitable work. Please accept this ~cost~."
+  "Spode's Children value your friendship. Please accept this gift of ~cost~."
+ Scientist
+  "Our analysts suggest you may be inclined to view us favorably if you are offered gifts. Here is ~cost~."
+  "We feel that you might be able to make rational use out of ~cost~."
+  "We feel your economy will be enhanced by a gift of ~cost~."
+ Trader
+  "Your number came up in our Lucky Lottery! You win ~cost~!"
+  "Your magnificence leaves us breathless. Please take ~cost~ and adorn yourself! "
+  "Please take advantage of our special rebate program, and accept ~cost~!"
+ Shaman
+  "Our wealth has become a karmic burden. Please take ~cost~ off our hands."
+  "You've won a grant to purchase incense, exercise mats, and special meditation crystals! Please accept ~cost~!"
+  "Both of us walk the path to spiritual Oneness. Please accept a gift of ~cost~."
+ Warrior
+  "Please take this ~cost~, and buy some guns. We worry about you."
+  "We wish to enhance your security. Please take ~cost~."
+  "Our mutual security would be heightened if you would accept this ~cost~."
+ Grob
+  "Take this ~cost~. It is not for you to understand why."
+  "Take ~cost~. You are now obligated to us."
+  "We find ourselves with a supply of useless money. You might as well take ~cost~ off our hands."
+ Response 1
+  "Close Transmission"
+
+Empire demands tribute:
+ Diplomat
+  "The Grand Council demands ~cost~. Refusal will be taken with extreme seriousness."
+  "The Grand Council requires ~cost~ in order to better protect your civilization."
+  "The Grand Council insists on an immediate non-refundable payment of ~cost~."
+ Ecologist
+  "Repairing the damage you have caused to the Life Web will cost ~cost~. Pay immediately."
+  "You will pay us ~cost~ or suffer the consequences."
+  "The less money you have, the less damage you can do to the environment. Therefore pay us ~cost~."
+ Bard
+  "We think you're a lot more winsome when you're poor! Give us ~cost~ right away!"
+  "We want 'a piece of the action.'  'Hand over' ~cost~ or we will 'let you have it.'~p~Did we say that right?"
+  "Give us ~cost~, or we'll commence the Festival of Blowing Up the Spleens of Foreigners!"
+ Zealot
+  "The Children of Spode demand a tithe of ~cost~. Pay at once, or suffer Spode's wrath."
+  "Only a gift of ~cost~ can prevent a War of Spodification! Pay at once!"
+  "We have inaugurated an Unbeliever Tax of ~cost~. Pay immediately."
+ Scientist
+  "We feel it only logical that a backward civilization such as yours pay us ~cost~, or else suffer serious consequences."
+  "Our analysis shows that you can spare ~cost~ right now. Pay up."
+  "Pay us ~cost~, or the consequences will be incalculable!"
+ Trader
+  "Did we forget to add the sales tax? Pay us ~cost~, or we'll have to turn the bill over to our extremely well-armed Collection Agency."
+  "We need an interest-free, non-refundable loan right now, so we think you should pay us ~cost~.  Right away.  Or else."
+  "You haven't been buying enough stuff at our boutique, so we're just sending you a bill for ~cost~.  If you don't pay, we'll start looting and shooting!"
+ Shaman
+  "It's up to less Enlightened species to support those of us with spiritual superiority! Pay us ~cost~, or the Karma Police will send you to your next incarnation!"
+  "We need to build new pyramids to generate psychic power, and they're going to set us back ~cost~. Pay us this sum, or we'll build the pyramids on your graves!"
+  "Your negative karma is keeping us from advancing to the next plane! Give us ~cost~ Sporebucks, or we'll eradicate your karma and you with it!"
+ Warrior
+  "For guaranteeing your future security, you will now pay us ~cost~. "
+  "Pay us ~cost~, and maybe we'll turn our new advanced weapons systems on someone else."
+  "Your insignificant civilization is of no use except as a source of cash. Pay us ~cost~, or learn to regret your very existence."
+ Grob
+  "We have need for money to bribe another civilization into acts of self-destruction. Pay us ~cost~."
+  "Give us ~cost~. Disobedience is not to be contemplated."
+  "Wealth in your civilization equals power. We want you weak. Pay us ~cost~."
+ Response 1
+  "Send Funds"
+ Response 2
+  "Funds Unavailable"
+ Response 3
+  "Ignore Demands"
+
+Greetings after Galactic Core (?):
+ MySpecies
+  "Woohoo! You started your journey as a greenhorn Captain and now you're a ~player_title~. ~p~This is truly a joyous time for all ~player_creature_name~.~p~Use your new powers wisely. "
+ Diplomat (Annoyed)
+  "The Grand Council will resist if you use your newfound powers to establish dominion."
+ Diplomat (Neutral)
+  "The Grand Council asks you to use your newly-discovered powers in order to establish peace, security, and well-being throughout the galaxy."
+  "Our friend ~player_title~ has completed a long quest for meaning."
+  "We see that ~player_title~'s journey has reached a transcendent climax. The Grand Council is willing to advise, but we realize that our perspective is limited."
+ Ecologist (Annoyed)
+  "Despite the increase in your powers, the ~race~ will still fight to protect the Universal Life Web!"
+ Ecologist (Neutral)
+  "Welcome. We see you have become the God That Has Come. We hope that you will use your powers in order to spread the seeds of abundant life throughout the galaxy."
+ Bard (Annoyed)
+  "~player_title~ may have new toys, but you're still the same boring old you."
+ Bard (Neutral)
+  "You're all super-awesome now! The galaxy is going to be more interesting with the likes of you around!"
+  "Hello! Was the center of the galaxy fun? Should we build a resort there?~p~We see that you're all super-awesome now! The universe is going to be more interesting with the likes of you around!"
+  "Wow, you've got all godlike and stuff. How little ~player_title~ has grown up!~p~Now that you've got all these nifty new abilities, we hope you'll use them in an amusing way."
+ Zealot (Annoyed)
+  "You have committed the final blasphemy by transforming yourself into the God That Will Come! Beware the wrath of Spode!"
+ Zealot (Neutral)
+  "The source of your divine powers are of interest to us. Perhaps Spode has given them to you?"
+  "The followers of Spode cannot accept your divinity. But perhaps we can come to some other arrangement."
+ Scientist (Annoyed)
+  "If you use these new powers to bring about a dark age, we will resist you!"
+ Scientist (Neutral)
+  "The objective evidence suggests that you have acquired godlike powers.~p~We hope you will use these powers in a peaceful search for meaning and objective truth."
+  "Our scans show that you have acquired astounding abilities. Let us come to a reasonable agreement on how best to deploy your new talents."
+ Trader (Annoyed)
+  "Despite your great powers, we still won't sell you anything unless you pay for it."
+ Trader (Neutral)
+  "Your magnificence is unparalleled! The techniques and abilities you have brought with you from the galactic center are astounding!~p~I don't suppose any of them are for sale?"
+  "We welcome our friend after the epic journey to the center of the galaxy! We always knew you had the potential to become a deity!~p~And in honor of your magnificence, we're putting special prices on everything in the bazaar!"
+ Shaman (Annoyed)
+  "Your vibrations are uniformly hostile. Stay away!"
+ Shaman (Neutral)
+  "Welcome. Your waveform is godlike. Command, and we shall obey."
+  "Greetings. You have made the Journey and achieved the Final Transcendence. How may we serve you?"
+  "Your long journey has borne fruit! Welcome to the ~race~.~p~We are pleased to hope that your newfound powers may at last rid the galaxy of the Grox!"
+ Warrior (Annoyed)
+  "If you attack us, we will resist to the utmost!"
+ Warrior (Neutral)
+  "You have returned from an epic journey with astounding new abilities.~p~Take care that your newfound powers do not cause you to overreach. Though we wish you no harm, we are willing and able to defend ourselves."
+  "The abilities you acquired as a consequence of your journey are astounding. They give you vast power.~p~Therefore, we are willing to treat you as equals."
+ Grob (Annoyed)
+  "Do you think your new powers are any match for The Grox? Prepare for termination. "
+ Grob (Neutral)
+  "We see that you have become what machines may not.~p~If you attempt to extinguish us, we will resist."
+ Response 1
+  "Greetings ~race~. A pleasure to see you."
+  "Greetings. Nice to see you."
+  "Starship ~ufo_name~ requesting permission to orbit."
+  "Salutations! There is something I'd like to discuss..."
+  "Thank you for receiving me. "
+ Response 2
+  "I forgot what I was gonna say."
+  "I think we're done here. Bye."
+  "Oops, sorry. Wrong alien."
+  "Never mind. I have to go."
+  "Oops. Wrong number."
+ Response 3
+  "Perhaps some money could end this war."
+ Response 4
+  "I'll see you on the galactic battlefield!"
+  "Bigfatstupidaliensayswhat?"

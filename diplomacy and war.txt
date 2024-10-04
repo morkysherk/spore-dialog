@@ -1,0 +1,1569 @@
+Diplomacy menu:
+ Diplomat (Allied)
+  "The Grand Council welcomes our gracious ally's suggestions. "
+  "We are always delighted to hear from our ally."
+ Diplomat (Not Allied)
+  "The Grand Council welcomes the suggestions of its friend."
+  "~player_title~ is welcome to offer suggestions for an improvement in relations."
+ Diplomat (Annoyed)
+  "While the Grand Council is willing to listen to any suggestions, their patience is not unlimited."
+  "Please be brief. The Grand Council has a full agenda for today."
+  "The Grand Council is too busy to see you. You may speak into this little grill, and someone will eventually listen."
+ Ecologist (Allied)
+  "Our friend and ally is welcome to speak to us."
+  "Your arrival was eagerly anticipated. Please let us know how we can help you."
+ Ecologist (Not Allied)
+  "We welcome the suggestions of our friend from afar."
+  "We are pleased to see ~player_title~, and to hear your proposals."
+ Ecologist (Annoyed)
+  "Talk fast. We have seedlings to plant."
+  "We'll listen, but we can't guarantee any more than that."
+  "You presume to address us? We will not forbid you to speak."
+ Bard (Allied)
+  "We bask in the warmth of your conversation!"
+  "You're always welcome to come here and entertain us!"
+ Bard (Not Allied)
+  "It's our space-buddy! How can we help you?"
+  "Relax and we'll talk!"
+ Bard (Annoyed)
+  "What? Are you here again?"
+  "Make it brief. Your babbling hurts our ears."
+  "Oh look! It's a teeny-tiny little emissary from a teeny-tiny little civilization! Does it have something to say?"
+ Zealot (Allied)
+  "Our ally unites with us in advancing Spode's work! How may we help you?"
+  "Spode blesses this meeting! Can we aid you in any way?"
+ Zealot (Not Allied)
+  "We welcome you in the name of Spode. Can we be of assistance?"
+  "We hope for an improvement in our relations. Let us ask Spode for a blessing."
+ Zealot (Annoyed)
+  "Spode's business is pressing. Keep it short."
+  "We will listen even to unbelievers. At least for a while."
+  "Why should Spode's Holy Warriors permit a nonbeliever to address them?"
+ Scientist (Allied)
+  "Please tell us how we may assist you."
+  "We welcome our ally, and seek your guidance."
+ Scientist (Not Allied)
+  "We are pleased to welcome our friend, and will listen to your counsel."
+  "We are pleased to add your input to our throughput. "
+ Scientist (Annoyed)
+  "We trust you will not treat us to the unhinged babblings of an inferior intelligence."
+  "We'll listen to you, but we advise you not to unpack your bags."
+  "Objective evidence suggests that our civilization is far more vast and powerful than yours. Be thankful we're listening, if only for a brief time."
+ Trader (Allied)
+  "A visit from our glorious ally is always a cause for celebration! How may we help you?"
+  "We welcome our honorable ally to the ~race~. May we help you?"
+ Trader (Not Allied)
+  "How delightful that our magnificent friend has come to visit! What may we sell you?"
+  "You are perfection itself! How may we serve you?"
+ Trader (Annoyed)
+  "We'll listen, but we'd better get some profit out of it!"
+  "Talk away. We can always ignore you."
+  "Your civilization's purchasing power is practically nil compared with ours! Why should we market to someone as insignificant as you?"
+ Shaman (Allied)
+  "Together, we bring illumination to the galaxy. How may we assist you?"
+  "Let us speak mind to mind, spirit to spirit."
+ Shaman (Not Allied)
+  "We are pleased to participate in enlightened discourse. We are pleased to participate in enlightened discourse."
+  "Your aura is a pleasing shade! How may we help you?"
+ Shaman (Annoyed)
+  "You may feel free to spout your unenlightened drivel. We shall feel free to ignore you."
+  "Enlighten us, if you can."
+  "The superiority of our spiritual, enlightened civilization is plain. Speak quickly, before your primitive culture pollutes our minds."
+ Warrior (Allied)
+  "Our ally honors us with a visit. How may we be of service?"
+  "We welcome our honorable ally to the ~race~. May we help you?"
+ Warrior (Not Allied)
+  "We welcome ~player_title~ to our council."
+  "Our comrade should feel free to state your case. "
+ Warrior (Annoyed)
+  "The puddle may speak, but will the ocean listen?"
+  "Make your report, and we will decide."
+  "A wrong word from you, and your civilization will be destroyed."
+ Grob
+  "Speak. Be brief."
+  "Speak, if you think you can aid our objectives."
+ Response 1
+  "Tell me about your philosophy..."
+  "I'd like to know about your race..."
+ Response 2
+  "Please accept our gift so we can be friends."
+ Response 3
+  "Can you lend my fleet one of your ships?"
+ Response 4
+  "I'd like to establish a trade route with you."
+ Response 5
+  "I'd like you to attack someone for me."
+ Response 6
+  "I'd like you to attack someone for me."
+ Response 7
+  "I'd like to purchase this star system."
+ Response 8
+  "I'd like to end our trade route."
+ Response 9
+  "An alliance would make both our empires mightier, yes?"
+  "Perhaps an alliance would benefit us both."
+  "Our people would prosper more from working together."
+  "I think we should form an alliance."
+ Response 10
+  "You know that alliance of ours? Well... psych!"
+  "We no longer choose to recognize our alliance. "
+  "This alliance is over. See ya, wouldn't wanna be ya!"
+  "Our alliance is done! Smell ya later!"
+  "This alliance is no longer beneficial for the people of ~player_homeworld~."
+ Response 11
+  "I had something else to talk about."
+
+Empire explains philosophy:
+ Diplomat
+  "We, the ~race~, subscribe to the Philosophy of Order. Visit the Grand Council and you'll see our motto etched on its doors: Peace is the child of Order and Reason. We seek to bring all nations, races, and empires to Order.~p~We offer the Super-Technology of Static Cling. This neutralizes the messy turrets of hostile cities against our Space Ships and allies, whilst we reason with their leadership."
+  "We, the ~race~ follow the Philosophy of Order. Our Councils keep the Harmony and update all the forms and Galactic Calendars. It's the way of measurable progress. Without Order, the garbage just piles up!~p~Speaking of which, we have Static Cling Super-Technology. We use this to halt the turrets of disorderly cities anywhere, so we can negotiate them into an alliance... And make sure the forms get filed on time, in triplicate."
+  "We, the ~race~ subscribe to the practice of Order. When we are not forming alliances, our Grand Council is organizing the Sub-Councils. It all fits together so neatly!~p~We offer the Super-Technology of Static Cling to halt all terrestrial turret defenses. Turrets must be silenced to form an alliance! Ahem."
+ Ecologist
+  "We, the ~race~ follow the Scrolls of Life.~p~We are the heavens, the celestial light, the stars! We are the soil, the water and the air... We believe in the harmony of the universe and everything in it. We are just part of a greater whole, we are fleeting! Soon we will tell you what awaits you if you join us..."
+  "We, the ~race~ follow the Scrolls of Life.~p~These Scrolls teach that it is incumbent upon us to preserve our natural world... To take nothing but memories from our surroundings and to plant ideas and reap peace! To sow magic, man. Soon we will tell you what awaits you if you join us..."
+  "Listen, dude, and we will tell you what's up. We, the ~race~ believe in the Scrolls of Life. We believe that you are us and that we are you and that together we are one! Man, we are one with plants and animals, stars in the heavens, clouds in the atmosphere! We even have a safari vacuum that we use to abduct plants and animals so that they can join us in the circle of life."
+ Bard
+  "We, the ~race~ adhere to the Philosophy of Chance! It is not of our choice to follow strict rules. We follow our hearts, we're jolly as fools. But don't make us cross, or sour our mood, or before you know it, you'll be our next food.~p~Soon we will tell you what awaits you if you join us..."
+  "We, the ~race~ follow the Philosophy of Chance! We don't march around aimlessly like an army of ants, nor do we all wear the same designer pants. Instead, we laugh and we sing and we all try to dance, while being very careful not to trample our plants.~p~Soon we will tell you what awaits you if you join us..."
+  "We, the ~race~ are followers of the Philosophy of Chance! Our looks may be deceiving, but we are not normally a violent and war-like species. We enjoy the finer things in life, like food and drink and laughter. Why, just last month we had some friends over for dinner from a neighboring system. They were delicious!~p~Soon we will tell you what awaits you if you join us..."
+ Zealot
+  "We, the ~race~ are followers of the teachings of Spode and the Philosophy of Faith! We heard about you before you arrived here and quite honestly We cannot believe that you do not believe in the beliefs that We believe in! Unbelievable! "
+  "We, the ~race~ adhere to the truth: the Philosophy of Faith! It behooves you to believe as we believe, because both you and I know that we, the ~race~ are right in what we believe! All hail, followers of Spode!"
+  "We, the ~race~ follow the one, true Philosophy of Faith! Woe be to those who do not share our beliefs in the teachings of Spode, for they are wrong in the face of all that is right. If you were to repent now and admit your wrongness, we the ~race~ may take mercy upon you and help you to see the way of the Rightness!"
+ Scientist
+  "We, the ~race~ follow the Scrolls of Science.~p~It is our duty to study, dissect and examine the universe around us. We seek knowledge and it is our fervent belief that every question can be answered with research, systematic categorization, dedication and logic. Knowledge is our fuel and there is no higher calling than learning. Those who try to prevent us from our scholarship do so at their peril."
+  "Come, my student. Learn about we, the ~race~, who subscribe to the Philosophy of Science. It is our duty to scrutinize those around us and to evaluate scientifically that which is not immediately apparent. The only truth is Science, not religion, not universality. Cold, hard fact. That is our Spode."
+  "We, the ~race~ follow the Scrolls of Science.~p~We believe that the survival of the species is based on managing risk! How do you evaluate risk? Through study, careful examination! We are not in the business of following our whims! We have the power to research all life and the power to destroy life on a planet with a single Gravitation Wave, such is our super power."
+ Trader
+  "We, the ~race~ lay claim to the often-imitated, never-duplicated Philosophy of Prosperity. I'll have you know that it's merely the finest Philosophy in all the known Universe, the unknown Universe, and everything in between. The Philosophy of Prosperity teaches us the value of loyalty, honesty, happiness, and a well-written contract. After all, not even the Tablet of Prosperity can guarantee future performance based on past results."
+  "Thanks to the Philosophy of Prosperity, we, the ~race~ love everything! We love our Empire, we love other Empires, we love happy people, we love unhappy people. But most of all we love our profit margins. And we love all the other things because they contribute to our margins!"
+  " We, the ~race~ are a simple people, concerned with simple things. There's only one care we have in the world: following the Philosophy of Prosperity. A simpler Philosophy you will never find.~p~Just between you and me, the best parts are where the Tablet of Philosophy is talking about accounting methods. Of course there's also the chapter on calculating earnings potential. And who can forget those beautiful verses on the balance of trade, and the cost-benefit analysis of limited market segmentation. Maybe my favorite chapter is the analysis of the impact of solar-localized demand fluctuation on a pan-galactic Empire.~p~But yes, as someone of your observational prowess can clearly see, we ~race~ are a simple people with simple motives."
+  "As members of the ~race~, we strongly believe in the Philosophy of Prosperity. It teaches us to mind our own business, and to mind it very well. There's no other Empire in the Universe that can compete with our levels of operational efficiency!~p~Although I must say, you look like a clever ~player_creature_name~, and I'll bet you're doing a heck of a job running your Empire, aren't you? Don't be modest, of course you are, or you wouldn't be here talking to me!~p~Only the smartest species in the Universe know to seek out the ~race~ for all their financial advisory needs. And only the smartest species in the Universe sign up for our training courses on the Philosophy of Prosperity. We also offer group discounts if you know any other Empires who want to learn the secrets of the Tablet of Prosperity. Sorry, no refunds."
+ Shaman
+  "Wise traveler. Learn all that you can, for there are many different true answers for life's questions. The beings of the ~race~ follow the Philosophy of Harmony. As such, we know that every species must find its own truth.~p~For the followers of Harmony, our touchstone is home. With our gift, we are able to teleport to our homeworld to reconnect with our terraself."
+  "We, the ~race~, follow the Philosophy of Harmony. All beings can enter this Circle and harmonize with us.~p~This has given us the power of the Return Ticket. Once part of the Harmony, and from any place in the Universe, intone the Pure Syllable, and instantly one is transported back home."
+  "We, the ~race~ are Philosophers of Harmony. Those who harmonize with us have found inner stillness where it begins: At home.~p~In addition to discovering our inner beauty, practicing Harmony grants the universal power of the Return Ticket. From all points in the Universe, those in Harmony can instantly teleport back home."
+ Warrior
+  "The ~race~ are strong and powerful. The Philosophy of Force is the only choice. All other philosophies are weak! ~p~Those that are strong enough to follow the Philosophy of Force will have the added power to call in a fighting force to attack their enemies."
+  "~player_creature_name~ want to know what makes ~race~ into ~race~.~p~It is the Philosophy of Force! How has ~race~ survived? Always, others want to fight. Always, others want to take away! It is Force that helps ~race~ against the others. When they fight, we fight back, we fight better. We stand together until the fight is won. That is ~race~! That is the philosophy of Force.~p~When you know Force, you know that one is strong, but many are stronger.~p~Force will bring you help in your fights."
+  "~player_creature_name~ ask about ~race~? ~player_creature_name~ ask about Force.~p~Force is like rock. Many storms pass over rock, but rock does not move. Rock is hard, rock is strong. Rock does not break. Other things break under rock! Rock crushes all.~p~We ~race~ are a field of rock. Always strong, and never one rock alone. If the enemy comes, we fight them together and do not break. If the enemy does not come, we bring our rock to the enemy... and crush them! That is the way of Force."
+  "Ha! ~player_creature_name~ ask questions about ~race~. ~player_creature_name~ is nervous. ~player_creature_name~ is afraid. Afraid of the ~race~! Good. All species should fear the ~race~.~p~We follow the Philosophy of Force. We are strong and mighty, and our numbers are great. Force keeps us strong and brings us victory on the battlefield.~p~Tell me, who has more power than ~race~? Sometimes, others think that they are stronger. Each time, they are wrong. There is only one species that we cannot defeat, but you are not them."
+  "We ~race~ know the Philosophy of Force. It is strength, and it is victory.~p~First, we were strongest among our neighbors. Then we were strongest in all our lands. Then we found new lands and new neighbors. We went there in great numbers, and we fought, and we were strongest there, too. And now we are the strongest of all empires... all empires but one.~p~If anyone dares challenge the ~race~, then we will fight. And we will win."
+ Grob
+  "What foolish mortal deigns to seek countenance with the all powerful and most extraordinary Grox? How dare you disgrace us with your meager and lackluster presence? We care not to breathe the self same air that you have poisoned with your noxious aura.~p~After I spend some time berating you, the expectation will be that you begin your exodus out of our system post haste. I feel the need to cleanse my very eyeball after having soiled my retina with the ghastly vision that is your form. Be gone oh foul and unsightly trespasser!~p~Don't let the gravitational pull of our planet hit you in the backside on your way out!"
+ Response 1
+  "That's fascinating! Thank you for sharing."
+ Response 2
+  "That's all I need to know. So long."
+
+Gift menu:
+ Diplomat (Allied)
+  "The Grand Council is delighted by the generosity of its ally. How far does this generosity extend?"
+  "Aid comes at a useful time! In order to know how best to employ it, we will need to know the total."
+ Diplomat (Not Allied)
+  "The Grand Council views your suggestion with interest."
+  "The Grand Council will welcome any gift, but in order to best utilize the money will need to know the total."
+ Diplomat (Annoyed)
+  "The Grand Council is not moved by fiduciary inducements, but wonders how much you will offer."
+  "Tell us how much you offer, so that the Grand Council does not waste its time."
+ Ecologist (Allied)
+  "In order to know how best to allocate this generous gift, we will need an idea of its dimension."
+  "Any contributions will be used to extend the Universal Life Web. How much did you say it was?"
+ Ecologist (Not Allied)
+  "We're interested, but we need a clearer idea of your offer."
+  "At present your offer seems a little vague. Can you be more specific?"
+ Ecologist (Annoyed)
+  "How much of your wretched money can we expect?"
+  "How much of your tainted money do you offer us?"
+ Bard (Allied)
+  "We'll pick Door Number One, ~player_title~! What do we see behind it?"
+  "We think you're wonderful, witty, and amusing! How much money do you plan to amuse us with?"
+ Bard (Not Allied)
+  "Cute little ~player_title~ has come back with pots of money! How much money do you have in the pots, ~player_title~?"
+  "You've arrived just in time for the Festival of Pointless Roistering! How many days can we afford to roister?"
+ Bard (Annoyed)
+  "Oh, look! ~player_title~ has come to bribe us! How much are you offering, ~player_title~?"
+  "Bribery is so amusing! How much amusement do you have in mind?"
+ Zealot (Allied)
+  "~player_title~ will be pleased to know that your offering will be used to fund our missionary efforts! How much of a contribution can we expect?"
+  "Any contributions will be put to good works, such as smiting our mutual enemies! How much smiting can you afford?"
+ Zealot (Not Allied)
+  "Spode's followers are pleased by any offering, and wonder about the size of your contribution to our cause."
+  "Spode tells us that generosity is one of the Exalted Virtues. Exactly how exalted are you planning to be, today?"
+ Zealot (Annoyed)
+  "The faithful of Spode are immune to bribery, but still we wonder how much our friendship is worth to you."
+  "You fail to understand that our values are moral and spiritual, not material. Nevertheless we may find something worthwhile to do with... how much did you say, exactly?"
+ Scientist (Allied)
+  "We welcome our ally, and we wonder about the nature of his gift."
+  "Our ally is wise in trusting us to put his gift to be best possible use. What was the gift, exactly?"
+ Scientist (Not Allied)
+  "We view your offer favorably, but would be interested in knowing the details."
+  "We are encouraged by your offer. How much we are to be encouraged remains to be seen."
+ Scientist (Annoyed)
+  "Primitive thinkers often believe that objective thought can be influenced by talismans such as money. "
+  "Your thinking is sadly deranged if you believe that our judgments can be swayed by... by how much exactly?"
+ Trader (Allied)
+  "We drool with delight at the appearance of our ally! What does it have in its pockets?"
+  "The appearance of ~player_title~ is sublime... perfection itself. And we know that our ally will not visit without a gift. May we help you count it?"
+ Trader (Not Allied)
+  "The glorious appearance of ~player_title~ is only enhanced by the large bundles of cash you have brought with you. How much is in the bundles, exactly?"
+  "Such magnificence! Such poise! Such intelligence! Such bulging money sacks! How many money sacks, exactly?"
+ Trader (Annoyed)
+  "Our bad opinion of you can be totally erased by a large enough contribution to our well-being! How much swag did you bring?"
+ Trader (Neutral)
+  "If you think it's possible to sway our opinion with an offer of cold hard cash, you're absolutely right! How badly do you want us to agree with you?"
+ Shaman (Allied)
+  "Your aura shows your compassionate and generous nature. How far does your generosity extend?"
+  "Surrendering attachment to material possessions is the first step on the path to wisdom. How many material possessions are you going to surrender?"
+ Shaman (Not Allied)
+  "Though we have transcended the materialist lifestyle, nevertheless we find it useful to possess some medium of exchange when dealing with unenlightened races. How much did you bring?"
+  "While our spiritual advancement is of primary concern, we nevertheless still possess material bodies that have material needs. How many of our needs are you planning to fill?"
+ Shaman (Annoyed)
+  "We reject any attempt to bring us into alignment with your materialist lifestyle. How much material did you bring, exactly?"
+  "Your crude attempt at bribery bounces off the impermeable armor of our spiritual superiority. How crude is your attempt, by the way?"
+ Warrior (Allied)
+  "Our ally is welcome among us, and your generous gift will be used to the benefit of both our species. May we count it for you?"
+  "Our ally's gift is as welcome as the first delicate flowers of spring. How many flowers, exactly, do we behold?"
+ Warrior (Not Allied)
+  "Any gift will be used to purchase many shiny weapons. How many weapons, exactly, can we add to our arsenal?"
+  "Warrior spirit, alas, is not as exportable as cash. How much cash did you intend to export?"
+ Warrior (Annoyed)
+  "As true warriors, we scorn any attempt to sway us with mere money! Tell us how much cash you brought, so that we can laugh at it!"
+  "We are amused by your presumption that we are susceptible to bribes. How large a bribe did you bring, contemptible one?"
+ Grob
+  "Apparently you failed to notice that machines have no use for money. Nevertheless we might find the cash useful in bribing greedy, short-sighted organic life-forms to destroy their own civilizations. How much did you bring?"
+ Response 1
+  "~large_gift_amount~"
+ Response 2
+  "~medium_gift_amount~"
+ Response 3
+  "~small_gift_amount~"
+ Response 4
+  "Nevermind. I changed my mind."
+
+Gift is successful:
+ Diplomat (Allied)
+  "We are delighted to accept this contribution from our ally. The Grand Council will always be receptive to ~player_title~'s suggestions."
+  "The Grand Council gratefully accepts this donation, and awards you the title Friend of the Federation."
+ Diplomat (Not Allied)
+  "We are pleased to accept our friend's offer in the name of the Grand Council, and we present you with this Certificate of Commendation, Third Class."
+  "The Grand Council gratefully accepts your offer, and trusts that our friendship will continue to grow."
+ Diplomat (Annoyed)
+  "The Grand Council is willing to accept your offer, and hopes for a continuing improvement of relations."
+  "The Grand Council offers its thanks, and hopes our relations will continue to improve."
+ Ecologist (Allied)
+  "This contribution will be used to strengthen our alliance!"
+  "The Universal Life Web will benefit from your generous donation! Is there any way we can help our ally?"
+ Ecologist (Not Allied)
+  "Thank you for this gracious contribution. May our friendship continue."
+  "We thank you for this donation, and we assure ~player_title~ that our friendship will continue to improve."
+ Ecologist (Annoyed)
+  "We thank you for this gift, which will be used in the service of the Universal Life Web."
+  "We hope that our relations will continue to improve."
+ Bard (Allied)
+  "Your noble gift will be put to good use! Do you favor creating lakes full of chip dip, or painting the entire planet an eye-catching shade of chartreuse?"
+  "Toga toga toga!"
+ Bard (Not Allied)
+  "This contribution will go a long way to funding our next party! Let's be friends!"
+  "Thank you, star-buddy! Be assured that we're going to spend it all on something frivolous!"
+ Bard (Annoyed)
+  "As a result of this gift, our relationship... formerly glacial... can now be described as frigid."
+  "Our view of you has changed. Somewhat."
+ Zealot (Allied)
+  "This magnanimous gift from our ally will be dedicated to the glorification of Spode."
+  "This contribution will ensure that our alliance will continue to do Spode's great work."
+ Zealot (Not Allied)
+  "In Spode's name, we thank our friend for this generous gift. May Spode continue to bring us closer together."
+  "You will be delighted to know that our friend's contribution will go to enhance Spode's cause."
+ Zealot (Annoyed)
+  "We accept this gift in Spode's name, and we hope that Spode will enter your heart in the course of our improving relationship."
+  "Spode's faithful will put this offering to good use. You remind us that nonbelievers are also part of Spode's plan."
+ Scientist (Allied)
+  "We will not forget our ally's generous contribution to our cause. We will be happy to work with you on furthering our mutual objectives."
+  "We thank our ally ~player_title~ for this splendid contribution. Rest assured that we stand ready to advance your interests as well as our own."
+ Scientist (Not Allied)
+  "We thank you for your gift, and hope out friendship will continue to improve."
+  "We thank our friend ~player_title~, and we assure you that we shall put this donation to good use."
+ Scientist (Annoyed)
+  "Thank you for the gift. We will put it to rational use."
+  "Perhaps your species is useful after all."
+ Trader (Allied)
+  "We caper and gibber at the magnificence of your gift! Let the alliance flourish!"
+  "We break into songs of joy at your very appearance! Would you like to be worshiped as a god?"
+ Trader (Not Allied)
+  "Our friend ~player_title~ speaks our language! How may we help you?"
+  "Truly it is said, 'He who purchases something of value is a customer, but he who gives you stacks of money for no reason is a friend for life!'"
+ Trader (Annoyed)
+  "We're a smidge more inclined to like you, though we'd rather you spent more money. Perhaps you can make up for this lack in our boutique?"
+  "We accept your offer, and hope that we'll remain friendly enough so that more offers will come soon. "
+ Shaman (Allied)
+  "Our ally's gift is magnanimous! We shall chant the Hymn of Harmony!"
+  "Through this gift, our species may achieve Oneness!"
+ Shaman (Not Allied)
+  "The gift is accepted. We shall form a circle and meditate on friendship."
+  "Your gift is very nice! May our auras commingle!"
+ Shaman (Annoyed)
+  "It appears that your materialist consciousness is capable of instruction and spiritual growth. How may we enlighten you?"
+  "We begin to perceive a modicum of spiritual worth within your unevolved minds."
+ Warrior (Allied)
+  "We shall use this magnificent contribution to enhance the effectiveness of our alliance."
+  "Our alliance is greatly strengthened by this generous gift."
+ Warrior (Not Allied)
+  "We thank you. Your gift will be used to better enhance our security."
+  "Your gift strengthens our friendship."
+ Warrior (Annoyed)
+  "We look upon you with renewed interest. Perhaps you may be of use after all."
+  "The cat seeks to flatter the tiger. Yet the cat is not without its own utility."
+ Grob (Allied)
+  "We accept your offerings, Fuh... fuh... frrrii... does not compute."
+ Grob (Not Allied)
+  "We will take your offering as a sign of submission."
+ Grob (Annoyed)
+  "We see no reason not to take the money."
+  "For reasons beyond your insignificant understanding, we accept."
+ Response 1
+  "Okay, well lemme ask you something else."
+  "Can I ask about something else?"
+  "I have another question, then."
+  "There is something else I'd like to discuss."
+ Response 2
+  "Good-bye."
+  "So be it."
+
+Gift is unsuccessful:
+ Diplomat (Allied)
+  "In the name of our alliance we will accept this, though we must inform ~player_title~ that no money could possibly improve our already-steadfast friendship."
+  "This money is an embarrassment of riches. We accept it out of courtesy, but our relationship is already so close that it can scarcely be improved."
+ Diplomat (Not Allied)
+  "We thank ~player_title~ for this contribution, but we must remind you that our policy is already decided."
+  "The Grand Council gratefully accepts your offer, though we regret to say that our agenda for the future has already been determined."
+ Diplomat (Annoyed)
+  "The Grand Council accepts this donation, but its attitude toward you is unchanged."
+  "Your attempt to sway our principles has met with failure. "
+ Ecologist (Allied)
+  "We really don't need this money, but thank you anyway."
+  "Our relationship is already firm, but we'll take your donation out of politeness."
+ Ecologist (Not Allied)
+  "We thank you for this donation, though our friendship will not be affected in any way."
+  "Thank you for this gracious contribution, even though our principles remain firm."
+ Ecologist (Annoyed)
+  "Far from changing our minds, this tainted money will be used to advance our struggle against you!"
+  "We laugh at your paltry attempts to alter our principles."
+ Bard (Allied)
+  "You don't need to bribe us any more! We already like you... lots! "
+  "Our alliance is already as strong as steel... we don't need money, too."
+ Bard (Not Allied)
+  "Your earnest attempt to improve our relationship is declined... but we'll take the money anyway."
+  "Thank you, but we already view you as our star-buddy!"
+ Bard (Annoyed)
+  "If there's anything worse than a bribe, it's a bribe by a cheapskate."
+  "Did you think we'd sell ourselves cheap?"
+ Zealot (Allied)
+  "Though our alliance is already unshakeable, we nevertheless accept this glorious gift in Spode's name."
+  "This gift was completely unnecessary, as we are already united in doing Spode's work."
+ Zealot (Not Allied)
+  "We thank you for the contribution, but our ideas remain unaltered."
+  "We'll take the money for Spode's cause, but our relationship will remain unaltered."
+ Zealot (Annoyed)
+  "Your gift, intended to corrupt us, has only strengthened our resolve."
+  "Spode, who sees into your hearts, knows that with this gift you intended to infect us with your materialist ways."
+ Scientist (Allied)
+  "We thank our ally, though this gift was unnecessary."
+  "We thank our ally ~player_title~ for this splendid contribution, but our alliance already stands on a firm foundation."
+ Scientist (Not Allied)
+  "We thank you for the contribution, disappointed though you will be if you hoped this would alter our relationship."
+  "Though our friendship is unchanged, rest assured that we shall put this donation to good use."
+ Scientist (Annoyed)
+  "Before we put this money to use, we shall scan it for infectious organisms."
+  "The scale of your offer is... interesting. Puny, but interesting."
+ Trader (Allied)
+  "Your magnificence is unparalleled, but your gift was completely unnecessary! Wait, wait! Did I actually say that?"
+  "Your glorious gift will be received with paeans of joy, but our alliance remains unaltered."
+ Trader (Not Allied)
+  "Thanks for the contribution, but we regret to inform you that the prices in the boutique remain unchanged."
+  "Your gift was nice, but our friendship remains unchanged. "
+ Trader (Annoyed)
+  "Is that all?"
+  "This donation has succeeded in changing our opinion of you. Where once we merely suspected you of being a cheapskate, now we know it for certain!"
+ Shaman (Allied)
+  "Our alliance is based on a higher principles than crude materialism."
+  "We are already One. Any gifts remain superfluous."
+ Shaman (Not Allied)
+  "Our friend's gift is accepted, though our principles remain firm. "
+  "We appreciate the offer, though our relationship will remain unchanged until you evolve a bit more on the spiritual plane."
+ Shaman (Annoyed)
+  "We reject you and your crude materialist consciousness!"
+  "This action is the product of an unevolved mind."
+ Warrior (Allied)
+  "Our alliance is already firm, and any currency other than that of honor is superfluous."
+  "We thank our ally, but any further contributions are completely unnecessary."
+ Warrior (Not Allied)
+  "We thank you, though the fundamental aspects of our relationship remain unaltered."
+  "Despite this crude attempt to gain our favor, our friendship remains unaltered."
+ Warrior (Annoyed)
+  "Your attempt at bribery has proved useless."
+  "You are foolish indeed if you thought this crude scheme would accomplish anything."
+ Grob
+  "We'll take it, but this bribe will do you no good."
+  "We are Grox. Our goals do not change like prices in a market."
+ Response 1
+  "Okay, well lemme ask you something else."
+  "Can I ask about something else?"
+  "I have another question, then."
+  "There is something else I'd like to discuss."
+ Response 2
+  "Good-bye."
+  "So be it."
+
+Empire grants allied ship:
+ Diplomat
+  "The Grand Council views this suggestion favorably. Our ship will join you at once."
+  "The Grand Council is pleased to be of assistance to our ally. Our ship is at your disposal."
+ Ecologist
+  "Our ships are at your service friend. ~p~We will burn the ceremonial tree and dance the forbidden dance in celebration of this joyous occasion. "
+  "Our alliance will be all the stronger once our ship joins yours."
+ Bard
+  "There's nothing we'd love better than careening around the galaxy with our space-buddy! Our ship will join you as soon as we can stop dancing!"
+  "A floating party! Excellent suggestion! Our ship is on its way!"
+ Zealot
+  "Spode's warriors will join you at once!"
+  "Our ships will fly the galaxy together, to advance Spode's holy cause!"
+ Scientist
+  "It is reasonable to conclude that two ships are more formidable than one. We shall dispatch our ship at once."
+  "If other species see that we are united, they will consider us more formidable. Our ship is on its way."
+ Trader
+  "We'll send our ship at once. No pirates are going to attack us with our magnificent ally around!"
+  "We were thinking that very thing ourselves! Our ship will arrive shortly."
+ Shaman
+  "We will send you the ship you requested and fly as one. "
+  "Your request is granted. Our ship is on its way."
+ Warrior
+  "Together, we will be most formidable. We send our latest-model war craft to join you!"
+  "The ship will report to you shortly. Together, we will bring our enemies to their knees."
+ Grob
+  "We will send our ship. If you do not treat it well, there will be consequences."
+  "For reasons entirely our own, we grant your request."
+ Response 1
+  "Excellent. That's very helpful."
+
+Empire accepts trade route:
+ Diplomat
+  "The Grand Council is pleased to grant your request. The trade route shall be inaugurated soon."
+  "The Grand Council has concluded that a trade route would benefit both our civilizations. Your request is granted."
+ Ecologist
+  "A trade route makes sense. Our ships will soon be on their way."
+  "Your request is granted. We hope that peace and civilization may accompany trade along this route."
+ Bard
+  "We love your extra-wobbly trade goods! Let's make a deal!"
+  "A trade route sounds absolutely wizard! Ship us all your best party hats and refreshments!"
+ Zealot
+  "We have sought counsel on this matter, and Spode has given it his blessing."
+  "Let the trade route come to pass. We hope that the Word of Spode may travel along this path, as well as commerce."
+ Scientist
+  "It seems reasonable to establish a route between us. Our ships are on their way."
+  "After carefully weighing the options, we've decided to favor this proposal. Our ships will arrive soon."
+ Trader
+  "As far as we're concerned, trade equals happiness! Let's all be happy! Our interstellar boutiques are on their way!"
+  "Let the money flow freely between our worlds! "
+ Shaman
+  "Grand Enlightened Super Wizard Phlarb favors this proposal. We shall send our ships!"
+  "This request comes in answer to a two-thousand-year-old prophecy! We accept!"
+ Warrior
+  "We are pleased to accept this proposal. Our ships are on their way."
+  "Trade will increase the security of both our realms. We will commit our ships."
+ Grob
+  "We expect benefit from this proposal. We accept."
+  "Very well. We shall send our ships into the heart of your realm. For 'trade.' "
+ Response 1
+  "I'm certain they'll be started shortly."
+
+Empire declines trade route (relationship too low):
+ Diplomat
+  "The Grand Council has decided that our interests do not yet coincide. We respectfully decline your proposal. "
+  "The Grand Council concludes that our relations should improve before we embark on your ambitious proposal."
+ Ecologist
+  "We hesitate at this stage in our relationship to open our borders to your ships. Perhaps some other time."
+  "We are uncertain of the impact of your citizens on our culture. We will have to know you better."
+ Bard
+  "We don't know if we want you around all the time! Sorry!"
+  "Maybe you need to work a little on your relationship skills! Let's see if you can be useful in some other ways first!"
+ Zealot
+  "For now, Spode's faithful are uneasy at the presence of unbelievers. We shall have to know you better before we can accept."
+  "We have asked Spode's guidance on the matter, and Spode has declined your offer. Perhaps Spode will be more favorable at a future date."
+ Scientist
+  "We find that there are too many unknowns involved. We decline your offer."
+  "Our relationship has not yet progressed to the point where we can accept your offer. We must decline."
+ Trader
+  "We hate to turn down a chance for profit, but we feel we must. We know too little about you to begin a long-term relationship. "
+  "Mutual trust is necessary before a large-scale trading venture can succeed! We don't know enough about you to make that commitment. Sorry!"
+ Shaman
+  "The Divination Crystals are against this idea. Sorry."
+  "The Forty-Third Prophecy of Master Agpck told us that you would make this offer! Unfortunately, the prophecy also told us to decline!"
+ Warrior
+  "We do not yet know if you will make an honorable trading partner. We feel we must decline."
+  "Your proposal is interesting, but our relationship must improve before we can allow your ships in our skies."
+ Grob
+  "No, this is unacceptable."
+  "We decline. "
+ Response 1
+  "Okay."
+
+Empire declines trade route (player has too many):
+ Diplomat
+  "The Grand Council has concluded that your current trade operations have you spread too thin. Feel free to contact us again when you're not so busy."
+  "The Grand Council fears that trade with your Empire at this time wouldn't be prudent, you may contact us again."
+ Ecologist
+  "We had hoped for a more positive outcome, but we have to conclude that trade with your civilization is not yet worth the energy expenditure."
+  "It looks like you've spent too many of your trade route points already. Any more and you'll bring harm to the galaxy.~p~We must preserve our galaxy's beauty.~p~We will pass."
+ Bard
+  "Woah, easy Trader McTraderton with all your big words and business deals.~p~We will have no trady trady with you. "
+  "Though we find you personally attractive, your offer to do business we do not.~p~Party at our planet tomorrow. Bring a side dish. "
+ Zealot
+  "Spode's people are immune to the insignificant temptations that you offer us."
+  "We must decline. We fear you are not fully committed to Spode's followers."
+ Scientist
+  "Good day ~player_title~ of the ~player_creature_name~.~p~Statistical data shows that your Empire is running trade at full capacity.~p~The only logical answer for us is to decline. Best of luck in the future."
+  "~player_title~ of the ~player_creature_name~, it's good to be in your presence.~p~An interstellar trade pact requires foresight and commitment on the part of both parties. Our analyses suggest that you may not be capable of upholding your end of the bargain. Therefore, we decline."
+ Trader
+  "We hate to decline the opportunity to trade with someone as magnificent as yourself, but your current operations have you at capacity.~p~We respectfully decline your offer. "
+  "We were very enthusiastic about this until we looked at the numbers... and the numbers never lie. There is no upside. Our money is best invested elsewhere, sorry."
+ Shaman
+  "We are too evolved an intelligence to engage in matters of materialism with one who feels materials matter so much.~p~We decline."
+  "For your own good, we urge you to concentrate on higher matters and leave this materialism behind."
+ Warrior
+  "Your trade routes are already too many. Come back with a better offer, and we may reconsider."
+  "Why do you suggest that we plunder your economy? Is this some kind of trick?"
+ Grob
+  "We decline."
+  "Your proposal has no interest for us."
+ Response 1
+  "Okay, maybe when I have fewer trade routes."
+
+Player ends trade route:
+ Diplomat
+  "As you wish. Our ships have ceased their departure from our ports. You will see our spice no more."
+  "According to section 1.0004B of the Galactic Trade Embargo Agreement, you have every right to sever this trade agreement.~p~Let us know if you change your mind."
+ Ecologist
+  "You no longer care to share Spice resources with us? That's too bad, we will spread our resources to those more needy. "
+  "Wow... this came out of nowhere...~p~This is probably a good thing. We don't want to exploit our planet's natural resources to exhaustion. "
+ Bard
+  "Fine! We didn't want to trade with you anyways.~p~Keep it together ~race~, don't cry in front of the customers.~p~Boohoohoo..."
+  "You can't stop trading with us now. We need that Spice to pay for our annual Dance 'til you Drop party.~p~We've already put a deposit on the DJ. The caterer has already started making the Ziggs in a Blanket. Mmmhhh, those are good. "
+ Zealot
+  "Spode will not be pleased. We will pray for you. "
+  "May you find peace with yourself after this decision. We will pray for you. "
+ Scientist
+  "This decision seems highly illogical. Maybe you will reconsider after coming to your senses."
+  "All of the data shows this trade agreement as being highly profitable for both parties.~p~This doesn't compute."
+ Trader
+  "This is terrible news, simply terrible.~p~We value you as customer and hope that you reconsider.~p~Can you fill out a feedback slip?"
+  "This is going to impact our upcoming profit reports. We wish you'd reconsider.~p~Who do we have to fire? "
+ Shaman
+  "It is said, 'All good things must come to an end.' It appears we have come to that end, friend. "
+  "We shall part ways on good terms and high spirits. May the stars shine upon you. "
+ Warrior
+  "You will be looked upon as less than honorable for this action. Be gone."
+  "Where is the honor in breaking one's trade agreement? Leave us. "
+ Grob
+  "The Grox do not care what you do. Your fate has already been decided. "
+ Response 1
+  "Thank you for your understanding."
+
+Trade route purchase ready:
+ Diplomat
+  "The Grand Council has decided to focus on a new set of economic priorities. In view of this fact, perhaps you would care to purchase our Star System ~star_name~?"
+  "Administering our trade route jointly has become a managerial headache. Would you care to purchase the ~star_name~ system outright?"
+  "The Grand Council has decided that our trade route has been developed to its full potential.  Perhaps you would care to purchase the ~star_name~ so that we can concentrate on other priorities?"
+ Ecologist
+  "We intend to concentrate on a series of new terraforming projects, and would like to raise the capital by selling you our Star System of ~star_name~. Would you be interested?"
+  "Some of our settlement projects are taking longer to come to fruition than we expected.  Would you care to help us out by purchasing our Star System ~star_name~?"
+  "When all is said and done, the profit motive isn't what we're about. Perhaps you'd like to own our Star System ~star_name~ outright?"
+ Bard
+  "We're running short of money to buy party supplies! Maybe you'd like to help us party down by purchasing our Solar System ~star_name~?"
+  "The Fashion Festival exhausted our treasury, and the festival's only half over! We could keep our models on the runway if you'd buy Star System ~star_name~ from us!"
+  "We overspent a little on the Festival of Building Extravagant Monuments to Ourselves.  If you bought the ~star_name~ System, we could fix our budget deficit!"
+ Zealot
+  "Spode's Plan calls for large, extravagant temples in every settlement. In order to afford this, we're willing to sell you the ~star_name~ System. Are you interested?"
+  "Tithes have fallen short this year! Perhaps you'd be willing to aid us by purchasing the System ~star_name~"
+  "Equipping our missionaries with lasers and bombs is proving more expensive than we anticipated.  Spode would thank you if you'd make up the deficit by purchasing our ~star_name~ System."
+ Scientist
+  "Analysis demonstrates that our trade route has reached maturity. We would like to devote our resources elsewhere. Would you care to purchase the ~star_name~ Star System from us?"
+  "Our budget methodology has proven to be based on a faulty theory. Can you help us make up for the shortfall by purchasing the ~star_name~ Star System from us?"
+  "We'd like to build our Huge Experimental Super-Colossaltron, but our funds are inadequate. Perhaps you'd care to invest in science by purchasing the ~star_name~ Star System from us?"
+ Trader
+  "Luckily for you, there's a Super Special Price on trade routes right now! Would you like to own the ~star_name~ Star System outright?"
+  "We've got a terrific investment opportunity on the horizon, but we're short on liquidity! If you agreed to purchase ~star_name~ Star System, we could both make money and our mutual happiness would be assured!"
+  "The sell-by date on our shipment of Gorb-Flatchers has expired, and now we have to suck up the loss! You could help us out by buying the ~star_name~ Star System from us!"
+ Shaman
+  "We need to raise money in order to purchase High-Power Spiritual Energy Crystals! Would you like to help us by purchasing the ~star_name~ Star System from us?"
+  "The profits from our trade route are beginning to send disruptive vibrations that are threatening to cancel our non-materialist spiritual perfection! You can help us advance to the next plane by purchasing the ~star_name~ System once and for all. "
+  "We went into a special sixteen-day meditation, and when we opened our eyes, someone had taken all our money! Can you aid us by buying the ~star_name~ Star System from us?"
+ Warrior
+  "We have our hearts set on purchasing some massive new Mega-Bombs! We could afford them if you'd purchase the ~star_name~ Star System from us."
+  "Expensive new weapons systems have resulted in a budgetary shortfall. In consequence, we would be willing to sell you our ~star_name~ Star System. "
+  "We hate soiling the purity of our warrior spirit through this endless accounting of the profits from our joint trade route. Would you take the ~star_name~ Star System from off our hands?"
+ Grob
+  "We need money in order to bribe another species to reckless acts of self-destruction. To this end you will purchase the ~star_name~ Star System."
+  "The Grox wish you to purchase the ~star_name~ Star System. You will not disappoint us."
+  "The Grox have grown tired of this tiresome trading. The Grox will take your money in exchange for the ~star_name~ System for which we no longer have use. It is best not to contemplate the consequences of refusal.~p~Report to the location of the exhausted route to terminate this transaction."
+ Response 1
+  "Close Transmission"
+
+Player requests to buy system:
+ Diplomat (Allied)
+  "Our ally is welcome to make an offer, but bear in mind that our citizens will expect the offer to be a fair one."
+  "This subject is not without interest. The Grand Council would like to know how their advantage is best served."
+ Diplomat (Not Allied)
+  "The Grand Council is open to suggestions from its friend ~player_title~, but we have a responsibility to our citizens not to let their hard work go unrewarded."
+  "We will discuss any subject with our friend, but we would have to be strongly motivated in order to surrender sovereign territory."
+ Ecologist (Allied)
+  "We would be pleased to help our ally, if assurance were made concerning our own interests."
+  "Our companions in the Universal Life Web are welcome to make an offer."
+ Ecologist (Not Allied)
+  "What you suggest is not impossible, but we would have to be adequately compensated for our investment in the system. "
+  "We might consider this, if there were adequate safeguards for any native life-forms, and we were compensated for the investment of time and effort we have made in the system."
+ Bard (Allied)
+  "Anything for you, space-buddy! But maybe you can help us with the expenses of moving out...?"
+  "We're totally flattered that you want our worlds, and we'd be even more flattered by a substantial offer."
+ Bard (Not Allied)
+  "But that star is one of our prettiest! But maybe we'll let it go if you agree to support the next several festivals..."
+  "Normally we'd say no, but maybe if you help us make up a weeny little shortfall in our budget...?"
+ Zealot (Allied)
+  "~player_title~ may make an offer, and we will consult Spode's will on the matter."
+  "It will require a donation to Spode's temple in order to confer his blessing on this transfer. Perhaps you would be willing to make this offering?"
+ Zealot (Not Allied)
+  "We dislike leaving a world once we have claimed it for Spode, but we are experiencing a deficit in the budget of our Military Missionaries. Perhaps you would help us fill it?"
+  "That system has not been judged necessary for Spode's Plan, but we're not going to let it go for nothing."
+ Scientist (Allied)
+  "We would be happy to oblige you, but we expect a reasonable return."
+  "We are willing to accommodate you, provided that adequate payment can be assured."
+ Scientist (Not Allied)
+  "What you suggest is not entirely unreasonable. But it is also reasonable to expect value for value."
+  "The exchange you propose is logical only if the system is properly valued."
+ Trader (Allied)
+  "Everything is for sale! Just make us a reasonable offer!"
+  "We'd be happy to accommodate you! Just write a big enough check!"
+ Trader (Not Allied)
+  "Your suggestion is attractive, but your true magnificence can be revealed only by the size of your pocketbook."
+  "Let the sum reflect the true glory of your being!"
+ Shaman (Allied)
+  "The World Spirit suggests that it might be willing to shift to a new custodian. If you could just cover our expenses...?"
+  "We are willing to break our worldly attachments to this star system, if sufficient worldly motivation is provided."
+ Shaman (Not Allied)
+  "We'd be willing to surrender control of the system to any sufficiently evolved civilization. But as ~player_creature_name~ are materialists, we'll have to settle for some of your material."
+ Shaman
+  "You wish to purchase a star system, and we wish to buy some expensive crystals to store our spiritual energies. Perhaps an equilibrium can be reached?"
+ Warrior (Allied)
+  "Let our honorable ally make a straightforward offer, and we will do our best to accommodate you."
+  "We would be pleased to aid you in this matter, but we would have to recoup our substantial investments in the system."
+ Warrior (Not Allied)
+  "If our security were guaranteed, this exchange might be possible... and since security is best guaranteed by expensive weapons systems, perhaps you'd be willing to buy us some...?"
+  "We have invested heavily in the defense of this system, and would have to be compensated."
+ Grob
+  "You may offer. We may accept... or not."
+  "You may suggest a sum. Let it not be small."
+ Response 1
+  "~purchase_offer_5~"
+ Response 2
+  "~purchase_offer_4~"
+ Response 3
+  "~purchase_offer_3~"
+ Response 4
+  "~purchase_offer_2~"
+ Response 5
+  "~purchase_offer_1~"
+ Response 6
+  "Nevermind. I need some time to think about this."
+
+Trade route purchase failed (weak):
+ Diplomat (Allied)
+  "We wonder if there is a way you can sweeten this offer before we present it to the Grand Council."
+  "The Grand Council rejects this offer with reluctance, as it comes close to the figure we had in mind."
+ Diplomat (Not Allied)
+  "The Grand Council views your offer with interest, but the Finance Committee has concluded that it is a bit low."
+  "This comes close to our requirements. Can you possibly offer more?"
+ Ecologist (Allied)
+  "Could you increase the offer a little, for the sake of our alliance?"
+  "Your offer falls just a little short. Could you increase it?"
+ Ecologist (Not Allied)
+  "The sum does not quite meet our expectations."
+  "Can you increase the offer to cover the cost of some carbon offsets?"
+ Bard (Allied)
+  "We were hoping to have enough to repaint our home world a gorgeous shade of magenta, but this falls a little short!"
+  "Even if we chop up the offer, fire it into the sky on a rocket, and let it rain down as confetti, this offer is still just a little inadequate!"
+ Bard (Not Allied)
+  "You've covered the cost of renting the hall, catering, and the beverages. Could you bump it up a little, so we can afford some entertainment?"
+  "Wow! That's really close! But the price is not yet right!"
+ Zealot (Allied)
+  "We have prayed on the matter, but Spode has told us to reject the offer. If you could increase the sum but a little, Spode might yet smile upon you."
+  "If you could increase the offer to cover the tithe, we would accept in Spode's name."
+ Zealot (Not Allied)
+  "Spode's Children were counting on a little more."
+  "This does not quite meet our minimum needs."
+ Scientist (Allied)
+  "We have considered your offer from all possible perspectives, but it is still a little inadequate."
+  "We had hoped that our ally might offer a little more."
+ Scientist (Not Allied)
+  "Your offer is not unreasonable, but it falls a little short."
+  "This sum does not quite meet our minimum requirements. Can you increase it?"
+ Trader (Allied)
+  "We hate to reject an offer from our glorious friend, but the sum is a little below our expectations!"
+  "You missed the target by a smidge! Can you bump it up a little?"
+ Trader (Not Allied)
+  "This sum would be fine if we were having a sale on planets, but the sale ended last week!"
+  "Your offer falls a bit short of the esteem in which we hold your magnificent self."
+ Shaman (Allied)
+  "Your fortunetellers failed to tell you the fortune we needed. Can you offer a little more?"
+  "This offer almost meets the standard of material renunciation we expect in our allies! Can you renounce a little more for us, please?"
+ Shaman (Not Allied)
+  "This offer will buy almost all the power crystals we need! Can you possibly increase it?"
+  "Two are not yet One. But if One increases the sum but a little, One may yet be One with Two."
+ Warrior (Allied)
+  "We have viewed our honorable ally's offer with great seriousness, but it falls a little short of our present needs."
+  "Your offer does you credit, but it falls short of buying us the weapons systems we need. Could you increase it?"
+ Warrior (Not Allied)
+  "This does not quite cover our expenses in defending this system. If you could increase the amount slightly, we would accept it."
+  "The offer falls short of our expectations. Could you increase it somewhat?"
+ Grob
+  "Our calculations suggest the system is worth more than this."
+  "Offer more money."
+ Response 1
+  "I'd like to ask you something else..."
+ Response 2
+  "I'll keep that in mind."
+
+Trade route purchase failed (strong):
+ Diplomat (Allied)
+  "We hoped that our ally would make a serious offer."
+  "The Grand Council is not to be toyed with, even by an ally."
+ Diplomat (Not Allied)
+  "The Grand Council is stunned by the inadequacy of your offer."
+  "The sum is completely insufficient."
+ Ecologist (Allied)
+  "We thought you were our ally, not a bottom-feeder."
+  "We hope that any future offers will be of a more serious nature."
+ Ecologist (Not Allied)
+  "That sum is ridiculous!"
+  "Please do not waste our time. We have trees to plant."
+ Bard (Allied)
+  "Friend, you have been inhaling the wrong gasses!"
+  "How to put this in a way that will not offend your tender sensibilities?~p~NO! NO WAY! NO WAY IN A MILLION YEARS!"
+ Bard (Not Allied)
+  "That would hardly pay for our party balloons!"
+  "Space-buddy, you should leave the jokes to the professionals!"
+ Zealot (Allied)
+  "Surely our ally does not intend to insult us."
+  "Spode's Children will never agree to a sum this paltry."
+ Zealot (Not Allied)
+  "Do you think that because we are people of faith, that we are subject to delusion?"
+  "This sum would not suffice to polish Spode's Grand Altar!"
+ Scientist (Allied)
+  "Your offer does not fall within logical parameters. "
+  "Your offer is startlingly small. Perhaps you misplaced the decimal point?"
+ Scientist (Not Allied)
+  "Objective evidence suggests that, if you intend this as a serious offer, you suffer from delusion."
+  "Your offer does not speak well for your reasoning ability."
+ Trader (Allied)
+  "Only our deep respect for your glorious self has prevented us from kicking this offer across the floor."
+  "We expect a reasonable profit, not a visit to the poor house!"
+ Trader (Not Allied)
+  "Ha-ha-ha! That's a joke... right?"
+  "Our magnificent friend is being silly!"
+ Shaman (Allied)
+  "Just because we are attuned to a higher plane doesn't mean we're chumps on this one!"
+  "As Guru Spung said: 'When unwittingly insulted by an inferior intelligence, it is best not to reply in words, but to chant in unison, 'BFLTHHHHHHP!'"
+ Shaman (Not Allied)
+  "This sum would hardly buy a single power crystal!"
+  "No matter how long we chant over this offer, it still stinks. "
+ Warrior (Allied)
+  "It is only your status as an ally that prevents us from viewing this offer as an affront!"
+  "This money would hardly support the research on a new weapons system, let alone build one."
+ Warrior (Not Allied)
+  "Is this paltry offer meant to insult us?"
+  "This resembles an adequate offer as the scent of a flower resembles the flower."
+ Grob
+  "It is best not to insult your superiors."
+  "The offer is inadequate. Try again."
+ Response 1
+  "I'd like to ask you something else..."
+ Response 2
+  "I think we are done here."
+
+Trade route purchase success (weak):
+ Diplomat (Allied)
+  "The Grand Council accepts your offer. Let our alliance be strengthened by this agreement!"
+  "The Grand Council views your proposal in a favorable light. Let the transfer take place immediately!"
+ Diplomat (Not Allied)
+  "The Grand Council is pleased to accept your offer."
+  "After deliberation, the Grand Council has decided to agree to your proposal."
+ Ecologist (Allied)
+  "We are pleased to accept our ally's offer. Long live the alliance!"
+  "Our ally's generous offer is accepted. The system is now the sovereign territory of ~player_creature_name~."
+ Ecologist (Not Allied)
+  "We accept your offer, and we shall leave the system at once."
+  "We shall accede to this agreement at once."
+ Bard (Allied)
+  "We accept! And we're so proud that our little friend from the stars has become a real estate tycoon!"
+  "We accept! Let's sign the papers, and then do a joyful thumping dance!"
+ Bard (Not Allied)
+  "Most excellent, space-buddy! We'll take down the For Sale sign, and you can move in right away!"
+  "We'll take your offer, friend! Let the celebration begin!"
+ Zealot (Allied)
+  "After prayer, we have decided to accept your offer. Spode's friend shall have this system."
+  "Spode's will shall be fulfilled. Our ally shall have the system."
+ Zealot (Not Allied)
+  "We accept your offer in Spode's name."
+  "Spode looks with favor upon this offer. We agree."
+ Scientist (Allied)
+  "We are pleased at our ally's perspicacity. We shall gladly accept his offer."
+  "Your offer is shrewd and intelligent. We are honored to accept."
+ Scientist (Not Allied)
+  "You offer a reasonable sum. We will accept."
+  "Your offer takes all contingencies into account. We shall sign this agreement."
+ Trader (Allied)
+  "We caper with delight at the splendor and wisdom of our glorious ally! The system is yours!"
+  "We are honored to serve you! The sale is closed, and the system is yours!"
+ Trader (Not Allied)
+  "We are delighted to accept our glorious friend's offer! "
+  "You are a shrewd dealer, my friend! We accept!"
+ Shaman (Allied)
+  "Our minds are in unison! We accept your offer."
+  "We can see from your aura that your offer is sincere. We are happy to accept."
+ Shaman (Not Allied)
+  "Let our minds move in harmonious rhythm. We accept."
+  "Your offer is accepted. May this agreement serve the greater wisdom!"
+ Warrior (Allied)
+  "We are pleased to accept our ally's fair and generous offer."
+  "We accept our ally's honorable proposal. May our alliance be strengthened as a result!"
+ Warrior (Not Allied)
+  "The offer is accepted. May we continue to live in peace and security."
+  "This is a fair price. We accept."
+ Grob
+  "The price is adequate. You may have the system."
+  "The sum is sufficient. We agree."
+ Response 1
+  "Pleasure doing business with you."
+
+Trade route purchase success (strong):
+ Diplomat (Allied)
+  "Our ally's offer is generous beyond our dreams. The Grand Council is pleased to accept."
+  "The Grand Council is delighted by the scope of this magnificent offer. We accept. "
+ Diplomat (Not Allied)
+  "The Grand Council is astounded by your generosity. We accept."
+  "Your offer is beyond our expectations. The Grand Council will conclude the deal immediately."
+ Ecologist (Allied)
+  "With this fabulous sum, we can extend the Life Web to many worlds! Let us sign the agreement at once!"
+  "You honor us with these vast and unexpected riches. We shall try to be worthy of your trust."
+ Ecologist (Not Allied)
+  "Your offer is surprising in its generosity. We are pleased to accept."
+  "Your magnanimous offer surpasses all expectation. The deal is done."
+ Bard (Allied)
+  "Wow! It's like the Money Fairy just flew down on gossamer wings! We accept!"
+  "It's like tons of cash just moved into our closets of their own accord! We'll take the offer!"
+ Bard (Not Allied)
+  "We could purchase half a dozen systems with this money! Thanks very much!"
+  "We're not so stunned by this fabulous offer that we won't accept it!"
+ Zealot (Allied)
+  "Your astounding generosity will make possible a whole new era in the worship of Spode. We are certain you will be rewarded in the afterlife."
+  "Glory be to Spode! You offer us money beyond our wildest expectations! Let praises be sung!"
+ Zealot (Not Allied)
+  "We are overwhelmed by your generosity to Spode's cause. We accept your offer."
+  "Spode must have touched your heart in order for you to have made this colossal offer. We are pleased to accept in Spode's name."
+ Scientist (Allied)
+  "You have paid far too much for this system, but obviously you can afford it."
+  "Our alliance will be much strengthened by this agreement. You will have a mediocre star system, and we will have huge, unanticipated sums of money."
+ Scientist (Not Allied)
+  "You have significantly over-valued the system, but we are pleased to accept the money anyway."
+  "Your offer is marked by irrational exuberance. We shall accept while the madness lasts."
+ Trader (Allied)
+  "With this magnificent, generous offer you have sought to buy our friendship... and you have succeeded! Let the alliance thrive!"
+  "This colossal sum is the epitome of generosity! And since you've got so much money, maybe you'd like to spend some of it in our emporium!"
+ Trader (Not Allied)
+  "YES!!! YES!!! WE ACCEPT!!! WE'RE RICH!!! WE'RE RICH, RICH, RICH, RICH, RICH!!!!!"
+  "The magnificence of your offer is beyond imagining! We'll try to imagine how we're going to spend it!"
+ Shaman (Allied)
+  "With this overwhelmingly generous offer, Two have become One. You have become One with your new star system, and we have become One with fabulous amounts of money!"
+  "We praise your higher wisdom in ridding yourself of the corrupting influence of this colossal amount of money. May you learn the mysteries of the spirit. We, on the other hand, will study the mysteries of 'compound interest.'"
+ Shaman (Not Allied)
+  "We hadn't expected that you would surrender materialism to quite this extent! We accept!"
+  "As enlightened beings, we hasten to accept this vast sum of money in exchange for what are, after all, only a few rocks floating around in the vacuum."
+ Warrior (Allied)
+  "Our ally flatters us with such enormous generosity. Rest assured that we will spend this vast sum on objects that will enhance our alliance."
+  "We are startled by the size of this sum, but we will try to prove worthy of it."
+ Warrior (Not Allied)
+  "You have greatly overvalued the system. We accept the money, but if you intended the extra as a bribe, you have failed."
+  "Your excessive generosity surprises us. If security can be bought, then we will now buy it."
+ Grob
+  "The system is not at all worth what you have paid."
+  "If you hoped to bribe us with this enormous sum, you have failed."
+ Response 1
+  "You're welcome."
+
+Player requests attack:
+ Diplomat
+  "The Grand Council is pleased to aid our ally. What is the target?"
+  "Which objective did our ally have in mind?"
+ Ecologist
+  "Our fleet stands prepared. Where did you wish it to go?"
+  "Do we have a mutual enemy? If so, who?"
+ Bard
+  "Right! Let there be explosions, flying debris, and slaughter! Let's blow 'em up! Let's devastate their worlds! Let's get medieval on 'em!~p~Ummm... who are we supposed to be attacking, exactly?"
+  "We're ready to smash in their mealy little faces, if only you'll tell us where we're going and who we're hitting."
+ Zealot
+  "Spode's warriors await your call! Where is our target?"
+  "Let Spode's legions unleash the weapons of galactic devastation! Where are we going?"
+ Scientist
+  "In order to best apply military force, you would have to inform us of the location of the target."
+  "We stand ready to crush our mutual enemies, but you will have to tell us where."
+ Trader
+  "We are prepared to steal whole worlds from the bad guys, but you'll have to tell us which bad guys!"
+  "Our glorious ally has only to tell us where to strike, and we will obey!"
+ Shaman
+  "We are prepared to fight by your side, but even our most able telepaths haven't been able to tell us the target."
+  "Barring a few hours of chanting and burning incense, our ships are ready. It's time to declassify the target."
+ Warrior
+  "We are pleased to aid our honorable ally, if you would give us a briefing on the objective."
+  "The fleet stands ready, ~player_title~! Where is it going?"
+ Grob
+  "We are pleased to aid in the extermination of organic life-forms. Please inform us as to the nature of the target."
+  "Where do you wish us to strike?"
+ Response 1
+  "~empire_name_1~ at ~star_name_1~"
+ Response 2
+  "~empire_name_2~ at ~star_name_2~"
+ Response 3
+  "~empire_name_3~ at ~star_name_3~"
+ Response 4
+  "~empire_name_4~ at ~star_name_4~"
+ Response 5
+  "On second thought, I'd rather not."
+
+Empire requests payment to attack:
+ Diplomat
+  "Unfortunately, the Grand Council is all too aware of the financial burden this attack would impose on our citizens. Can you aid us with a grant of ~attack_cost~?"
+  "A temporary fiscal shortfall makes it impossible to fully outfit our fleet. ~attack_cost~ would be required."
+ Ecologist
+  "Outfitting the fleet with bio-compatible weapons has left us without the money to fight the actual battle. Could you possibly donate ~attack_cost~?"
+  "Maintaining a Green lifestyle in our war fleet is more expensive than we anticipated. Could you possibly help us to the extent of ~attack_cost~?"
+ Bard
+  "We're totally behind you in blowing the enemy to smithereens, but the last several festivals have left us stony broke! Could you possibly give us ~attack_cost~ for party supplies for the troops?"
+  "We're ready for the attack, but first we need to build the fleet's morale with a huge party! It will cost ~attack_cost~."
+ Zealot
+  "The necessity of outfitting the fleet with a large contingent of missionaries and many copies of the complete works of Spode has exhausted our treasury. Could you possibly contribute ~attack_cost~ to Spode's Holy Cause?"
+  "The spirit is willing, but the exchequer is weak! Could you possibly donate ~attack_cost~ to our cause?"
+ Scientist
+  "Our economic analysis of the attack seems to have slipped a few integers. Could you possibly donate ~attack_cost~?"
+  "Unforeseen costs have hampered our military effort. ~attack_cost~ is necessary before we can make this assault."
+ Trader
+  "An unfortunate investment in collidium futures has resulted in a financial shortfall, but we know that our magnificent friend won't let us down in this time of need! Could you give us ~attack_cost~?"
+  "War fleets cost money! This one will cost you ~attack_cost~!"
+ Shaman
+  "Our highly-evolved non-materialist lifestyle has resulted in a shortage of, well, material. Could you possibly give us ~attack_cost~?"
+  "We've been paying attention to spiritual advancement, not fiscal prudence! But if you gave us ~attack_cost~, we could still make this assault."
+ Warrior
+  "Our war fleet is prepared, but we must also consider the cost of defending the homeland while our fleet is away. Naturally our noble ally will not want to see our home worlds suffer, and will be willing to offer us ~attack_cost~."
+  "We have recently made the error of diverting funds to the 'civilian economy.' Putting the war fleet back into shape will cost ~attack_cost~."
+ Grob
+  "This attack will cost you ~attack_cost~."
+  "Rental of our ships will cost you ~attack_cost~."
+ Response 1
+  "Here's your money."
+ Response 2
+  "No, thank you."
+
+Attack request accepted:
+ Diplomat
+  "The Grand Council has voted a declaration of war. The fleet is on its way!"
+  "The Grand Council will make this attack in the name of our alliance."
+ Ecologist
+  "Our fleet is mobilized, and will soon be on the attack!"
+  "Our alliance is firm. Our ships will launch the assault at once."
+ Bard
+  "We're totally ready for the cut-and-thrust of battle! Hup, two, three! Chaaaaaarge!"
+  "Our fleet is ready! We're already making plans for the victory party!"
+ Zealot
+  "Let the war go forward in Spode's name!"
+  "Let the target feel the power of Spode's wrath!"
+ Scientist
+  "The fleet is already in motion. We expect news from the front shortly."
+  "Our fleet will descend upon the target. Our analysts predict victory."
+ Trader
+  "Our ships are on the way! Let the looting commence!"
+  "With our magnificent ally on our side, no defeat is possible! The fleet is ready to pillage!"
+ Shaman
+  "We agree to tread the Way of the Warrior. The fleet is on its way."
+  "We attack! Secret Master Bifflepharb foresees victory!"
+ Warrior
+  "Our ships are committed to the attack. Long live the alliance!"
+  "The fleet is mobilized. We shall assault the target at your request. "
+ Grob
+  "The attack will begin immediately."
+  "At your request, organic life forms will be extinguished. "
+ Response 1
+  "Thank you."
+
+Attack request declined (busy) (?):
+ MySpecies
+  "goodbye"
+ Diplomat
+  "We regret to report that we are facing a crisis of our own. The Grand Council would be grateful for your help."
+ Ecologist
+  "Unfortunately we are facing an emergency at the moment. Any help you can give us would be welcome. "
+ Bard
+  "We'd love to help you incinerate your foes, but alas, things have gone seriously awry here at the moment. Feel free to help us clean up!"
+ Zealot
+  "We would love to help you deal with Spode's enemies, but we are facing challenges of our own right now. Perhaps you would care to aid Spode's cause...?"
+ Scientist
+  "An analysis of the current situation reveals that we cannot conduct warfare and cope with our own crisis at the same time. Your aid in helping us manage the latter is solicited."
+ Trader
+  "We would love fighting shoulder-to-shoulder with beings as awesome as yourselves, but we're facing an emergency situation of our own right now! Can you aid us?"
+ Shaman
+  "We would like to kick some spiritually unevolved beings around the galaxy, but we've just become aware of an emergency here in our own civilization. You would gain many good karma points if you'd help us!"
+ Warrior
+  "It is a principle of warfare never to fight on two fronts. A new front has opened within our own realm. Perhaps our ally can help...?"
+ Grob
+  "No. Stand by for further orders."
+ Response 1
+  "I understand. One more thing before I go..."
+ Response 2
+  "Okay. Thanks for letting me know."
+
+Attack request declined (current empire is already attacking):
+ Diplomat
+  "The Grand Council is pleased to report that this target is already under assault."
+ Ecologist
+  "Our fleet is already attacking that world."
+ Bard
+  "Wow! It's like our minds are totally in synch! Our own Paisley Task Force is already assaulting that target!"
+ Zealot
+  "Spode's Holy Warriors have attacked that world already, and soon will claim the target for the forces of righteousness!"
+ Scientist
+  "Our strategists have confirm your analysis of the tactical situation, and issued their recommendations some time ago. Our fleet is already on the attack in that quadrant."
+ Trader
+  "We have anticipated your magnificent strategic thought! Our forces are already on the attack!"
+ Shaman
+  "Before you arrived, Guru P'tang sensed your intentions through the luminiferous aether, and our ships are already attacking that target!"
+ Warrior
+  "Our ships have already been sent to crush that planet."
+ Grob
+  "You do not need to tell us what to do. Our ships already struck that world."
+ Response 1
+  "Okay. Good to know that."
+
+Attack request declined (other empire is already attacking):
+ Diplomat
+  "Our scouts have reported to the Grand Council that the target is already under attack."
+ Ecologist
+  "Our sensors indicate that life-forms are under threat in that system. An attack is in progress! "
+ Bard
+  "Someone anticipated you, star-buddy! That system is already being trashed!"
+ Zealot
+  "One of our scouts, freshly martyred, has informed us that the system is already under attack."
+ Scientist
+  "Analysis of spectra strongly suggests that this system is already being attacked."
+ Trader
+  "We've encountered refugees who have informed us that this system is already under assault!"
+ Shaman
+  "Our revered Seer Qrooorlo went into a trance and told us that an attack was already in progress."
+ Warrior
+  "Scout vessels report that the system is already being attacked."
+ Grob
+  "You are too late. The system is already under assault."
+ Response 1
+  "Okay. Thanks for the information."
+
+Attack request declined (out of range):
+ Diplomat
+  "The Grand Council regrets to report that this target is beyond the range of our fleet."
+ Ecologist
+  "That would be sending our ships too far from home."
+ Bard
+  "You want us to go all that enormous distance, just to fight a battle? No way!"
+ Zealot
+  "Zeal in the service of Spode is not enough to send our ships all that way."
+ Scientist
+  "Unfortunately, you ask the impossible. Our fleet does not have sufficient range."
+ Trader
+  "We would be delighted to help your excellence, but that target is beyond our range."
+ Shaman
+  "Even with our Extra-Power Magic Space Crystals, our ships can't travel that far!"
+ Warrior
+  "We would be delighted to oblige our honorable ally, but our fleet lacks sufficient range."
+ Grob
+  "It would weaken our blockade to send our forces that distance."
+ Response 1
+  "Thanks anyway."
+
+Empire accepts alliance:
+ Diplomat
+  "The Grand Council is gratified to accept the offer of alliance."
+  "The Grand Council is pleased to have a firm friend among the stars. The offer is accepted."
+ Ecologist
+  "It is good to have found a kindred spirit in the Galactic Live Web. We are pleased to become your ally."
+  "We accept your offer of alliance. Let us expand the Universal Life Web together!"
+ Bard
+  "Absolutely, space-buddy! As far as we're concerned, you're Numero Uno! "
+  "Let's hitch our space-ships in tandem, and party till the stars die out!"
+ Zealot
+  "Spode blesses the idea of an alliance."
+  "We call upon Spode to witness the terms of our alliance."
+ Scientist
+  "It seems reasonable to conclude an alliance at this time. "
+  "You have proven yourself worthy to become our ally. We accept your offer."
+ Trader
+  "It has long been our wish to become an ally of your glorious self. Let the alliance prosper!"
+  "With this alliance, we can bring happiness to the galaxy! We accept your offer."
+ Shaman
+  "We've consulted the entrails on this matter, and now that we've washed up, we're happy to report that the entrails say yes!"
+  "We've cast the runes, and they say we're karmically linked!"
+ Warrior
+  "You are a suitable ally. We are pleased to accept."
+  "Your honorable behavior marks you out for special favor. We will be your ally."
+ Grob
+  "We accept the offer of alliance, provided that you continue to accept our orders."
+  "We shall permit you to be our ally, as long as it suits us."
+ Response 1
+  "Okay, well lemme ask you something else."
+  "Can I ask about something else?"
+  "I have another question."
+  "There is something else I'd like to discuss."
+ Response 2
+  "Yeah, I'm pumped. This is gonna be epic!"
+  "I'm looking forward to a long partnership."
+  "Things are looking on the up and up!"
+  "Yesssss. Who will stop us now? Muwhahahah!"
+
+Empire rejects alliance:
+ Diplomat
+  "Hey, no offense, but we just don't know you well enough to say whether or not you can be trusted. Maybe a little quid pro quo would help. Do something for us, and we'll be a lot more likely to ally our race with your own."
+  "No, it's not gonna happen. The universe has a strict pecking order, and we can't be seen with you."
+ Ecologist
+  "Let's take this slow, we barely know you.~p~We have a few tasks for you first. It will help us to better acquaint our two species."
+  "Whoa, take our foot off the hyperdrive pedal.~p~You'll need to earn our trust."
+ Bard
+  "Bwahahaha! You want to make an alliance? Bwahahaha!~p~Oh you're serious?~p~Let's see how serious you really are. "
+  "We never party with aliens we don't know.~p~That's like party school 101.~p~Tell ya what, if you take care of a few errands for us, we might be interested."
+ Zealot
+  "In the book of Varzmir, sage of the great mountain, it is said never to enter partnership without knowing one's own partner.~p~Shall you serve Spode well, we may consider."
+  "We could never enter partnership with one so uncleansed.~p~Will you seek cleansing?"
+ Scientist
+  "We're sorry ~player_title~ of the ~player_creature_name~ race. We cannot enter a binding treaty with your people at this time.~p~Maybe in the future."
+  "We must decline your offer ~player_title~ of the ~player_creature_name~ race.~p~We are far too busy with our experiments to enter an allegiance with you.~p~Maybe if you assist us with our studies. "
+ Trader
+  "We are sorry, but we cannot agree to form an alliance with your great race at this time.~p~Our business has us far too busy.~p~We may reconsider if you can help us out. "
+  "We appreciate the offer, but we must respectfully decline oh great one.~p~If it wouldn't be too much to ask, maybe you could assist us with a few tasks. If you're not too busy of course. "
+ Shaman
+  "It is said, ' The moon of Jodor cannot align with the planet of Vanktar 7 without the help of the Eastern Winds.'~p~Be our Eastern Winds and we may change our minds."
+  "A candle without a flame cannot light a room. Before we can be your flame, we must ask that you prove yourself. "
+ Warrior
+  "You must prove yourself worthy of our respect before we enter alliance with you. "
+  "The ~race~ cannot enter alliance with one who has not proven themselves honorable.~p~Prove your strength and then we can talk about forming a life bond. "
+ Grob
+  "An alliance with The Grox?~p~You are barely worthy to be in our presence."
+  "Silence! We will not talk of alliances until you have succumbed to our ways."
+ Response 1
+  "I will do what it takes to prove my worth to you."
+  "I'm going to make sure whatever needs to happen, happens."
+  "I'm going to make sure this alliance happens, whatever it takes."
+  "What can I do to show you my commitment?"
+ Response 2
+  "Man, the universe is no picnic, sometimes."
+  "The universe. She is a cruel mistress."
+  "That's harsh, dude. I guess I gotta do what I gotta do."
+  "Yeah, okay, okay. I see how it's gotta be."
+  "So that's how it's going down? Okay, I see."
+
+Empire rejects alliance (mission in progress):
+ Diplomat
+  "The Grand Council will be pleased to consider this matter once you have completed the mission you offered to undertake on our behalf."
+  "Our records show that you have failed to complete a mission for which you volunteered. The matter of the alliance is postponed until after completion of the mission."
+ Ecologist
+  "We might view this with favor... if you would complete the mission you set out to perform."
+  "We recall that you had once promised to complete an assignment for us. If this task is completed, we might consider the matter of alliance."
+ Bard
+  "Our rapidly deteriorating brain cells seem to recall that you once promised to undertake a mission for us. We can't talk about more serious matters till this mission is done!"
+  "Whoa, space-buddy! Not so fast! When can we expect you to complete the assignment you said you were going to perform for us?"
+ Zealot
+  "Spode sees all and knows all. He will remember that you have failed to complete a mission you were to undertake on his behalf. No alliance can be contemplated until the mission is completed."
+  "Your application for an alliance cannot be considered at this time. Spode's Children want only allies who keep their word. As we recall, you had offered to undertake a mission on our behalf, and this mission remains incomplete. "
+ Scientist
+  "Perhaps your memory fails you. You had offered to undertake a task on our behalf, and the task remains incomplete. We may reconsider once this mission is complete."
+  "It seems irrational to accept as an ally someone who is notoriously unreliable, and who promised to perform a mission which remains incomplete."
+ Trader
+  "We're still waiting for the profits from the mission you said you'd perform! Once that's complete, we can discuss other matters."
+  "We believe in spreading happiness about the galaxy with our friends, but we're still a little depressed about that mission you said you'd perform. Finish that, and we'll talk!"
+  "Tell you what - you do that favor for us - the one we talked about. You do that, and we'll happily team up with you."
+ Shaman
+  "We can't possibly have an ally with bad karma, and you've brought bad karma on yourself by failing to complete an assignment for us! Finish that, and we'll consult the Seeing Stone about the alliance."
+  "Sayeth the Prophet: 'Them what faileth to complete a mission will live friendless and alone.' You don't think the Prophet was talking about you, do you?"
+ Warrior
+  "We would never consider an alliance with someone who will not keep his word. Didn't you promise to complete a mission for us?"
+  "It is impossible to speak of alliance until such time as you have completed the task you volunteered to undertake."
+ Grob
+  "Clearly machine minds remember better than watery bags of neurons. Did you not offer to complete a mission on our behalf? Is this mission incomplete?"
+  "We will not ally with one whose mission is incomplete."
+ Response 1
+  "Let's talk about my mission."
+  "Could you explain my mission again?"
+  "Let's go over my mission again."
+  "Let's talk about my mission."
+ Response 2
+  "Man, the universe is no picnic, sometimes."
+  "The universe. She is a cruel mistress."
+  "That's harsh, dude. I guess I gotta do what I gotta do."
+  "Yeah, okay, okay. I see how it's gotta be."
+  "So that's how it's going down? Okay, I see."
+
+Empire requests alliance:
+ Diplomat
+  "The Grand Council would be honored if you would consent to join us in an alliance."
+  "The Grand Council views you as a reliable friend. Would you be interested in a formal alliance?"
+  "The Grand Council has decided that the galaxy would be a safer, more secure place if our two civilizations were allied. Do you agree?"
+ Ecologist
+  "We have been impressed by your commitment to the Galactic Life Web. Would you be interested in an alliance?"
+  "We're worried about an eventual confrontation with the Grox. Would becoming our ally interest you?"
+  "You have shown yourself a capable steward of many different biomes. We would like you to agree to become our ally."
+ Bard
+  "You're our best space-buddy ever! Let's become allies, and hope the party never dies!"
+  "You are so totally our BFF! Let's make it official with an alliance! "
+  "Let's pop the corks on our favorite fizzy juice, and become allies! What d'you say?"
+ Zealot
+  "After a long period of meditation and prayer, we find that Spode has inspired us make an offer of alliance."
+  "Let us become allies, and let Spode's will be done."
+  "The word of Spode would more easily be spread through the galaxy if you would consent to become our ally. Will you help Spode's people in this?"
+ Scientist
+  "You have demonstrated your commitment to reason and progress. Would it interest you to become our ally?"
+  "It seems reasonable at this point that we become allies."
+  "Let us become allies, and seek to bring order and enlightenment to the galaxy."
+ Trader
+  "We're all about happiness, and we'd be totally happy if you'd agree to be our ally!"
+  "It has always been our ambition to ally with beings as glorious and awesome as yourselves. Would you agree to an alliance?"
+  "If we became allies, we could establish a Totally For Profit Zone in our corner of the galaxy! Let's talk merger!"
+ Shaman
+  "Our fortune cookie at lunch said it was a good time to make friends, so we thought we'd ask if you'd be interested in an alliance!"
+  "Teacher Bguz said that we were friends in a former life. It seems as if we're destined to be allies!"
+  "It's clear that we're karmically linked! Let's become allies, and go on a galactic spirit quest together!"
+ Warrior
+  "You have demonstrated honorable behavior, and accordingly we offer to elevate you by making you our allies."
+  "You have earned our esteem, and we are interested in your becoming our ally."
+  "Our mutual security will be greatly enhanced if we become allies. Do you agree? "
+ Grob
+  "We desire an alliance with you. Refusal is not an option"
+  "It suits us for you to become our allies immediately. "
+  "We order you to form an alliance with us. "
+ Response 1
+  "Send Agreement to Alliance"
+ Response 2
+  "Send Rejection to Alliance"
+
+Player breaks alliance:
+ Diplomat
+  "Well, that was unfortunate. I'm sorry it had to play out like that."
+  "I don't feel good about how this went down, but I guess our alliance was always tenuous at best. I'm sorry things didn't work out."
+  "The Grand Council regrets your decision."
+ Ecologist
+  "We're sorry that it didn't work out. We will reflect on this to see where our paths began to part."
+ Bard
+  "Man, I thought we were in this together. You were like a gestational pod-mate to me! I feel so betrayed!"
+  "Really? Is it something we said?"
+ Zealot
+  "Alliance with an unbeliever was always a risk. Goodbye."
+ Scientist
+  "If data suggests that the alliance is no longer useful, then we should bring it to an end."
+ Trader
+  "I'm sorry that we had to part like this. Please don't hurt us. "
+  "We're sorry you feel that way, but we hope you'll still visit our boutique!"
+ Shaman
+  "The sage Fratfrt predicted this action in his Forty-Forth Quatrain!"
+ Warrior
+  "You have acted honorably in informing us of this decision."
+ Grob
+  "Wha...? Oh... well OF COURSE you do! You finally realized that our vast superiority to your race made for an extremely awkward alliance! In fact, we were going to break the alliance with you first, earlier this morning! We just were busy... doing... stuff.~p~Fine! We don't need your alliance anyway. It's not like you were paying any dues or anything! There are hundreds of other races out there who would *love* to be in allegiance with us. Hahaha! The Grox needs nothing! Except maybe our CDs... and that red hooded sweater you also borrowed... and maybe the lava lamp in the bedroom... but other than that, we need NOTHING!~p~Now be gone from our sight!"
+ Response 1
+  "Okay, well lemme ask you something else."
+  "Can I ask about something else?"
+  "I have another question, then."
+  "There is something else I'd like to discuss."
+ Response 2
+  "These things happen. Let's not dwell."
+  "Easy come. Easy go."
+  "Aww, do we have to make such a big deal out of this?"
+  "Hey, no hard feelings. Take care."
+
+Empire declares war:
+ Diplomat
+  "The Grand Council declares war!"
+  "You will regret your defiance of the Grand Council. We are at war!"
+  "The Grand Council sees no alternative but to declare war on your species!"
+ Ecologist
+  "Your materialist civilization will no longer be tolerated. We're at war!"
+  "In order to prevent further damage to the Universal Life Web, we must declare war on your species!"
+  "We've had enough of your non-life-affirming attitudes. We're at war!"
+ Bard
+  "We're totally at war now! Let the party begin!"
+  "We're going to eradicate your civilization! Wheeeee!"
+  "We're going to turn your species into highly entertaining piles of charred carbon!"
+ Zealot
+  "You have defied the Will of Spode for the last time! We are at war!"
+  "The War of Spodification has begun! Die, unbelievers!"
+  "Spode commands us to eradicate all unbelievers! We are at war!"
+ Scientist
+  "It is only rational to conclude that only a single civilization can dominate the galaxy, and that this species should be us.  Let the war begin!"
+  "Your species is too illogical and mindless to survive! Prepare for extermination!"
+  "We've had our fill of you and your inanities! It's war!"
+ Trader
+  "We're running a bit of a deficit, so we're going to kill all of you and loot your civilization! It's war!"
+  "The galaxy isn't about to give you a free lunch! We're at war!"
+  "We want your money! And your planets! And your cities! It's war!"
+ Shaman
+  "Your species is preventing the galaxy from advancing spiritually! We're going to eradicate you!"
+  "We had a Warrior Weekend that was a big success- so now we're going to beat some drums, walk the Path of War, and wipe out your species!"
+  "We're going to send you to your next incarnation! It's war!"
+ Warrior
+  "We are now at war. Don't take it personally- if it wasn't us eradicating you, it would be someone else. "
+  "We have decided to field-test our new weapons systems- on your planets! We are now at war."
+  "Let a thousand flowers bloom- and to explain the metaphor, the flowers are bombs, bursting above your cities. We're at war!"
+ Grob
+  "We are now at war! Exterminate! Exterminate!"
+  "We are now at war. The eradication of your species will go more efficiently if you do not resist."
+  "You are now at war with the Grox. Resistance is futile!"
+ Response 1
+  "Close Transmission"
+
+Empire surrenders system:
+ MySpecies
+  "This star and all of its planets are yours, just give us the chance to pack our things and leave."
+ Diplomat
+  "Cease your attack, and we will evacuate this system and leave it to you."
+  "We reluctantly conclude that it is hopeless to continue the fight. We will surrender this system if you permit us to leave unharmed."
+ Ecologist
+  "In order to spare our worlds further devastation, we will agree to surrender this system if you will order your forces to stand down."
+  "Your superior technology has won the day. We will leave this system to you if you will allow us to evacuate in peace."
+ Bard
+  "All right, you big bully! We'll agree to leave if you'll agree to stop shooting!"
+  "Your big lasers and stern martial prowess have won the day! If you'll give us enough time to pack a few of our things, we'll leave the planet to you!"
+ Zealot
+  "Spode has decreed for us a time of trial. We will abandon the system if you will agree to stop shooting."
+  "The ways of Spode are ineffable. He has decreed your triumph. If you will permit us to evacuate in peace, you may have the system and all that is in it."
+ Scientist
+  "It is only reasonable to conclude that we have lost the battle. If you will stop your attack, we will evacuate and leave the system to you."
+  "Your tactics have proven superior. If you will agree to a brief suspension of hostilities, we will cease our resistance and surrender this world."
+ Trader
+  "You need not continue to prove your magnificence! If you'll agree to a cease-fire, we'll abandon the system and leave everything to you!"
+  "Stop, stop! If you'll agree to suspend the war, we'll evacuate and abandon our property!"
+ Shaman
+  "Your ruthless materialist philosophy has won the day! If you will agree to a halt in your aggression, we will evacuate our survivors and leave the system to you."
+  "You're going to get a ton of bad karma for this! But your karmic burden may be lightened if you agree to a cease-fire so that we can peacefully abandon this system."
+ Warrior
+  "It must be admitted that your tactics were superior. If you will agree to a cease-fire, we will cease our resistance and leave this system to you."
+  "You have learned well, warrior! We will leave this system to you, if you will agree to a cease-fire."
+ Grob
+  "Grox surrender. Does not compute. "
+ Response 1
+  "I claim this place."
+ Response 2
+  "I'd rather destroy what's left than let you escape!"
+
+Empire surrenders war:
+ MySpecies
+  "We surrender! Please, we cannot rival your might. Take your spoils and leave us be, we beg of you!"
+ Diplomat
+  "The Grand Council has decided that our best option is to surrender."
+  "We come to you in hopes that you will accept our surrender."
+ Ecologist
+  "In order to spare the environment further damage, we now offer to surrender."
+  "This war has gone on long enough. We will surrender."
+ Bard
+  "Okay! You get the award for 'Meanest Culture in the Galaxy.' We give up! "
+  "We all have a big party to attend, so we thought we'd save everyone time and surrender."
+ Zealot
+  "It is Spode's will that we hang on the brink of ruin! We will surrender, if you will spare what's left of us!"
+  "We must preserve what is left! If you will spare Spode's Children, we will agree to surrender."
+ Scientist
+  "Available data suggests that it is futile to continue the conflict. We therefore offer to surrender."
+  "Further resistance would seem to be useless. Will you accept our surrender?"
+ Trader
+  "Stop! Will you accept our surrender before you destroy the remains of our trade goods?"
+  "No more shooting! We will surrender if you'll leave us the modest wealth that remains!"
+ Shaman
+  "Our spiritual superiority has not helped us in this struggle! We offer to surrender!"
+  "We can't hold out long enough for you to be crushed beneath the weight of your own karma! We surrender!"
+ Warrior
+  "Your forces have fairly won the day. We offer honorable surrender."
+  "Your tactics have been surprisingly effective. We offer surrender."
+ Grob
+  "Grox surrender? Does not compute. "
+ Response 1
+  "Yes, let there be peace."
+ Response 2
+  "No, I think I'd gain more from your destruction."
+
+Begin peace offering:
+ MySpecies
+  "You think that money can solve this problem? Hmm... That could be."
+ Diplomat
+  "It is only fair that those in the wrong offer reparations. The Grand Council suggests great generosity."
+  "The Grand Council does not alter its principles, but for the sake of clarity we ask you to elucidate your offer."
+ Ecologist
+  "We value life, not cash, but as you are a materialist culture, perhaps depriving you of money will serve as punishment enough. How much do you offer?"
+  "Money may serve to help repair the damage you have caused. How much?"
+ Bard
+  "You'd better offer enough to cover the costs of the Peace Festival and several stylish new outfits!"
+  "But we're having such fun blowing you to bits! You'd have to offer lots of money to divert us from our sport!"
+ Zealot
+  "Spode does not make peace so easily. But perhaps if the tithe were large enough...?"
+  "We might consider this sincere atonement if the sum were large enough to cause you genuine pain."
+ Scientist
+  "We may consider peace, but only if your offer is sufficient."
+  "We require that the offer be equitable."
+ Trader
+  "You can absolutely change our minds with a big enough bribe! How much?"
+  "You'd have to compensate us in full for the loot we'd otherwise plunder from your worlds!"
+ Shaman
+  "We despise your offer of material compensation, but we suppose that if you suffer financial loss, it's only the forces of karma at work. How much do you offer the Lords of Karma?"
+  "Material possessions are choking your Higher Self. How much are you willing to sacrifice?"
+ Warrior
+  "On one end of the balance, we despise your offer of cash as a means of settling this dispute. On the other end, we'd like to be able to pay for new weapons systems. We counsel tilting the balance with a weighty substance such as gold."
+  "We would expect an offer of money from one who does not understand honor. Yet... as you have no honor... you can scarcely offer anything else. How much?"
+ Grob
+  "Peace means nothing to The Grox. "
+ Response 1
+  "~peace_offer_5~"
+ Response 2
+  "~peace_offer_4~"
+ Response 3
+  "~peace_offer_3~"
+ Response 4
+  "~peace_offer_2~"
+ Response 5
+  "~peace_offer_1~"
+ Response 6
+  "Nevermind. War is perhaps the less expensive alternative."
+
+Peace offering declined (weak):
+ MySpecies
+  "Haha! Nice try, but you'll have to better than that to soothe our rage."
+ Diplomat
+  "The Grand Council does not consider this sum to be entirely adequate."
+  "This offer of reparations does not quite meet our standards."
+ Ecologist
+  "This sum does not compensate us for our pain and suffering."
+  "While we find the idea of reparations adequate in principle, this sum is inadequate in practice."
+ Bard
+  "At last you have our attention! Unfortunately this sum won't keep our attention for long."
+  "We're sorry, but this amount won't quite pay for all the weapons we've been blasting you with!"
+ Zealot
+  "We are willing to give you credit for sincerity, but the sum is inadequate."
+  "Spode requires a larger tithe."
+ Scientist
+  "Your reasoning is not far off the mark, but it still falls short."
+  "A cost-benefit analysis shows that this offer does not fully compensate us for our efforts."
+ Trader
+  "The sum had us sitting up and taking notice! But our attention is wandering again- can you offer more?"
+  "Not bad for a first offer! We'll look forward to your second!"
+ Shaman
+  "This sum is not quite enough to sway us from the Path of the Spirit Warrior."
+  "We've checked with the Oracle, and she says, 'Ask for more!'"
+ Warrior
+  "This may pay for an ordinary weapons system, but we want the one with all the options! Make a better offer!"
+  "This is not enough to compensate for the joy of annihilating you!"
+ Grob
+  "Money means nothing to The Grox."
+ Response 1
+  "I'll keep that in mind."
+
+Peace offering declined (strong):
+ MySpecies
+  "This paltry sum isn't even close! With this pathetic offering, you've done nothing but give us more reason to crush you."
+ Diplomat
+  "The Grand Council urges you to reconsider this paltry offer."
+  "The Grand Council considers this sum grossly inadequate."
+ Ecologist
+  "This insignificant sum shows that you aren't serious about the peace!"
+  "This sum will barely suffice to plant a tree! "
+ Bard
+  "This is a joke! Right? Right?"
+  "We totally applaud your ability to deliver a laugh line right in the middle of a desperate struggle for your own existence! But we're not going to stop shooting until you get a lot more serious."
+ Zealot
+  "Do you think a tiny sum such as this can restrain Spode's Holy Warriors?"
+  "You insult us with this ridiculous sum!"
+ Scientist
+  "Your analysis of the situation seems faulty. Such an insignificant offering will not tempt us."
+  "This tiny sum is in itself evidence of your defective reasoning skills."
+ Trader
+  "Get serious! We'd earn lots more by plundering you!"
+  "Don't try to lowball us when we're pointing guns at you!"
+ Shaman
+  "Not only do you assume that we'd want your filthy money, but now you try to cheat us! "
+  "We're only interested in helping you to achieve spiritual Oneness through sacrifice of material goods. This sacrifice is ridiculously small- and you want Oneness, don't you?"
+ Warrior
+  "We scorn this ridiculous sum!"
+  "Your offer is deeply inadequate! Fight on, or impoverish yourself further!"
+ Grob
+  "Money means nothing to The Grox."
+ Response 1
+  "Oops. We may have miscalculated."
+
+Peace offering success (weak):
+ MySpecies
+  "Ah, very well. We will let this offering appease us for now."
+ Diplomat
+  "The Grand Council is pleased to accept your offer."
+  "The Grand Council finds your offer adequate. Let there be peace between our peoples."
+ Ecologist
+  "This will compensate us adequately for the destruction and expense of the war. "
+  "We are a peaceful people by nature, and will accept this offer in token of the future friendship between our species."
+ Bard
+  "This is enough for a totally awesome weekend! The peace is on, space-buddy!"
+  "With this money, we can all have fantastic new outfits! Let's give peace a chance!"
+ Zealot
+  "In exchange for this money, the Warrior of Spode will withhold their wrath... for now."
+  "The tithe is adequate. Let there be peace."
+ Scientist
+  "Our analyses coincide. Let us settle our differences."
+  "For once, your conclusions are rational. Let there be peace."
+ Trader
+  "That is a completely adequate sum! Let's be friends! And don't forget that we'd like you even more if you bought some of our merchandise!"
+  "We'll take the money! And we'll take even more, if you visit the boutique!"
+ Shaman
+  "In order to benefit your Higher Selves, we will relieve you of the karmic burden of this money. There shall be peace between us."
+  "We assure you that after we chant over this money to remove its bad karma, we will use the sum only for spiritually elevated purposes!"
+ Warrior
+  "To the victor belong the spoils! It would be wise for you never to tempt us again to your destruction."
+  "We are honored to crush your forces, ravage your planets, take your money, and proclaim a victory."
+ Grob
+  "What is peace? Grox will cease destruction of current target, temporarily. "
+ Response 1
+  "What a relief!"
+
+Peace offer accepted (strong):
+ MySpecies
+  "Oh my, yes! I'm quite certain you won't have any trouble with us now. Quite generous of you!"
+ Diplomat
+  "Your astounding generosity shall be rewarded by immediate peace."
+  "The reparations are beyond our expectations. The Grand Council shall ratify the peace instantly."
+ Ecologist
+  "This sum is sufficient to turn a dozen worlds green! Let there be peace between us!"
+  "With such a vast sum, you have truly renounced your materialist ethic! "
+ Bard
+  "Now we've got to be careful so that we don't get crushed by great big wads of money falling from the sky! Let's have peace... especially now that we're too rich to do any fighting!"
+  "Thanks to your astounding generosity, we'll be able to afford the new fashion for solid collidium fixtures in our homes!"
+ Zealot
+  "We did not expect such a generous atonement. With this, you show yourself genuinely repentant."
+  "Spode must have moved your heart to this extraordinary contribution! In his name, we accept this proposal of peace."
+ Scientist
+  "Our analysis suggests that you must be seriously deranged to give us this much money. Nevertheless, we accept."
+  "We accept both your offer of peace, and this colossal extravagance of a gift."
+ Trader
+  "WAHOOO!!! WE'LL TAKE IT!!! WE'RE RICH!!! WE'RE RICH!!! WE'RE RICH!!!"
+  "If we'd known you had that much money, we would have declared war earlier!"
+ Shaman
+  "By giving away this colossal sum, you have taken your first step toward spiritual wisdom."
+  "As spiritually advanced beings, we will be far better custodians of this vast and unexpected sum than you. You may have your peace. "
+ Warrior
+  "You must have been insane with terror to offer us this much! We take the money, and advise you to remain terrified."
+  "This sum will pay for weapons systems beyond our wildest imaginings! We'll take the money! And the guns! And the bombs! And the rockets...!"
+ Grob
+  "What is peace? Grox will cease destruction of current target, temporarily. "
+ Response 1
+  "Let there be peace at any price."

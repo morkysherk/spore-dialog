@@ -1,0 +1,489 @@
+Diplomat Archetype Mission briefing 1:
+ Diplomat
+  "Ah yes, most welcome friend. So you say you would like to join us in the Philosophy of Order? Very good, as we are sure you know this is no easy task. Only those dedicated to making order from chaos will feel at home. There are many, many forms to fill out, signatures required, fees to collect, and approvals to obtain.~p~Of course it should be stated, Galactic Policy is that you may only control one super power at a time. If you train with us, you will have to relinquish your current super power. Understand?"
+ Response 1
+  "Yes. I would like to hear more..."
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Diplomat Archetype Mission briefing 2:
+ Diplomat
+  "Of course, we follow the Scrolls of Order. With their tidy margins and neatly numbered passages... Makes us giddy just thinking about the double-spacing!~p~We have one super power at our disposal and it is only to be used with a proper license. We call it... Static Cling. With Static Cling, turrets will not fire at you or your allied fleet for a certain amount of time. Very useful indeed.~p~And speaking of allies, forming relationships is the key to your training in the Philosophy of Order.~p~What say you? Ready to pay your tuition of ~mission_accept_cost~ Sporebucks?"
+ Response 1
+  "I accept your Philosophy and wish to begin my training."
+ Response 2
+  "I've changed my mind. I will stay as I am for now."
+
+Diplomat Archetype Mission accepted:
+ Diplomat
+  "Excellent. Your application for enrollment, and fee, have been accepted. In this case, we will waive the paperwork. You need to sign and set to work immediately in your task.~p~You must form ~mission_num_actions_left_to_perform~ new alliances. We are sure you understand how important interstellar relationships are. When we open the pathways of communication, we cut down on diplomatic errors. It is of the utmost importance."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Roger. The starship ~ufo_name~ out."
+
+Diplomat Archetype Mission rejected:
+ Diplomat
+  "Very well.~p~The Grand Council invites you to reapply to the Philosophy of Order at a later date, to be determined by the applicant."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Roger. The starship ~ufo_name~ out."
+
+Diplomat Archetype Mission reminder:
+ Diplomat
+  "You have not yet completed your course of instruction. Further work is required."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "Keep the training fee... but I'm dropping out."
+ Response 3
+  "Roger. The starship ~ufo_name~ out."
+
+Diplomat Archetype Mission aborted:
+ Diplomat
+  "Very well. If you could please submit your request to terminate your training, in writing, we will prepare the paperwork to void your apprentice status."
+ Response 1
+  "I'll get right on that. One other thing..."
+ Response 2
+  "Roger. The starship ~ufo_name~ out."
+
+Diplomat Archetype Mission completed:
+ Diplomat
+  "Welcome back, ~player_title~ ~player_creature_name~! We see you have completed your training and are therefore accepted into the Philosophy of Order!~p~The papers have been filed and everything is set and approved, just as it should be. ~p~Welcome to the fray. Static Cling is now yours."
+ Response 1
+  "Yippee! I'd like to ask you about something else..."
+ Response 2
+  "I'm off to try Static Cling! Farewell!"
+
+Ecologist Archetype Mission briefing 1:
+ Ecologist
+  "We are flattered that you want to be like us, we are all one with the universe after all. But to our thinking, the Philosophy of Life, is the ultimate trip thru the universe.~p~We hate to lay this heavy load on you, but you must understand that this is a big decision. Your training will take time and will not be cheap...~mission_accept_cost~ Spucks in fact... but that's just numbers...~p~Most importantly, you may only belong to one philosophy and only have one super power at a time. Your current super power will be left behind once training is complete.~p~Are you hearing what we are saying?"
+ Response 1
+  "I'd like to hear more. "
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Ecologist Archetype Mission briefing 2:
+ Ecologist
+  "We are the world around us, man. We are the stars in the heavens, so we can see why you want to become one with nature and with us. We know you must think our super power is sweet. We have the ability to abduct all the plants and animals on a given planet, we call it... the Safari Vacuum! Dude! It's our special way of communing with nature.~p~In order to learn the Philosophy of Life, you must become one with nature. You must learn the circle of life... the bond of living things to each other.~p~For your training, you must travel the galaxy and populate planets with plants and animals. Then you will know the Philosophy of Life."
+ Response 1
+  "I accept your Philosophy and wish to begin my training."
+ Response 2
+  "I've changed my mind. I will stay as I am for now."
+
+Ecologist Archetype Mission accepted:
+ Ecologist
+  "Nothing could make us happier than to have you with us, dude!~p~Complete ~mission_num_actions_left_to_perform~ Food Webs and we will dance together under the stars!"
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Peace. Out."
+
+Ecologist Archetype Mission rejected:
+ Ecologist
+  "I hear you. This decision is not to be taken lightly.~p~Meditate on it a while and let us know if you decide the Philosophy of Life is for you."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Peace. Out."
+
+Ecologist Archetype Mission reminder:
+ Ecologist
+  "Doing the right thing is not always easy, completing Food Webs is not a job for the weak... We believe you have it in you though... Keep trying... Only ~mission_num_actions_left_to_perform~ more to go."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Keep the training fee... but I'm dropping out."
+ Response 3
+  "I'm off!"
+
+Ecologist Archetype Mission aborted:
+ Ecologist
+  "You may drop out of training if you wish, but... That is no way to get the Safari Vacuum... and you know you want it. "
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Peace. Out."
+
+Ecologist Archetype Mission complete:
+ Ecologist
+  "Welcome back ~player_title~ ~player_creature_name~!! What a joyous occasion!!~p~You have joined the Philosophy of Life and all its benefits are yours.~p~The Safari Vacuum is now yours to embrace!!"
+ Response 1
+  "Yippee! I'd like to ask you about something else..."
+ Response 2
+  "Thank you for teaching me your ways. Peace."
+
+Bard Archetype Mission briefing 1:
+ Bard
+  "Ahoy! You want to join our fateful crew! We are sure there's a lot for you to do.~br~We know we are incredibly jolly, if you fail to join us that is your folly!~br~It won't be easy on that you can bet! But you can probably get through it not soaking wet!!~p~Ho ho! We crack ourselves up. ~p~Seriously though, it ain't gonna be easy! And... it's gonna cost ya! ~mission_accept_cost~ Spucks, in fact!~p~To take on the Philosophy of Chance is to give up your old super power in exchange for the new... so, be sure of what you do."
+  "You want to be like us, the ~race~??? Well, well! That is a big commitment, you know. It is a big decision that you should spend a proper amount of time thinking about.~p~TIMES UP!~p~Hoohoo! Just kidding! But you will have to give up your super power in exchange for ours, you will need to adhere to the Philosophy of Chance, and pay the tiny little tuition fee of ~mission_accept_cost~ Spucks.~p~What say you, oh Serious One...? Ready to take a chance on Chance? If you ask us though... it would be a step up for you!"
+ Response 1
+  "Tell me more. I'm fascinated!"
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Bard Archetype Mission briefing 2:
+ Bard
+  "Those that follow the Philosophy of Chance, such as the adorable ~race~...Who us? Why, thank you! Don't mention it!... *ahem*... Love the unexpected and the twists and turns of life. The meaning of life is both simple and complex... is it not? No, I think it is.~p~But most importance is happiness... That, and surprises... And also cake.~p~To sing and make merry is our favorite ritual and by this we have invented a very special song... the Soothing Song. That is our super power! It makes even your worst enemy friendly... until it wears off. Wowsers!~p~Will you be joining us in our song?"
+ Response 1
+  "I accept your Philosophy and wish to begin my training!"
+ Response 2
+  "I've changed my mind. I will stay as I am for now."
+
+Bard Archetype Mission accepted:
+ Bard
+  "Hooray! As it is said in the Blocks of Chance, the meaning of life is about the unexpected surprises. To embrace the Philosophy of Chance you must seek those rare surprises found on planets near and far.~p~Collect ~mission_num_actions_left_to_perform~ galactic ~^p^mission_num_actions_left_to_perform^treasure^treasures~ and then you too will know the patience and luck of our kind.~p~Happy exSporeing! "
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Bard Archetype Mission rejected:
+ Bard
+  "Skiddledee-skee if you must. Survey the rest... you will choose the Philosophy of Chance when you see how boring the rest are. Dreck!"
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Bard Archetype Mission reminder:
+ Bard
+  "Alas and alack! You are back and slack! Did you forget... Such silliness.~p~You, of course, must collect ~mission_num_actions_left_to_perform~ more rare ~^p^mission_num_actions_left_to_perform^object^objects~ before your training in the Philosophy of Chance is complete.~p~Did you by Chance think we would let you slide! Ho ho!"
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "Keep the training fee... but I'm dropping out."
+ Response 3
+  "Now you see me, now you don't."
+
+Bard Archetype Mission aborted:
+ Bard
+  "Now, this is just plain silliness! Why would you leave us when we are by far the cutest Empire you ever did see!~p~We will just have to sit right here... Right Here... until you change your mind."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Bard Archetype Mission complete:
+ Bard
+  "Hip Hip Hooray! Look at you! Look at us! You DID IT!~p~Let's all sing a happy tune, and raise our glasses to the moon! OH man! We are excited! It's not every day we make such great new friends...~p~Ha ha! Let's make more! The Soothing Song is yours!! "
+ Response 1
+  "Yippee! Before I go..."
+ Response 2
+  "I'm off to try my Soothing Song!"
+
+Zealot Archetype Mission briefing 1:
+ Zealot
+  "We, the ~race~, abideth in the teachings of Spode and follow the Scrolls of Faith. All we have to do in order to not be wrong is to be right, and Spode shows us the way! Any who do not heed Spode are evil and must not be tolerated.~p~Have you seen the light and wish to acknowledge Spode and join us? The path of righteousness is never easy. It will take considerable time and a tithe in the amount of ~mission_accept_cost~ Sporebucks. When you embrace the Philosophy of Faith you must relinquish your attachment to any other super power.~p~Know you this well before you accept Spode as your own."
+ Response 1
+  "I am listening. Tell me more."
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Zealot Archetype Mission briefing 2:
+ Zealot
+  "The benefit of the Philosophy of Faith is self-evident; it is the only true philosophy. But if that is not enough to encourage you, know that the followers of Spode possess the super power of Fanatical Frenzy. This mighty and holy weapon has the power to convert an entire planet to your Empire, fellow followers of Faith.~p~What sayest thou? Art thou ready to accept the Philosophy of Faith as thine own?"
+ Response 1
+  "I accept your Philosophy and wish to begin my training."
+ Response 2
+  "I've changed my mind. I will stay as I am for now."
+
+Zealot Archetype Mission accepted:
+ Zealot
+  "Thou hast chosen wisely.~p~The time has come for us to begin thy training in the ways of Spode.~p~Much of the galaxy has not yet seen the light of the Philosophy of Faith. We much prepare to inform them.~p~To this end, thou shalt colonize ~mission_num_actions_left_to_perform~ more planets, so that the followers of Spode are numerous and ready.~p~Go with Spode!"
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Fare thee well."
+
+Zealot Archetype Mission rejected:
+ Zealot
+  "It should be immediately clear that the Philosophy of Faith is the only true Philosophy. Once you realize this, you will return.~p~Until then, your soul is in jeapordy."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Fare thee well."
+
+Zealot Archetype Mission reminder:
+ Zealot
+  "We are not yet certain that Spode is in your heart.~p~Seekest thou colonization of ~mission_num_actions_left_to_perform~ more ~^p^mission_num_actions_left_to_perform^planet^planets~ with haste.~p~This will ensure your place in the Scrolls of Faith."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "I give up"
+ Response 3
+  "Fare thee well."
+
+Zealot Archetype Mission aborted:
+ Zealot
+  "Spode does not bless those who abandon him."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Fare thee well."
+
+Zealot Archetype Mission complete:
+ Zealot
+  "Wonderous well, ~player_title~ ~player_creature_name~! You have learned thoroughly the Way of Spode and we welcome you into the Philosophy of Faith. We have great hopes for your eventual salvation.~p~We grant unto thee the Fanatical Frenzy! Use it with the blessing of Spode."
+ Response 1
+  "Wonderous well! One more thing..."
+ Response 2
+  "I shall share the Faith with the heathen hordes! Fare thee well."
+
+Scientist Archetype Mission briefing 1:
+ Scientist
+  "~player_title~ ~player_creature_name~, clearly you have studied all of the other options and have found them wanting compared to the Philosophy of Science. We like that attitude of attention to detail.~p~Keep in mind that this requires rigorous study, and it is not an inexpensive endeavor! Tuition for our discipline is ~mission_accept_cost~ Sporebucks and of course in exchange for your new abilities, you must give up your old.~p~Are you willing to apply yourself to your studies?"
+ Response 1
+  "This sounds interesting... go on..."
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Scientist Archetype Mission briefing 2:
+ Scientist
+  "~player_title~ ~player_creature_name~, the Philosophy of Science is the study and acquisition of knowledge in any way we can.~p~If you are smart enough to join our ranks, a very scholarly pursuit, you will gain access to our super power - The Gravitation Wave. With this powerful scientific weapon, you can destroy all colonies, cities or tribes on a planet."
+ Response 1
+  "I accept your Philosophy of Science. I'm ready to begin my training."
+ Response 2
+  "I've changed my mind. I will stay as I am for now."
+
+Scientist Archetype Mission accepted:
+ Scientist
+  "~player_title~ ~player_creature_name~, exploration and discovery are the paths to the Philosophy of Science.~p~Explore ~mission_num_actions_left_to_perform~ non-planetary ~^p^mission_num_actions_left_to_perform^system^systems~, including blackholes, nebulae or other galactic objects.~p~Go forth and bring back knowledge! Knowledge is the only true power!"
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "I understand. Farewell."
+
+Scientist Archetype Mission rejected:
+ Scientist
+  "Rational thought will surely lead you to the Philosophy of Science. Until then, we hope your travels are enlightening."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "I must follow a different path. Farewell."
+
+Scientist Archetype Mission reminder:
+ Scientist
+  "Full understanding of our principles does not come quickly. We require more dedicated work.~p~You still need to discover ~mission_num_actions_left_to_perform~ more non-planetary astronomical ~^p^mission_num_actions_left_to_perform^object^objects~."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "I don't understand your principle... I shall move on now..."
+ Response 3
+  "I'm off!"
+
+Scientist Archetype Mission aborted:
+ Scientist
+  "This erratic behavior seems unscientific. Perhaps our Philosophy is not for you."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "I must follow a different path. Farewell."
+
+Scientist Archetype Mission complete:
+ Scientist
+  "Welcome ~player_title~ ~player_creature_name~! Let the commencement commence!~p~The Gravitation Wave is yours! Go forth and soak up knowledge like a celestial sponge!"
+ Response 1
+  "I am excited, but before I go..."
+ Response 2
+  "Thank you, I shall now go try out the Gravitation Wave! "
+
+Trader Archetype Mission briefing 1:
+ Trader
+  "Oh, wonderful, wonderful! You wish to join us? Oh, together we will prosper! Imagine the riches!~p~Though we are sure your amazing-ness is up to the task, you should know it won't be easy... but challenges are what a brave amazing soul like yourself lives for I'm sure!~p~And of course, for a dear friend such as ~player_title~ ~player_creature_name~, we can offer the training for the low price of ~mission_accept_cost~ Spucks!"
+ Response 1
+  "How can I do it?"
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Trader Archetype Mission briefing 2:
+ Trader
+  "Excellent, Excellent! We subscribe to the Philosophy of Prosperity! To the victor go the spoils of course! Of course, you are so wise you must already know that!~p~If you join us you will have access to our super power, the Cash Infusion! With this you can fill up your economic capture bar instantly! It's quite a nice little trick of the trade!"
+ Response 1
+  "I accept your Philosophy of Prosperity and wish to begin my training."
+ Response 2
+  "I've changed my mind. I will stay as I am for now."
+
+Trader Archetype Mission accepted:
+ Trader
+  "Fantastic! Now in order to become one of us, you must learn the value of profit.~p~You must sell ~mission_num_actions_left_to_perform~ items to buyers of your choice! Then you will truly understand the value of a Sporebuck.~p~Go, Go, Go!"
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Prosperity to you. Farewell."
+
+Trader Archetype Mission rejected:
+ Trader
+  "I'm sure if you think about it, you will realize that Sporebucks and Spice are the key to the Galaxy.~p~Come back when you are ready to enjoy Prosperity."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Prosperity to you. Farewell"
+
+Trader Archetype Mission incomplete:
+ Trader
+  "What? I'm sure it is an oversight but you have not quite finished yet... You still have ~mission_num_actions_left_to_perform~ trade ~^p^mission_num_actions_left_to_perform^transaction^transactions~ to complete. Go! Go! Go!"
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "Keep the training fee... but I'm dropping out."
+ Response 3
+  "I'm off!"
+
+Trader Archetype Mission aborted:
+ Trader
+  "Very well... If you wish to give up, it is disappointing indeed. We had thought this would be so simple for someone such as yourself..."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Sorry, another time. See ya!"
+
+Trader Archetype Mission completed:
+ Trader
+  "Welcome, welcome ~player_title~ ~player_creature_name~!! We see you have completed all of the required transactions!~p~Excellent! Excellent! You are now one among many wonderful, wonderful followers of the Philosophy of Prosperity!~p~We are so, so, so pleased! We present you with the special ability of Cash Infusion... a must-have for all who appreciate Prosperity. Enjoy!"
+ Response 1
+  "Yippee! I'd like to ask you about something else..."
+ Response 2
+  "Thank you for teaching me your ways. Prosperity to you."
+
+Shaman Archetype Mission briefing 1:
+ Shaman
+  "Indeed my friend, if you wish to be like us, then you shall become like us. Though it is not a decision to be taken lightly. As in all things you must determine if it is your true calling. If you have come to us after careful reflection and meditation, then we welcome you.~p~Be aware that joining us will test your resolve and your wallet. The training for the Philosophy of Harmony requires a tuition of Sporebucks numbering ~mission_accept_cost~."
+ Response 1
+  "I am listening. Tell me more."
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Shaman Archetype Mission briefing 2:
+ Shaman
+  "We believe in harmonic balance. To us, all things, all beings... are connected.~p~The Scrolls of Harmony teach that we are very young, the universe is very old, and we still have much to learn. It is our desire that beings in the universe exist together in peace and harmony.~p~To that end, we are fortunate to have a very special super power, the Return Ticket. With this we can easily teleport back to our home world where we can learn from our elders among whom all knowledge lies."
+ Response 1
+  "I accept your Philosophy of Harmony and wish to begin my training."
+ Response 2
+  "I've changed my mind. I will stay as I am, for now."
+
+Shaman Archetype Mission accepted:
+ Shaman
+  "Wondrous well! Let the song fill you as you embark on your training.~p~In order to join our Philosophy of Harmony, you must play a part in shaping the universe around you. Color is life and life is color! Creativity is your most treasured gift. Variety is the Harmony of life.~p~Infuse the galaxy around you with harmony, variety, color, and light. Use the tools that paint and shape to mold the planets of the galaxy. Do this ~mission_num_actions_left_to_perform~ times and join the Philosophy of Harmony."
+ Response 1
+  "Before I go, I'd like to ask you about something else..."
+ Response 2
+  "With a song, I go. Farewell."
+
+Shaman Archetype Mission rejected:
+ Shaman
+  "Wise soul. Venture carefully for this is a decision that has many answers and is not to be taken lightly.~p~If the Philosophy of Harmony is for you... you will know in time."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "With a song, I go. Farewell."
+
+Shaman Archetype Mission reminder:
+ Shaman
+  "You're not yet ready, child! Spiritual instruction requires diligence on your part. You have work to do, paths to explore, auras to cleanse!~p~~mission_num_actions_left_to_perform~ more brush ~^p^mission_num_actions_left_to_perform^stroke^strokes~ of harmonious color and creativity spread on celestial orbs and your training will be complete."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "Keep the training fee... but I'm dropping out."
+ Response 3
+  "With a song, I go. Farewell."
+
+Shaman Archetype Mission aborted:
+ Shaman
+  "You must do what is in your heart. We wish you well to find the Philosophy that is your true self."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "With a song, I go. Farewell."
+
+Shaman Archetype Mission complete:
+ Shaman
+  "Welcome to our family. Together we will create harmony for this world. Let us give thanks to the heavens above and the planets below for our good fortune. The Return Ticket is now yours."
+ Response 1
+  "Most wondrous! Before I go..."
+ Response 2
+  "I'm off to spread the Philosophy of Harmony. I count my blessings."
+
+Warrior Archetype Mission briefing 1:
+ Warrior
+  "~player_creature_name~ ask to learn the Philosophy of Force. ~player_creature_name~ wish to stand with the great warriors. To call upon Force is to have friends in battle. The power of Raider Rally can summon aid in combat. There is much strength in friends.~p~~player_creature_name~ must understand that the training is hard. To act with Force, one must be strong. One must be tough. One must commit completely."
+ Response 1
+  "I understand.  Please continue."
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Warrior Archetype Mission briefing 2:
+ Warrior
+  "The Philosophy of Force is not easily followed. ~player_creature_name~ must show commitment. There is no strength without commitment.~p~~player_creature_name~ will pay ~mission_accept_cost~ Sporebucks and when complete, must give up other super power. Only then will we ~race~ teach the Philosophy of Force."
+ Response 1
+  "I am willing to commit.  Please teach me."
+ Response 2
+  "I've changed my mind. I will stay as I am for now."
+
+Warrior Archetype Mission accepted:
+ Warrior
+  "Training begins, ~player_creature_name~. The Philosophy of Force is driven by strength and courage. Show us your strength. Show us your courage. Conquer ~mission_num_actions_left_to_perform~ planets. Then we will grant you the power of Raider Rally."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "I'm off!"
+
+Warrior Archetype Mission rejected:
+ Warrior
+  "Very well, ~player_creature_name~.  Return when you are able to show your commitment."
+ Response 1
+  "Can we discuss something else..."
+ Response 2
+  "I'm off!"
+
+Warrior Archetype Mission reminder:
+ Warrior
+  "~player_creature_name~ must conquer ~mission_num_actions_left_to_perform~ more ~^p^mission_num_actions_left_to_perform^planet^planets~. Only then will the ~race~ be satisfied with your strength."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "Please cancel my training, even though I already paid."
+ Response 3
+  "I'm off!"
+
+Warrior Archetype Mission aborted:
+ Warrior
+  "Perhaps the ~race~ were wrong to train you.  You lack strength."
+ Response 1
+  "Can we discuss something else..."
+ Response 2
+  "Sorry. I'm off!"
+
+Warrior Archetype Mission complete:
+ Warrior
+  "~player_creature_name~, you have done well! You have proven your strength. Your training is complete. We are honored to give you the power of Raider Rally."
+ Response 1
+  "The honor is mine. I'd like to ask you something else..."
+ Response 2
+  "I am off to use the power of Raider Rally on the enemy!"
+
+Archetype mission already active:
+ Diplomat
+  "Oh dear. Galactic Operating Procedures simply do not allow training in two Philosophies at once, think of the chaos the would cause! No! Do not think of it... it's too stressful!~p~If you wish to dedicate yourself to the Philosophy of Order, you must cancel your other obligation first."
+ Ecologist
+  "Although we are all part of one universe, you can't learn about the Philosophy of Life and train with someone else at the same time, man.~p~Give them the bad news... or just drop out... and then you can train with us."
+ Bard
+  "If you are to train in the Philosophy of Chance instead, you will need to cancel your other commitment first"
+  "If you are to train in the Philosophy of Chance instead, you will need to cancel your other commitment first"
+ Zealot
+  "If you are to train in the Philosophy of Faith instead, you will need to cancel your other commitment first"
+  "If you are to train in the Philosophy of Faith instead, you will need to cancel your other commitment first"
+ Scientist
+  "Well, ~player_title~ ~player_creature_name~, The Philosophy of Science requires absolute dedication. If you wish to study with us, you must first terminate your other studies."
+ Trader
+  "Great! Great! There's just one minor formality, a tiny little detail to work out.~p~Our standard contract for training in the Philosophy of Prosperity contains an exclusivity clause. You're gonna have to cancel any other training before we can make this deal happen."
+ Shaman
+  "If you are to train in the Philosophy of Harmony instead, you will need to cancel your other commitment first"
+  "If you are to train in the Philosophy of Harmony instead, you will need to cancel your other commitment first"
+ Warrior
+  "To follow the Philosophy of Force, ~player_species~ must show commitment. ~player_species~ must first cancel all other training. Do this and return."
+ Response 1
+  "I understand. One more thing before I go..."
+ Response 2
+  "I will do what it takes to prove my worth to you. Fare well."

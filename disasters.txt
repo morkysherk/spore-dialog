@@ -1,0 +1,278 @@
+Unused disaster (?):
+ MySpecies
+  "Captain. We regret to inform you that the citizens of planet ~mission_target_planet~ are on strike and refuse to produce more Spice. Furthermore, they are threatening to reallocate the current Spice storage out of the Space Program and into more terrestrial pursuits.~p~It seems they have gone so long without a visit from you that they are failing to realize how the Space Program benefits them. I'm sure a simple visit from you would be the key to motivating them.~p~We hope to see you soon before the Spice is reallocated.~p~Planet ~mission_target_planet~ Out."
+ Response 1
+  "Close Transmission"
+
+Colony plundered by pirates:
+ MySpecies
+  "Captain! We need your immediate help! A alien pirate force has struck planet ~mission_target_planet~. They're looting the spice supplies. ~p~Make your way to planet ~mission_target_planet~ in the ~mission_target_star~ star system as quickly as you can or they are sure to make off with all of our spice!~p~Please hurry!!"
+ Response 1
+  "Close Transmission"
+
+Colony attacked by pirates:
+ MySpecies
+  "Captain! We need your immediate help! ~p~We are under attack from an unknown assailant!!! Make your way to planet ~mission_target_planet~ in the ~mission_target_star~ star system as quickly as you can or we are sure to suffer heavy losses.~p~Please hurry!!"
+ Response 1
+  "Close Transmission"
+
+Colony attacked by empire:
+ MySpecies
+  "Captain! We need your immediate help! ~p~Our enemy, ~mission_attacker_empire~, has sent an alien fleet to attack us!!! Make your way to planet ~mission_target_planet~ in the star system ~mission_target_star~ as quickly as you can or we are sure to suffer heavy losses.~p~Please hurry! "
+ Response 1
+  "Close Transmission"
+
+Colony attacked by Grox:
+ MySpecies
+  "Captain. I hate to trouble you, but we are detecting something very mysterious on our radar and need your assistance.~p~This unknown object is headed for civilization on planet ~mission_target_planet~ and has ignored all attempts of communication.~p~They seem to be using some kind of signal jamming technology that we've never seen before. We can't get any data on it.~p~...Captain, we fear this could be a Grox probe.~p~We request you come quickly and intercept it.~p~~mission_target_planet~ out!"
+ Response 1
+  "Close Transmission"
+
+Colony overworked:
+ MySpecies
+  "Captain! We are seriously overworked. We need a place to play after our long days of Spice production.~p~We request you invest in buildings of Entertainment as soon as possible.~p~~mission_target_planet~ out!"
+  "Greetings Captain.~p~We hate to trouble you, but the workers of planet ~mission_target_planet~ are demoralized.~p~We request you build entertainment facilities on this world as soon as possible.~p~~mission_target_planet~ out!"
+  "Captain. There's a serious morale problem on planet ~mission_target_planet~! We need to supply our settlers with entertainment facilities.~p~Please make your way the ~mission_target_star~ system at your earliest convenience.~p~~mission_target_planet~ out!"
+ Response 1
+  "Close Transmission"
+
+Eco Disaster:
+ MySpecies
+  "Urgent message for our Captain!~p~Our ecosystem on planet ~mission_target_planet~ is at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Hurry!~p~~mission_target_planet~ out!"
+ Diplomat
+  "Distress signal launch procedure has been initiated per the Grand Council. Seeking the assistance of ~player_title~ ~player_creature_name~.~p~Our ecosystem on planet ~mission_target_planet~ is at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~I'm sure you can imagine the chaos this is creating, in direct defiance to our Philosophy of Order. We request your intervention per our Alliance Agreement, document 48, paragraph LXVIII.~p~We anticipate that your arrival is imminent."
+ Ecologist
+  "Kind ~player_title~ ~player_creature_name~!~p~While we try to let the cycle of life run its more natural course, a tragic turn requires intervention. Our ecosystem on planet ~mission_target_planet~ is at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Hurry!"
+ Bard
+  "Fiddledee floo! Nothing ruins a beautiful day like imminent catastrophic ecological disaster.~p~~player_title~ ~player_creature_name~, you simply must come and make things right. Our silly wild ~mission_target_animal_species~ herds have put themselves in a terrible fix, though the domesticated ones are still quite lovable and healthy.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Hurry, hurry! Come quick, come quick!"
+ Zealot
+  "~player_title~ ~player_creature_name~! We seek you to assist us most urgently.~p~Spode's Faithful on planet ~mission_target_planet~ are at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~Thou shalt cull the infected from the pack immediately, or the virus will spread and lost will be the entire species... and to that end, the beginning doom to the planet.~p~May you speed this way at once!"
+ Scientist
+  "~player_title~ ~player_creature_name~.~p~A recent field study of our wildlife returned some alarming data. The ecosystem on planet ~mission_target_planet~ is at great risk. A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~We request your assistance STAT. Initiate the most efficient flight plan at once. "
+ Trader
+  "Oh, ~player_title~ ~player_creature_name~! Help, help!~p~Our ecosystem on planet ~mission_target_planet~ is at great risk! A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~We need you to cull the infected from the pack immediately, or the virus will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Hurry, hurry!"
+ Shaman
+  "Kind ~player_title~ ~player_creature_name~.~p~As the ways of Harmony teach us, the cycle of life has a rhythm all its own. Alas, this melody has hit a wrong note on planet ~mission_target_planet~!~p~A virus is spreading thru some of our wild ~mission_target_animal_species~ herds.~p~You must relieve them from their pain at once. If they suffer much longer, the infection will spread and we will lose the entire species... and that may be only the beginning of an entire biosphere collapse.~p~Fare thee well and speed you this way."
+ Warrior
+  "Attention ~player_creature_name~!~p~Planet ~mission_target_planet~ has exposed a weakness the ~race~ will not tolerate. Eliminate the weak ~mission_target_animal_species~ immediately.~p~~race~ out."
+ Grob
+  "Attention ~player_creature_name~!~p~You will report to planet ~mission_target_planet~ at once to eradicate the weak ~mission_target_animal_species~.~p~That is all."
+ Response 1
+  "Close Transmission"
+
+Ally under attack:
+ Diplomat
+  "~player_title~ ~player_creature_name~. We hope you are receiving this transmission.~p~Attackers are threatening the peace of planet ~mission_target_planet~! By the terms of our alliance, the Grand Council requests that you aid us in driving off the raiders."
+  "Message sent to ~player_title~ ~player_creature_name~, allied friend of the ~race~.~p~The peace of our federation is being threatened by an unknown enemy! Can you travel at once to planet ~mission_target_planet~ and help us defeat them?"
+  "Distress signal launch procedure has been initiated. Seeking the assistance of ~player_title~ ~player_creature_name~.~p~Planet ~mission_target_planet~ is being savagely attacked by an unknown enemy! These barbarian pirates failed to send any declaration of intent prior to combat and are ignoring all approved battle zone procedures. We are at our wit's end and in need of your intervention per our Alliance Agreement, document 32, paragraph XIV.~p~We anticipate that your arrival is imminent."
+ Ecologist
+  "Kind ~player_title~ ~player_creature_name~!~p~Weapons of mass destruction are being deployed against our people on planet ~mission_target_planet~! ~p~In the name of our alliance, we ask you to drive off these attackers before the natural order on ~mission_target_planet~ is irrevocably destroyed! "
+  "Kind ~player_title~ ~player_creature_name~. Planet ~mission_target_planet~ is being attacked by vicious raiders! Our defense grid is in danger of being overwhelmed! Can you help us?"
+  "Alas! ~player_title~ ~player_creature_name~, do come quickly! An unknown enemy is attacking us at planet ~mission_target_planet~. They seem bent on killing our people and rendering the planet's Life Web extinct!~p~Please help!"
+ Bard
+  "Boo hiss! A bunch of meanies are attacking us on planet ~mission_target_planet~, ~player_title~ ~player_creature_name~!!~p~We promise we sent them no stink plant or exploding snow globe to provoke them. Come quick, come quick!"
+  "Oh no, ~player_title~ ~player_creature_name~!~p~Here we were, having a Lounging Festival on planet ~mission_target_planet~, when a bunch of strangers started zapping us with zaps and zips! We're getting bored with running and screaming! Save us from tedium!"
+  "Are you there, ~player_title~ ~player_creature_name~? Speak up, speak up! We can't hear you!! ~p~Ho ho! Did we trick you?! Aren't recorded messages fun! Whee!~p~Oh! But we did almost forget to tell you the reason for this message. How silly of us. ~p~We can't imagine what these people have in mind, but a bunch of them turned up on planet ~mission_target_planet~ and started shooting! We desperately need your help or they will blow us to smithereens! Eep!"
+ Zealot
+  "Most befriended, ~player_title~ ~player_creature_name~! We seek your urgent intervention.~p~Those who bask in the Light of Spode are being attacked on planet ~mission_target_planet~! In the name of Spode and of our alliance, I summon you to crush the unworthy heathen! "
+  "We trust this message will reach you, ~player_title~ ~player_creature_name~! It is most urgent that you seek our location.~p~Planet ~mission_target_planet~ is being attacked by an enemy who denies the Way of Spode. Make haste and help us smite these unholy beings!"
+  "~player_title~ ~player_creature_name~! We seek you to assist us most urgently.~p~Spode's Faithful on planet ~mission_target_planet~ are being persecuted by a demon-inspired invader! Join with us, and help us drive off these malefic beings!"
+ Scientist
+  " ~player_title~ ~player_creature_name~. ~p~An unknown enemy is attacking planet ~mission_target_planet~! By the terms of our alliance, we summon your aid!"
+  " ~player_title~ ~player_creature_name~. ~p~Planet ~mission_target_planet~ is being attacked by an unknown enemy! We request you assistance STAT!"
+  " ~player_title~ ~player_creature_name~. ~p~A ferocious enemy has begun a bombardment of planet ~mission_target_planet~. Make your way to our location immediately."
+ Trader
+  "Oh, ~player_title~ ~player_creature_name~! Help, help!~p~Our peaceful kindred on planet ~mission_target_planet~ are being attacked by raiders! This worthless one is convinced that you, our glorious ally, will have no difficulty in driving them off. Come to our aid, and riches shall be yours!"
+  "Help, help! Oh, ~player_title~ ~player_creature_name~! Only a being of your power and decisiveness can save us now! ~p~Our kindred on planet ~mission_target_planet~ are being attacked by an unknown race! We will gratefully reward you if you can drive them off!"
+  "Oh dear, oh dear! We hate to trouble you ~player_title~ ~player_creature_name~, but tragic tragedy is amok amok on planet ~mission_target_planet~! Our world is being attacked by vicious raiders! ~p~Please, please help us! Our treasury will be open to you if you can drive drive them off!"
+ Shaman
+  "Kind ~player_title~ ~player_creature_name~. ~p~Despite our welcoming them with the Ceremony of Sitting and Song, a group of aliens are attacking us! We wish you speed in our direction."
+  "Kind ~player_title~ ~player_creature_name~. ~p~Planet ~mission_target_planet~ is being attacked by spiritually unevolved beings! To resort to force is never preferred, but they have left us no other option. Make haste to our side and we will stand united together."
+  "Dear friend, ~player_title~ ~player_creature_name~. ~p~Misguided aliens are attacking planet ~mission_target_planet~! We're sending them messages of love and peace on the psychic plane, but it seems not to be working! We regret that we must resort to more direct communication.~p~Please come with haste, with weapons armed, and assist in this communication"
+ Warrior
+  "Alien race foolishly assaults planet ~mission_target_planet~.~p~In the near future, they are doomed. Bring your ship to ~mission_target_planet~ at once to demonstrate your alliance.."
+  "Make haste! Target practice on planet ~mission_target_planet~!"
+  "Attention ~player_creature_name~!~p~Foolish aliens attack our planet ~mission_target_planet~. We make haste to destroy their home world. ~p~~player_creature_name~, attend to the insects on planet ~mission_target_planet~ at once."
+ Grob
+  "Attention ~player_creature_name~!~p~You will report to planet ~mission_target_planet~ at once to demonstrate your alliance to the mighty Grox.~p~That is all."
+ Response 1
+  "Close Transmission"
+
+Ally attacked by Grox:
+ MySpecies
+  "Urgent message for our Captain!~p~The Grox are attacking planet ~mission_target_planet~! Engage and defeat the enemy! Hurry!~p~~mission_target_planet~ out!"
+ Diplomat
+  "Formal greetings and salutations ~player_title~ ~player_creature_name~.~p~The Grox are attacking our world at planet ~mission_target_planet~! Per our diplomatic alliance agreements, we anticipate the arrival of no less than one ship to assist in this battle. Please come at once!~p~Transmission concluded."
+ Ecologist
+  "Help, ~player_title~ ~player_creature_name~!~p~We're being attacked by the Grox! This unnatural machine race is trying to devastate planet ~mission_target_planet~! By the terms of our alliance, please help us!"
+ Bard
+  "Eep eep eep! The Grox are attacking us!~p~Dear friend, ~player_title~ ~player_creature_name~, we sporifically promise we did nothing to them!~p~Come quick! Help, help, help!"
+ Zealot
+  "~player_title~ ~player_creature_name~.~p~Godless machines are devastating our world at planet ~mission_target_planet~!!~p~By the power of Spode, we need your help!"
+ Scientist
+  "Alert, ~player_title~ ~player_creature_name~! We're being attacked by the Grox at the location of planet ~mission_target_planet~!! Help us if you can! "
+ Trader
+  "The Grox are attacking our world on planet ~mission_target_planet~! ~p~No profits exist in devastation! Help us!"
+ Shaman
+  "Dear friend, ~player_title~ ~player_creature_name~.~p~We are in need of your generous help. The Grox are at our door! We can't adjust their auras because - hey - they're machines!~p~Please make haste to our side at planet ~mission_target_planet~!"
+ Warrior
+  "~player_creature_name~. Our world at planet ~mission_target_planet~ is being attacked by the Grox.~p~You, ~player_creature_name~, have vowed to help. You will keep this promise."
+ Response 1
+  "Close Transmission"
+
+Player calls during disaster:
+ MySpecies
+  "Can't talk now Captain, we're under attack.~p~We can use your help. "
+  "There's no time for talk right now, only action.~p~Mission Control out."
+  "Less talk, more go. There's a crisis down here. "
+ Diplomat
+  "Heeeeeeeeeelp!"
+  "The Grand Council hopes you will forgive our lack of a formal reception. We stand at a critical moment.~p~That is to say... Heeeeeeeelp!"
+ Ecologist
+  "We're in the middle of a crisis!"
+  "We're busy right now! Help us or call again later!"
+ Bard
+  "Heeeeeeeeeelp!"
+  "These guys just do not get our sense of humor. Help!"
+ Zealot
+  "We are on the verge of a catastrophe! "
+  "We are busy on Spode's affairs right now."
+ Scientist
+  "We're involved in a complex situation at the moment!"
+  "We're in crisis! We can't talk now!"
+ Trader
+  "Woe is us! "
+  "We're in a crisis! Spend money or otherwise make yourself useful!"
+ Shaman
+  "You're interrupting an existential crisis! "
+  "The White Hand of Enlightenment and the Dark Hand of Chaos are about to unite and strangle you if you don't leave!"
+ Warrior
+  "You come at a critical time!"
+  "We await your briefing. But it will have to be later."
+ Grob
+  "You are not included in our calculations at present. "
+  "You risk extinction by speaking to us at this moment!"
+ Response 1
+  "Yes"
+
+Player helped with disaster:
+ MySpecies
+  "Thanks for showing up. Without you, this would have been a real nightmare. We really appreciate your help!"
+  "Thanks for the help! You really saved the day back there. It would have been terrible without you."
+  "Wow, you're a true hero! We don't know what we would have done if you hadn't shown up. Thank you!"
+ Diplomat
+  "Thank you. We will immediately submit an Expedited Motion for Grateful Acknowledgement. The paperwork should come through within two Galactic Standard Years."
+  "We humbly appreciate your assistance. Your efforts here will be recorded in the Official Registry of Good Deeds and Positive Actions."
+  "Thank you for your assistance. Without your help, we might not have completed our Vote of Preparation For Planning to Take Immediate Action."
+ Ecologist
+  "Wow, that could have been nasty. But you totally rocked this place! Thanks... thanks for everything."
+  "That could have been ugly! Looks like you saved the day, you know? You're a real hero to our people."
+  "That was... You were... It was... Wow. You really made the difference. You have our thanks!"
+ Bard
+  "Joyous day! We're clever, but not clever enough to guess what might have happened without your help! You have our thanks."
+  "We're safe, we're saved! Should someone get credit? Maybe, yes, no... Of course someone should, it's you! Thank you so much!"
+  "Hooray for the ~player_species~! We'll sing a song of thanks in your name, and we'll do it every day, until we forget!"
+ Zealot
+  "The Will of Spode brings a ~player_creature_name~ to aid us in our time of need! Thanks be unto Spode, and also unto thee, noble ~player_creature_name~."
+  "A thousand appreciations of the ~race~ are thine, ~player_title~ of the ~player_species~, for assistance given here this day."
+  "The ~race~ offer many thanks to the ~player_species~. Thou shalt be remembered for rendering aid in a time of trouble."
+ Scientist
+  "~player_title~ ~player_creature_name~, your assistance is greatly appreciated, and will be duly noted in our logs."
+  "~player_title~ ~player_creature_name~, you have been a great help today. Thank you for your efforts here."
+  "~player_title~ ~player_creature_name~, we owe you a debt of gratitude. Your efforts on our behalf will not be forgotten."
+ Trader
+  "Thanks for the help! I bet we couldn't have done it without you. Keep in mind, I don't bet too often... We're market opportunists, not gamblers."
+  "Thanks for keeping us in business! You can't even begin to imagine how much profit we stood to lose without your intervention."
+  "Thanks for helping out! This kind of external assistance is exactly what helps us maintain our low, low insurance premiums."
+ Shaman
+  "Thank you, friend. A being who helps in times of need is a blessing to his allies, and shall be blessed in return."
+  "Your actions speak louder than any words for the honor of your species, friend. We thank you from the bottoms of our hearts."
+  "There is no greater virtue in the universe than the willingness to help another being. We are honored to know the ~player_species~ and offer our most humble thanks."
+ Warrior
+  "~player_species~ has helped in a time of need. We thank you for this help."
+  "~player_species~ assists us. We are grateful. We thank ~player_species~."
+  "~player_species~ comes to aid the ~race~. We ~race~ thank you."
+ Grob
+  "Appreciative response. The ~player_species~ has been of significant value. Giving of thanks is customary."
+  "STATUS REPORT: Situation under control with assistance from ~player_species~. Gratitude for assistance is appropriate."
+  "Assistance confirmed. This ~player_creature_name~ is thanked for its contributions. End of transmission."
+ Response 1
+  "Anytime."
+  "You're very welcome."
+  "No trouble at all. "
+
+Player did not help with disaster:
+ MySpecies
+  "Hey, where were you? You had better not make a habit of disappearing when trouble shows up."
+  "Thanks for nothing! You've got that fancy flying contraption, so how about you use it to help out every now and then?"
+  "Well, thanks for showing up... Too bad you came too late to do anything useful. Try to be a little more responsive in the future."
+ Diplomat
+  "The situation has already been resolved without your help. In the future, should we call upon you for assistance, we would appreciate your promptness."
+  "I'm sorry, but twelve of the thirteen Official Keepers of Subjective Time agree that you have arrived too late to be useful. Thank you for coming."
+  "You're too late. We already deployed our Emergency Protocol for Times of Moderate to Severe Crisis. All that's left is paperwork, and we can handle that ourselves, thank you."
+ Ecologist
+  "Not to be harsh, but you need to be a little more... responsive, you know? You totally missed all the action."
+  "Nature can fend for itself, but it still likes the help, you know? Things could have gone better... if you had been here."
+  "Sorry, but you're way too late to help. It's all right. Life goes on. It would go on better, though, if you responded faster in the future."
+ Bard
+  "Oh, calamity, despair! You have arrived too late to be of any use. Perhaps in the future, as you sing and dance and cavort throughout the universe, you could also pay attention to the passage of time?"
+  "Let us tell you a story... it involves the ~player_species~, and the ~race~, and our utter disappointment at the lack of timely assistance. You should be able to guess how the story goes."
+  "Hooray for the ~player_species~!' That's what we might have sung, had you shown up in time to do anything. It's far too late now, of course."
+ Zealot
+  "The ~player_species~ send aid, but they send it too late to be of use. Thine fault is tardiness, under the Judgement of Spode."
+  "We have handled the situation ourselves, a thousand thanks be to Spode. No thanks be to the ~player_species~ for their un-timeliness."
+  "The ~race~ emerge unscathed, all glory and thanks be to Spode. Shouldst thou wish to share in future glories, thou shalt be prompt in response."
+ Scientist
+  "~player_title~ ~player_creature_name~, your failure to deliver timely assistance has endangered our research. We would appreciate promptness on future occasions."
+  "~player_title~ ~player_creature_name~, you are too late to be of assistance. Please try to arrive quickly if we should call upon you again for help."
+  "~player_title~ ~player_creature_name~, the situation has already been resolved. Your tardiness, regardless of intention, is not appreciated."
+ Trader
+  "Thanks for showing up, but the losses are already on the books at this point. A ~player_creature_name~ like yourself must have lots of important things to do."
+  "Phew, that was a close one! You wouldn't believe how close it was. You might have seen how close it was, if you had shown up in time! Actually, it wouldn't have been close at all with your help. But it's too late to change that now. Too late, indeed."
+  "It's too late to do anything now. Just between us, you should be glad that our lawyers aren't pressing you for damages due to tardiness."
+ Shaman
+  "It is over and finished. Thank you for your eventual arrival, friend, but there is nothing left to be done."
+  "We have handled the situation ourselves. We thank you for coming, but you are too late to be of assistance."
+  "It is too late, friend. Please do not apologize, a hand extended in time is worth a thousand apologies after the fact."
+ Warrior
+  "~player_species~ is late. Too late. We ~race~ have dealt with the situation for now."
+  "~player_species~ comes to help, but the time for help is already over."
+  "~player_species~ arrives too late to help us. Next time ~player_species~ must not be late."
+ Grob
+  "Dismissal. This ~player_creature_name~ did not arrive promptly. We have no need of aid at this time."
+  "STATUS REPORT: Situation is already under control. This ~player_creature_name~ was useless in this matter."
+  "The situation has been resolved. This ~player_creature_name~ was not present at the appropriate time."
+ Response 1
+  "I'm sorry. Next time I'll be quicker to act."
+  "My apologies."
+
+Recovering from Grox attack:
+ MySpecies
+  "We are traumatized by the recent Grox raid. Let us breathe.~p~Let's talk later."
+  "Everyone is a bit shaken up by the recent Grox attack. It would be best if you came back later Captain. "
+ Diplomat
+  "The Grand Council is fully occupied with the aftermath of a Grox attack. We are unable to speak with you at this time."
+  "The Galactic Security Force is here assessing the damage after the recent Grox invasion.~p~Please come back at a time when we're available to talk."
+ Ecologist
+  "The evil Grox machines have attacked us! We can't deal with you right now- please come back later."
+  "As the result of an attack by the vicious anti-Life forces of the Grox, we're very busy right now! You are welcome to return at another time."
+ Bard
+  "The party's over- we were attacked by the Grox! You're welcome to come roister another time."
+  "The Grox attacked us! We don't know why... Maybe they didn't like the spring hat collection! We're having a full-fledged fashion emergency right now, so we can't talk!"
+ Zealot
+  "The Children of Spode were just attacked by the diabolical machines of the Grox! We do not have time to deal with petitioners right now- come back later."
+  "The hell-machines of the Grox have come to smite us! Come back at a later time!"
+ Scientist
+  "We are re-evaluating our data in the aftermath of a Grox attack. Come back at another time."
+  "The Grox have launched an attack upon us. We are attempting to determine the logic of this, and have no time for other matters. Come back later."
+ Trader
+  "The Grox blew up our stuff! The boutique is closed! Come back later!"
+  "The Grox attacked us! We can't decide whether to raise our prices or have a fire sale, so come again later!"
+ Shaman
+  "If our auras seem dark, it's because we were attacked by the Grox! We're chanting for a protective shield, so we can't talk to you right now. Come another time."
+  "We were trying to explain numerology to the Grox, and they attacked us! We're busy right now... Come back later."
+ Warrior
+  "We're mobilizing our forces after an unprovoked attack by the Grox. We're too busy to deal with you right now... Maybe later."
+  "We have been attacked by the Grox. We are preparing massive retaliation, and can't deal with other matters. Return later, after our triumph."
+ Response 1
+  "Sorry. I didn't know."

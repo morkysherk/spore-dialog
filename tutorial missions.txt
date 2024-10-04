@@ -1,0 +1,1307 @@
+Flight Tutorial Mission briefing:
+ MySpecies
+  "Congratulations Cadet! You've got a fine ride there!~p~We are still adding new equipment to your ship but we should have it ready for space travel in no time! ~p~Have you flown a space ship before? No? ~p~Hmmm... well... nothing like a test flight while the entire population of the ~player_creature_name~ of Planet ~race_homeworld~ looks on.~p~What do you say? Ready to earn your Captain's Badge?~p~"
+ Response 1
+  "Okay. I'm in."
+ Response 2
+  "I already know how to command my ship. Been there, done that."
+
+Flight Tutorial Mission accepted:
+ MySpecies
+  "That's the spirit!~p~Each city on Planet ~race_homeworld~ has launched a giant orb in celebration of our first spaceship! Really... you can't miss them!~p~Take your ship on a spin around the planet to ~mission_explore_num_cities_to_visit~ of our cities. Fly through the orbs to break them!~p~Once you have finished we'll give you further instructions. ~p~Good luck and try not to scratch the paint."
+ Response 1
+  "I'll be back soon."
+
+Flight Tutorial Mission rejected 1:
+ MySpecies
+  "If you feel you're made of the right stuff then by all means proceed. ~p~We've equipped your spaceship with all the right gear to start our space exploration program.~p~Are you prepared to leave the planet?"
+ Response 1
+  "Not yet, I've changed my mind. Let's visit cities."
+ Response 2
+  "Yes, I know what I'm doing. Get my spaceship ready for space travel."
+
+Flight Tutorial Mission rejected 2:
+ MySpecies
+  "In that case, it seems like we're looking at our new Captain. Are you ready to take on more exciting missions?"
+ Response 1
+  "Yes. What's next?"
+
+Flight Tutorial Mission reminder:
+ MySpecies
+  "Is there a problem cadet? ~p~You'll need to fly through any 7 spheres that appear over a city. Use the arrow keys or Hold the Right Mouse Button to fly your spaceship. Use the Middle Mouse Wheel to raise and lower your elevation.~p~You can also navigate around the globe by left clicking the mini map."
+ Response 1
+  "Right. I see now. Thanks."
+
+Flight Tutorial Mission completed:
+ MySpecies
+  "Good job cadet. With flying like that, you'll make Captain in no time."
+ Response 1
+  "So, what do you want me to do next?"
+
+Scan Tutorial Mission briefing 1:
+ MySpecies
+  "Now that you're an ace at flying we're ready for you to use some of the sophisticated tools we've invented for your spaceship.~p~We've been working on the ability to SCAN the plants and animals you discover on your travels.~p~Looks like this tool comes just in the nick of time! The Sporepedia record of one of our own animals recently became corrupted at the same time the animal started exhibiting some odd symptoms.~p~We need you to scan the animal so we can collect more information about this species."
+ Response 1
+  "Okay. I'm in."
+
+Scan Tutorial Mission briefing 2:
+ MySpecies
+  "The creature in question is exhibiting an odd glowing trail.~p~Your ship has been equipped with a Radar Tool that can be turned off and on in the Main Tools panel. It will point to mission targets and items of interest when on a planet's surface. The Radar beeps faster when you're closer to your target~p~Select the Scan Tool from your Main Tools panel. "
+ Response 1
+  "I'll be back soon."
+
+Scan Tutorial Mission reminder:
+ MySpecies
+  "Having a hard time scanning a specimen? ~p~With the Scan Tool selected, left click on one of the glowing yellow creatures. ~p~If you're having a difficult time locating the corrected creature, try increasing your altitude with the Middle Mouse Wheel in order to get a bird's eye view and look for the yellow arrows. ~p~Then you can fly in low, once you've located your target."
+ Response 1
+  "Right. I see now. Thanks."
+
+Scan Tutorial Mission complete:
+ MySpecies
+  "Excellent! Our scientists are eager to analyze the data."
+ Response 1
+  "So, what do you want me to do next?"
+
+Abduction Tutorial Mission briefing 1:
+ MySpecies
+  "Gadzooks! The information you collected by scanning was quite valuable.~p~It is now clear to us that we need to examine this species more closely. ~p~Your ship is equipped with an Abduction Beam, which you'll find in your Cargo panel. Use this tool to collect a specimen and return it to us. "
+ Response 1
+  "Okay. I'm in."
+
+Abduction Tutorial Mission briefing 2:
+ MySpecies
+  "Use the Abduction Beam, found in the Cargo panel, to collect this creature for further research.~p~Make sure you deploy the tool long enough, until the creature is fully secured in the ship's cargo bay.~p~Stopping the ray too soon, before your cargo is secured, may result in less than desirable circumstances for the victim... er, I mean specimen."
+ Response 1
+  "I'll be back soon."
+
+Abduction Tutorial Mission reminder:
+ MySpecies
+  "We really need that specimen delivered to us for studying. ~p~With your abduction ray selected, Left Click on the creature you want to abduct. You must hold down the Left Mouse Button the entire time until the creature is secured in your cargo bay. ~p~Your goal card will update when you've secured your cargo.~p~Once you've got one of the little buggers in your cargo bay, fly to any city and drop it off inside the city walls. Make sure you don't let the specimen drop, it's such a mess.~p~We'll send a handler out to secure the creature when it's been delivered."
+ Response 1
+  "Right. I see now. Thanks."
+
+Abduction Tutorial Mission briefing 3 (after abducting specimen):
+ MySpecies
+  "Looks like you've collected the correct specimen. We'll need you to drop it off inside one of our cities.~p~Select the cargo you want to drop off in the Cargo panel and drop it off in a city.~p~Make sure you beam it safely to the surface or we'll need you to collect another specimen and clean up your mess."
+ Response 1
+  "Got it."
+
+Abduction Tutorial Mission briefing 4 (?):
+ MySpecies
+  "You still need to drop off the specimen at one of your cities.~p~Select the item you want to drop off by Left Clicking the item in your cargo bin. This will equip your Transport Beam allowing you to place the item on the ground. Fly to one of your cities and drop off the specimen. Hold the Left Mouse Button down until the creature has made it safely to the surface inside one of your cities. ~p~Letting go too soon will drop the item, destroying it."
+ Response 1
+  "Right. I see now. Thanks."
+
+Abduction Tutorial Mission complete:
+ MySpecies
+  "Measurably fine work cadet. You've provided us with an excellent specimen to research. Probe twice, abduct once I always say."
+ Response 1
+  "So, what do you want me to do next?"
+
+Laser Tutorial Mission briefing 1:
+ MySpecies
+  "It appears that the specimen you collected was sick and is infected with a virus that is capable of spreading at an alarming rate. It could endanger our entire ecosystem.~p~Of course we want to handle this compassionately. We've equipped your spaceship with an extremely handy Mini Laser. It has the precision you'll need to take out the infected creatures, while avoiding the healthy creatures."
+ Response 1
+  "Okay. I'm in."
+
+Laser Tutorial Mission briefing 2:
+ MySpecies
+  "Select the Mini Laser in your Weapons panel and aim it at the infected creatures. ~p~Be careful where you point that laser. It's capable of destroying buildings, vehicles, and other spaceships. ~p~Now go, before the infection spreads further!"
+ Response 1
+  "I'll be back soon."
+
+Laser Tutorial Mission reminder:
+ MySpecies
+  "You still haven't exterminated all of the infected creatures? ~p~Make sure you have the laser equipped and Hold the Left Mouse Button on the infected creatures. They're fast so you'll need to move your laser around until you've hit them."
+ Response 1
+  "Right. I see now. Thanks."
+
+Laser Tutorial Mission complete:
+ MySpecies
+  "Laudable job! You are the right stuff. You've earned your homeworld's respect and confidence. We want you to pilot this spaceship and lead our race forward into galactic exploration and glory.~p~You've earned the badge and title of Captain.~p~Our scientists have developed an interplanetary drive for your ship, but you'll need to install it first, Captain."
+ Response 1
+  "Sounds good. I'm ready."
+
+UFO Wreck Mission briefing:
+ MySpecies
+  "Captain, get out your spandex suit. We're sending you on a space journey.~p~We suspect we're not alone in this galaxy. We've picked up strange radio signals from planet ~mission_ufo_wreck_target_planet~ in orbit around our home star. We want you to investigate."
+ Response 1
+  "I accept."
+
+UFO Wreck Mission accepted:
+ MySpecies
+  "We commend you Captain. Mission Control out."
+ Response 1
+  "Bye."
+
+UFO Wreck Mission rejected (?):
+ MySpecies
+  "I guess you are ready to leave our solar system. We will upgrade the spaceship to travel to other stars."
+ Response 1
+  "I'm off to outer space."
+
+UFO Wreck Mission reminder:
+ MySpecies
+  "You still haven't visited planet ~mission_ufo_wreck_target_planet~? You need to leave our planet and travel there immediately!"
+ Response 1
+  "Understood. Bye"
+
+UFO Wreck Mission reminder (after visiting planet):
+ MySpecies
+  "You found an Alien crash site?~p~You must go back and scan the wreck site on planet ~mission_ufo_wreck_target_planet~. There may be survivors or alien technology or powerful secrets."
+ Response 1
+  "Understood. Bye"
+
+Ruined Planet Mission reminder:
+ MySpecies
+  "You still haven't visited planet ~mission_ruins_target_planet~?~p~You need to leave the solar system and travel to the ~mission_target_star~ system. There are questions that need to be answered."
+ Response 1
+  "Understood. Bye"
+
+Ruined Planet Mission reminder (after visiting planet):
+ MySpecies
+  "You must go back and explore the ruins on planet ~mission_ruins_target_planet~.~p~This is a major scientific discovery that needs further research. We need to find clues as to why this sentient species went extinct.~p~Is our fate destined to be the same?"
+ Response 1
+  "Understood. Bye"
+
+Ruined Planet message 1:
+ ???
+  "Warning! Grox intruders detected.~p~All Grox intruders will be terminated."
+ Response 1
+  "Grox?"
+
+Ruined Planet message 2:
+ ???
+  "Initializing self defense code Grox999.~p~All Grox intruders will be terminated."
+ Response 1
+  "We are not Grox!"
+
+Ruined Planet message 3:
+ ???
+  "Warning! All Grox intruders will be terminated "
+ Response 1
+  "For the last time... We are not Grox!"
+
+Ruined Planet Mission Complete:
+ MySpecies
+  "Mission accomplished! We knew we weren't alone in the galaxy. Traces of an extinct civilization, hostile security drones, and The Grox.~p~It's obvious that we must continue our exploration of the galaxy and potentially prepare for hostilities.~p~In order to do so we'll need to set up colonies as bases of operation.~p~Our scientists are already reverse engineering the interstellar drive to replicate its technology. We've also developed a SETI device for your ship. It will pick up signals of other sentient life in the galaxy, indicated by radio signals over stars that you target.~p~We need you at the helm of our space program, Captain."
+ Response 1
+  "I'm in."
+
+Colonize Tutorial Mission briefing:
+ MySpecies
+  "We need to expand our Empire and our wealth by building colonies on other planets, for mining resources.~p~We've drafted a few volunteers to be part of the Colony Incredi-Pak, which we've placed in your Colonization bin. Our astronomers have been observing the heavens and have identified a hospitable planet, ~mission_target_planet~."
+ Response 1
+  "Okay. How do I establish a colony?"
+ Response 2
+  "I'll explore space on my own."
+
+Colonize Tutorial Mission accepted:
+ MySpecies
+  "Excellent! Placing a colony is easy.~p~After flying to planet ~mission_target_planet~, select the colony tool that has been added to your Colonization tool bin and place the colony on land, near a spice geyser.~p~It will instantly unpack, creating a colony. No assembly required.~p~You might want to make contact with the colony to make sure the citizens we packed in there, unpacked safely."
+ Response 1
+  "One more thing before I go..."
+  "Oh, one more thing..."
+  "Hey, one other thing..."
+ Response 2
+  "I will make the Empire proud! So long!"
+  "I won't return until planet ~mission_target_planet~ has been colonized!"
+  "I won't fail you! Farewell!"
+  "Totally! I'm just the dude for the job!"
+
+Colonize Tutorial Mission rejected:
+ MySpecies
+  "Are you sure? Expansion of our empire will be an economic boon for our society, and the cost of space flight will drop as well.~p~At the same time, leg-room and the in-flight beverage selections will increase!"
+ Response 1
+  "I'd like to discuss something else..."
+ Response 2
+  "Maybe later."
+  "Not now, I'm busy."
+  "Maybe in a bit."
+  "I'll be back when I'm ready to colonize."
+
+Colonize Tutorial Mission reminder:
+ MySpecies
+  "Captain ~player_creature_name~! Have you lost your marbles?~p~We must colonize planet ~mission_target_planet~.~p~Place a colony, ideally in an area that is on land and near Spice geysers."
+ Response 1
+  "Okay, Okay. One more thing before I go..."
+  "And another thing..."
+  "There was one other thing..."
+ Response 2
+  "I got it! Wish me luck!"
+  "Okay, I think I understand!"
+  "Colonize near Spice geysers. Got it."
+  "Of course!"
+  "Oh I knew THAT! I was just kidding!"
+
+Colonize Tutorial Mission - Player needs new Colony Incredi-Pak:
+ MySpecies
+  "Okay. Here is another one that you can use to install a colony. This is going to cost you ~tool_cost~ Sporebucks.~p~This time be more careful."
+  "We'd give you another Colony Incredi-Pak, but it costs ~tool_cost~ Sporebucks and you don't seem to have enough.~p~Come back when you have enough Sporebucks."
+ Response 1
+  "One more thing before I go..."
+  "Oh, one more thing..."
+  "Hey, one other thing..."
+ Response 2
+  "Understood. Thanks!"
+
+Colonize Tutorial Mission aborted (?):
+ MySpecies
+  "The Empire does not favor those who lack the mettle to do its bidding. Your failings of tenacity shall be noted. Our people will talk of your shortcomings."
+ Response 1
+  "I'd like to discuss something else..."
+ Response 2
+  "I can take it."
+  "Nothing I haven't heard before."
+  "Maybe you should get over it."
+  "Next time, try a little respect!"
+
+Colonize Tutorial Mission failed (?):
+ MySpecies
+  "No luck Captain...? That's disappointing, but don't despair.~p~Better luck next time."
+ Response 1
+  "I'd like to discuss something else..."
+ Response 2
+  "Sorry. I'll be back."
+  "Yes, I was a bit distracted. So long for now"
+  "Goodbye, for now."
+
+Colonize Tutorial Mission complete:
+ MySpecies
+  "Once again, excellent work, Captain!~p~Our empire will one day dominate the galaxy.~p~We'll be counting on you to visit this colony frequently to collect the spice it produces.~p~Our scientists are busy researching new technologies to improve the Terrascores of planets, which will one day help to improve conditions on our new colony planet.~p~In the meantime, we have more pressing matters to attend to. Are you ready to continue?"
+ Response 1
+  "I'm in."
+
+Find Aliens Tutorial Mission briefing 1:
+ MySpecies
+  "Captain, we have intercepted transmissions that we believe are coming from other advanced beings in the galaxy! We need you to investigate and attempt to establish first contact.~p~Use the SETI tool, equipped on your ship, to help find them.~p~Will you accept this most important mission?"
+ Response 1
+  "Of course. How will I speak to them?"
+ Response 2
+  "I'm not interested right now. Maybe later."
+  "Ooh. Sorry. I've got a thing."
+  "I can't. I'm busy."
+
+Find Aliens Tutorial Mission briefing 2:
+ MySpecies
+  "Your Short-Range Communicator is equipped with a universal translator, that will aid in communicating with any alien races you might encounter.~p~You'll need to travel within their solar system to communicate with them."
+ Response 1
+  "Great! Where do I find these aliens?"
+
+Find Aliens Tutorial Mission briefing 3:
+ MySpecies
+  "We haven't been able to pinpoint the exact location of these transmissions, so you will need to explore a bit.~p~After reaching interstellar space, target stars that trigger a response from your SETI tool. Radio lines and audio signals are a clear indication."
+ Response 1
+  "How will I know when to come back?"
+
+Find Aliens Tutorial Mission briefing 4:
+ MySpecies
+  "Space flight will cause wear and tear on your ship. Return home for repairing and recharging your ship when needed, or to check in with Mission Control on other space program assignments."
+ Response 1
+  "I think I've got it."
+
+Find Aliens Tutorial Mission accepted:
+ MySpecies
+  "We will await your report once you have established contact with the aliens.~p~Good luck in your search!"
+ Response 1
+  "Understood. Bye"
+
+Find Aliens Tutorial Mission rejected:
+ MySpecies
+  "Sure thing, Captain. It is your ship.~p~We can discuss this mission later."
+ Response 1
+  "I would like to ask something else..."
+ Response 2
+  "I'm off to explore! So long."
+
+Find Aliens Tutorial Mission reminder:
+ MySpecies
+  "We are picking up static which indicates another space faring species is out here with us. Find them and open communications.~p~You will know they are space faring by the Galaxy icon on the planet information.~p~This information has been recorded in your Mission Log."
+ Response 1
+  "Also..."
+  "Before I go..."
+  "One other thing..."
+ Response 2
+  "I will do this later. Dropping it for now..."
+ Response 3
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Find Aliens Tutorial Mission aborted:
+ MySpecies
+  "No problem, Captain.~p~Let us know if we can assist you in some way."
+ Response 1
+  "Also..."
+  "Before I go..."
+  "One other thing..."
+ Response 2
+  "I'm off to explore! So long."
+
+Find Aliens Tutorial Mission complete:
+ MySpecies
+  "The download from your data recorder is quite amazing, Captain! We had no idea other space faring Civilizations were so close by.~p~We are well on our way to establishing our place in the Galactic Community!~p~It is probably a good idea to forge a good relationship with this race. We may need an ally in the future.~p~Taking assignments from them will hopefully keep us in their good graces. They may also be interested in trade, which would be a great boost to our Empire's wealth.~p~Are you ready to take on more missions?"
+ Response 1
+  "I'm in."
+ Response 2
+  "Thanks. I can't wait to explore more! So long."
+
+Trade Spice Tutorial Mission briefing 1:
+ MySpecies
+  "Our cities have been busy producing Spice in record amounts, resulting in a surplus. We need you to look for potential buyers among space faring empires, to help boost our wealth."
+ Response 1
+  "Sure. How can I do it?"
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Trade Spice Tutorial Mission briefing 2:
+ MySpecies
+  "It's easy. Add to the Spice you've already collected from our Homeworld by visiting our colonies. The Spice will be automatically loaded into your spaceship's cargo bin.~p~Find another empire who is interested in purchasing Spice by traveling to one of their planets and hail them with your Short-Range Video Communicator. Using the Trade option, you can see how much they are willing to pay for Spice and decide if it's a fair price. From there you can decide if you want to sell it or not.~p~Once you've found a trade partner, you can also buy some of their Spice and sell it to another empire for a higher price."
+ Response 1
+  "Sounds lucrative! I'm in!"
+ Response 2
+  "No thanks. Maybe when I have more time."
+
+Trade Spice Tutorial Mission accepted:
+ MySpecies
+  "Excellent! You'll be rolling in dough in no time.~p~Try to find an empire offering you the best deal and watch out for ones who might try to lowball you."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Okay. I'm off to make a deal..."
+
+Trade Spice Tutorial Mission rejected:
+ MySpecies
+  "This Spice isn't going anywhere, so come back when you're ready to sell it. "
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Bye"
+
+Trade Spice Tutorial Mission reminder:
+ MySpecies
+  "You still haven't found a buyer for that Spice?~p~You'll need to leave this planet to find another Empire willing to purchase our Spice.~p~They are sometimes hard to find, but there are always Spice Traders looking to make a deal."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "I'm a bit busy at the moment. Maybe later."
+ Response 3
+  "I'm off!"
+
+Trade Spice Tutorial Mission aborted:
+ MySpecies
+  "You're not interested in making a few Sporebucks right now?~p~No problem, maybe some other time. We can always make Spice castles with it."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Thanks. So long."
+
+Trade Spice Tutorial Mission failed (?):
+ MySpecies
+  "You failed to sell Spice?~p~Don't worry, the market is very stable."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Ok, thanks. So long."
+
+Trade Spice Tutorial Mission complete:
+ MySpecies
+  "Good Job! Keeping the coffers of our treasury full allows you to purchase more tools for your Spaceship, pay for your repairs and recharging, build up more colonies, as well as send contributions to other empires to help build relationships.~p~We have plenty more missions for you to take on, if you so choose."
+ Response 1
+  "I'm in."
+ Response 2
+  "Thanks! I think I'll check back later."
+
+Tutorial mission menu:
+ MySpecies
+  "Captain, are you ready to continue expanding the mighty Empire of the ~player_creature_name~ race across the Galaxy?~p~There is a lot to do and a lot to learn.~p~What would you like your next mission to be?"
+  "Captain, it's imperative that we jumpstart our space exploration program by exploring more of the galaxy.~p~We know there are other aliens out there to make contact with. We know there are more solar systems and planets waiting to be discovered.~p~We are beginning to outgrow our homeworld of ~player_homeworld~, we should definitely see about finding other suitable planets to colonize.~p~There's so much to do. Are you ready to accept a mission?"
+ Response 1
+  "I want to explore the universe."
+ Response 2
+  "I want to expand our empire."
+ Response 3
+  "I want to interact with other alien races."
+ Response 4
+  "Nothing for now."
+
+Exploration mission menu:
+ MySpecies
+  "The galaxy is vast and there is much to explore. There are undiscovered planets, new life forms, and other sentient species out there just waiting for you to find them.~p~Fly to as many different planets as you can. During your journeys, you will encounter different animals, strange planets, different civilizations and discover secrets.~p~As you move forward with your exploration you will earn Badges that will unlock new tools for you to purchase. These tools will aid you in adventures."
+ Response 1
+  "I'd like to find other sentient life."
+ Response 2
+  "I'd like to hunt for artifacts."
+ Response 3
+  "I'd like to paint planets."
+ Response 4
+  "Nothing for now."
+
+Expand Empire mission menu:
+ MySpecies
+  "When it comes to expanding our empire, we have several different options.~p~We can start from scratch and build a colony on an uninhabited planet.~p~We can also set up a trade route with another empire's planet, eventually enabling you to be able to purchase their system.~p~We can always take someone else's planet by force, but that will definitely make enemies.~p~No matter how you decide to expand, it's going to take a lot of capital. The best way to make more Sporebucks is by trading Spice with other empires.~p~Colonies are great for making Spice. "
+ Response 1
+  "I'd like to colonize a planet."
+ Response 2
+  "I'd like to terraform."
+ Response 3
+  "I'd like to trade spice with others."
+ Response 4
+  "I'd like to sell artifacts to others."
+ Response 5
+  "I'd like to establish a trade route with another empire."
+ Response 6
+  "It's time to go to war with another empire."
+ Response 7
+  "Nothing for now."
+
+Interaction mission menu:
+ MySpecies
+  "Choose who you want as your ally or your enemy.~p~Making a friend is harder than making an enemy. You can make them happy by trading with them, giving them money or doing chores for them. If they are happy enough, they will become our ally.~p~The more allies you have, the easier it's going to be in the long run.~p~Allies offer protection, make traveling around the galaxy easier, excellent spice trading partners, a place to repair and recharge your spaceship, and a source to purchase more tools.~p~Allies will also join your fleet and fight along side you. You can expand your fleet by earning Master Badges. "
+ Response 1
+  "I'd like to find other sentient life."
+ Response 2
+  "I'd like to trade spice with others."
+ Response 3
+  "I'd like to establish a trade route with another empire."
+ Response 4
+  "It would be nice to make new allies."
+ Response 5
+  "It's time to go to war with another empire."
+ Response 6
+  "Nothing for now."
+
+Find Rare Tutorial Mission briefing 1:
+ MySpecies
+  "An artifact hunter are you? There are plenty of interesting collectibles sprinkled throughout the galaxy waiting to be discovered and collected.~p~These artifacts are often rare and can be parts of a valuable collection or potentially sold to other Empires.~p~In addition to this precious object, we will also compensate your search with ~mission_rewards~ Sporebucks."
+ Response 1
+  "How can I find it?"
+ Response 2
+  "I'm not interested right now. Maybe later."
+  "Ooh. Sorry. I've got a thing."
+  "I can't. I'm busy."
+
+Find Rare Tutorial Mission briefing 2:
+ MySpecies
+  "You'll need to travel around the galaxy to various solar systems in order to uncover the location of rare items. When you enter a solar system, mouse over the various planets. If a planet shows a yellow signal, that planet has a rare item on it.~p~Once you're on the planet's surface, your Radar Tool will point you to the rare, if you're close enough."
+ Response 1
+  "This sounds fascinating."
+ Response 2
+  "No thanks. Not my area of expertise."
+
+Find Rare Tutorial Mission accepted:
+ MySpecies
+  "Once you've located the rare objects on the planet's surface, use your Abduction Tool to secure the rare in your cargo bin. Once you've secured the rare, bring it back to us.~p~Good Luck and happy hunting!"
+ Response 1
+  "I'd like to ask about something else..."
+ Response 2
+  "Bye."
+
+Find Rare Tutorial Mission rejected:
+ MySpecies
+  "Not in the mood to hunt for rarities? It can be a bit addiction-forming. It starts with one, then you need to find another, and another, and then another..."
+ Response 1
+  "I'd like to ask about something else..."
+ Response 2
+  "Thanks. So long."
+
+Find Rare Tutorial Mission reminder:
+ MySpecies
+  "Still haven't tracked down a rare item? ~p~You'll need to explore many different solar systems in order to find one. They are rare after all.~p~If you're in a solar system that has one in it, carefully survey the planets, looking for a yellow signal. If there is, fly in close to planet and look around. They're always on the ground and your Radar should signal when you are near.~p~After you locate a rare artifact, you'll need to pick it up carefully with your Abduction Ray.~p~Remember, there are rare planets and other galactic objects too... but we are looking for a small rare artifact. One you can abduct into your cargo... (Good luck getting a galactic wormhole in there!)"
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "My hands are full right now. Maybe later."
+ Response 3
+  "Okay! I'm off!"
+
+Find Rare Tutorial Mission aborted:
+ MySpecies
+  "OK, hunting for rarities isn't your thing. No problem, let's find another mission for you."
+ Response 1
+  "I'd like to ask about something else..."
+ Response 2
+  "Thanks. So long."
+
+Find Rare Tutorial Mission failed (?):
+ MySpecies
+  "You've failed to find a rare artifact. Don't be discouraged there are many out there. "
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Thanks! Goodbye."
+
+Find Rare Tutorial Mission complete:
+ MySpecies
+  "Congratulations! You can now sell your rare item or place it at one of your colonies as a trophy."
+ Response 1
+  "You are most welcome. Before I go..."
+ Response 2
+  "Thanks! So long."
+
+Planet Coloring Tutorial Mission briefing 1:
+ MySpecies
+  "Interested in beautifying the Galaxy? Our scientists have developed some tools to help get you started.~p~Take these Planet Coloring tools and use them on a planet. They will change the color of the planet's surface.~p~Cool, huh?.~p~Do this successfully, and we'll give you ~mission_rewards~ Sporebucks."
+ Response 1
+  "Sounds fun!"
+ Response 2
+  "I'm not interested right now. Maybe later."
+  "Ooh. Sorry. I've got a thing."
+  "I can't. I'm busy."
+
+Planet Coloring Tutorial Mission briefing 2:
+ MySpecies
+  "You'll need to travel to another planet to use these tools. Any planet should do, except ours.~p~Well, unless you really want to. No, just kidding, use them somewhere else."
+ Response 1
+  "I accept! Now let's get planet paintin'!"
+ Response 2
+  "No thanks, I just had my spacecraft waxed."
+
+Planet Coloring Tutorial Mission accepted:
+ MySpecies
+  "Excellent! The Terra-Color tool is located among your ship's tools, in the Planet Coloring assembly. Activate the Color Land System and you'll find it.~p~Now get out there and paint! The Galaxy is your canvas."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Bye."
+
+Planet Coloring Tutorial Mission rejected:
+ MySpecies
+  "Not in the painting mood? Don't worry, we have other missions you might be interested in."
+ Response 1
+  "Okay. I'd like to ask you about something else..."
+ Response 2
+  "Bye."
+
+Planet Coloring Tutorial Mission reminder:
+ MySpecies
+  "Haven't found a planet worth coloring?~p~Fly to any planet that looks like it could use a bit of color. Once you've found one, activate your Planet Coloring tools and select the Land tab. You'll find the Purple Terra-Coloring System there and ready to use."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "I give up."
+ Response 3
+  "I'm off!"
+
+Planet Coloring Tutorial Mission aborted:
+ MySpecies
+  "Not in the painting mood? Don't worry, we have other tasks for you."
+ Response 1
+  "Okay. I'd like to ask you about something else..."
+ Response 2
+  "Bye."
+
+Planet Coloring Tutorial Mission failed (?):
+ MySpecies
+  "Couldn't do it huh? Maybe you're not the artistic type."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Sorry."
+
+Planet Coloring Tutorial Mission complete:
+ MySpecies
+  "Great job!!! Wasn't that fun?~p~You can find more tools like that spread throughout the Galaxy. There are several sets and colors, but you'll need to find them first and then use the Abduction Beam to collect them. Collected tools will be placed into your Tool Bin.~p~Once you have the tools they will always be available."
+ Response 1
+  "You are most welcome. Before I go..."
+ Response 2
+  "Bye."
+
+Terraform Tutorial Mission briefing 1:
+ MySpecies
+  "Ah yes! Captain ~player_creature_name~!~p~As you know from your exploration of the universe, we were very lucky to find such a nice planet on which to establish our colony.~p~If we are going to become a galactic force, we must learn how to improve the atmosphere and temperature of a planet.~p~This can make a sub-optimal planet ideal for colonization.~p~Completing this mission will earn you ~mission_rewards~ Sporebucks."
+ Response 1
+  "Could you explain terraforming a bit?"
+  "I'm new to terraforming. What do I do?"
+  "I don't know how to terraform anything."
+  "How can I terraform?"
+ Response 2
+  "I'm actually a little busy right now."
+  "Can I do this later?"
+  "I'm not going to do this right now, for several reasons."
+  "Wait. Hold that thought."
+  "I'm kinda in the middle of something else."
+
+Terraform Tutorial Mission briefing 2:
+ MySpecies
+  "Basically, terraforming is like adjusting a planetary thermostat and humidifier. Get the water-level and temperature just so, and voila! - you have a habitable planet. Bring the terraform score of planet ~mission_target_planet~ to a T-Score of ~mission_terraform_target_score~, making it much more hospitable for colonies."
+ Response 1
+  "How do I do that?"
+  "How is that possible? "
+  "Exactly how would I do that?"
+  "Such power! Tell me more!"
+ Response 2
+  "I'm actually a little busy right now."
+  "Can I do this later?"
+  "I'm not going to do this right now, for several reasons."
+  "Wait. Hold that thought."
+  "I'm kinda in the middle of something else."
+
+Terraform Tutorial Mission briefing 3:
+ MySpecies
+  "The power to control a planet's T-Score is something we are just beginning to understand.~p~We will give you a few basic tools to help you in your efforts. Use them wisely. They're all we have."
+ Response 1
+  "Okay. Give me the tools!"
+  "I'm up for the challenge!"
+  "Anything else?"
+  "Use the tool to improve the T-Score. Got it."
+ Response 2
+  "I'm actually a little busy right now."
+  "Can I do this later?"
+  "I'm not going to do this right now, for several reasons."
+  "Wait. Hold that thought."
+  "I'm kinda in the middle of something else."
+
+Terraform Tutorial Mission briefing 4:
+ MySpecies
+  "One more thing.~p~You will need to fill the Food Web, using the specimens from your cargo.~p~A population of plants and animals is what keeps a planet's T-Score stabilized. Make sure you place plants first.~p~If you run out of specimens, come back and we will supply you with more."
+ Response 1
+  "I can do that. Where?"
+  "Terraforming sounds terrific! Which planet?"
+  "Any particular planet in mind?"
+  "Very exciting! Do you have a planet picked out?"
+ Response 2
+  "I'm actually a little busy right now."
+  "Can I do this later?"
+  "I'm not going to do this right now, for several reasons."
+  "Wait. Hold that thought."
+  "I'm kinda in the middle of something else."
+
+Terraform Tutorial Mission briefing 5:
+ MySpecies
+  "We've identified a suitable candidate for terraforming, which would make any colony proud to call home.~p~Don't you think ~mission_target_planet~ of the ~mission_target_star~ system is a perfect choice?"
+ Response 1
+  "With a little clean-up, it just might do!"
+  "I'll check it out. How bad can it be?"
+ Response 2
+  "If you say so. I'm in!"
+  "I'm all for expansion! Let's do it!"
+ Response 3
+  "I'm actually a little busy right now."
+  "Can I do this later?"
+  "I'm not going to do this right now, for several reasons."
+  "Wait. Hold that thought."
+  "I'm kinda in the middle of something else."
+
+Terraform Tutorial Mission accepted:
+ MySpecies
+  "Wonderful!~p~Have a safe flight to the ~mission_target_star~ system!~p~We look forward to your successful return and the interplanetary expansion of our people."
+ Response 1
+  "One more thing before I go..."
+  "Oh, one more thing..."
+  "Hey, one other thing..."
+ Response 2
+  "Be well... and prosper!"
+  "Excelsior!"
+  "Wish me luck!"
+  "May the Spore be with you!"
+  "~mission_target_star~ system, here I come!"
+
+Terraform Tutorial Mission accepted (insufficient inventory space):
+ MySpecies
+  "We'd like to send you on your way, but we've hit a slight snag. In order to take this mission you'll need to make sure you have enough room in your Cargo Bin for all of the plants and animals you'll be taking along.~p~Discard items in your Cargo Bin to make room.~p~Come back when you're ready Captain.  "
+ Response 1
+  "One more thing before I go..."
+  "Oh, one more thing..."
+  "Hey, one other thing..."
+ Response 2
+  "I'll be back soon enough."
+
+Terraform Tutorial Mission rejected:
+ MySpecies
+  "Captain! Do you think so little of our overpopulation problems that you're content to aimlessly trawl the universe? Well, maybe after you 'find yourself' or whatever, return to save your species!"
+ Response 1
+  "One more thing before I go..."
+  "Oh, one more thing..."
+  "Hey, one other thing..."
+ Response 2
+  "Maybe. Maybe not."
+  "I'll probably be back."
+  "Don't be that way. I'll be back."
+  "I have issues. I'll be right back."
+
+Terraform Tutorial Mission reminder:
+ MySpecies
+  "The planet ~mission_target_planet~ remains uninhabitable.~p~Raise the T-Score of the planet enough to gain the ability to place plants. Using plants from your cargo, place them on the planet to stabilize the atmosphere."
+ Response 1
+  "One more thing before I go..."
+  "Oh, one more thing..."
+  "Hey, one other thing..."
+ Response 2
+  "I'll do it, but now I'm hungry."
+  "I will prepare planet ~mission_target_planet~ for good living! "
+  "I will make sure planet ~mission_target_planet~ is ready to take your order!"
+  "Got it. Colonial shake-and-bake. You want chips with that?"
+
+Terraform Tutorial Mission - Player needs help:
+ MySpecies
+  "Go on. What do you need?"
+ Response 1
+  "What am I supposed to do again?"
+ Response 2
+  "I need more of those tools you gave me."
+
+Terraform Tutorial Mission - Player needs more tools:
+ MySpecies
+  "You wasted them?!!~p~Here are some more, but it's going to cost you ~tool_cost~ Sporebucks. Be careful with those.~p~They don't grow on trees!"
+  "We'd give you more terraforming tools, but it costs ~tool_cost~ Sporebucks and you don't seem to have enough.~p~Come back when you have enough Sporebucks."
+ Response 1
+  "One more thing before I go..."
+  "Oh, one more thing..."
+  "Hey, one other thing..."
+ Response 2
+  "Understood. Thanks!"
+
+Terraform Tutorial Mission complete:
+ MySpecies
+  "Great job! Planet ~mission_target_planet~ is temperate and beautiful now. My grandparents are even thinking of a winter vacation home there.~p~Here is a token of our appreciation: ~mission_rewards~ Sporebucks."
+ Response 1
+  "I'd like to discuss something else..."
+ Response 2
+  "Bye."
+
+Trade Rare Tutorial Mission briefing 1:
+ MySpecies
+  "It looks like the galaxy is filled with rare objects waiting to be discovered. We wonder if these objects are worth anything to someone.~p~Could you try finding another empire out in the galaxy that might want to purchase your rare object? It could fetch a few Sporebucks."
+ Response 1
+  "How can I do it?"
+ Response 2
+  "I'm not interested right now. Maybe later."
+  "Ooh. Sorry. I've got a thing."
+  "I can't. I'm busy."
+
+Trade Rare Tutorial Mission briefing 2:
+ MySpecies
+  "You'll need to fly to another empire's planet and open trade negotiations with them. If your relationship is good enough, they may wish to trade with you.~p~If you're successful at setting up your rare trading operation, we'll pay you ~mission_rewards~ Sporebucks for your troubles."
+ Response 1
+  "I can do this."
+ Response 2
+  "I want to hang onto this for now."
+
+Trade Rare Tutorial Mission accepted:
+ MySpecies
+  "Excellent. Take care not to lose it. Travel to another empire's inhabited planets, and see if you can spark their interest."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Bye"
+
+Trade Rare Tutorial Mission rejected:
+ MySpecies
+  "Not interested in getting rich from trading treasures in an intergalactic black market? We have plenty more tasks that need doing."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Bye"
+
+Trade Rare Tutorial Mission reminder:
+ MySpecies
+  "You still haven't sold that piece of junk... I mean treasure? Use your SETI Tool to scan the stars and locate other Space-Faring empire. There should be someone out there who's interested."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "I'm a bit busy at the moment. Maybe later."
+ Response 3
+  "I'm off!"
+
+Trade Rare Tutorial Mission aborted:
+ MySpecies
+  "Ah, too bad. Well, if you still have the rare object sitting in your cargo hull collecting dust, you can always place it in one of your colonies to pretty it up."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Thanks. Bye."
+
+Trade Rare Tutorial Mission failed (?):
+ MySpecies
+  "Maybe trading rare objects isn't for you. We have lots of other missions for you."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Sorry."
+
+Trade Rare Tutorial Mission complete:
+ MySpecies
+  "Great job! Looks like one empire's junk is another empire's treasure. Take these ~mission_rewards~ Sporebucks and spend them wisely."
+ Response 1
+  "You are most welcome. Before I go..."
+ Response 2
+  "Thanks. So long."
+
+Trade Route Tutorial Mission briefing 1:
+ MySpecies
+  "We need to find another empire to trade goods with. Go find an empire willing to establish a trade route with us.~p~Completing this mission will earn you ~mission_rewards~ Sporebucks."
+ Response 1
+  "How can I do it?"
+ Response 2
+  "I'm not interested right now. Maybe later."
+  "Ooh. Sorry. I've got a thing."
+  "I can't. I'm busy."
+
+Trade Route Tutorial Mission briefing 2:
+ MySpecies
+  "Locate an empire whose relationship is in good standing with us. Use the Short-Range Video Communicator to establish a trade route through Diplomacy."
+ Response 1
+  "Let's do it! Let's trade that Spice!"
+ Response 2
+  "Sorry, I just remembered... I'm allergic to Spice."
+
+Trade Route Tutorial Mission accepted:
+ MySpecies
+  "We knew we could count on you. Once you get a trade route established we'll increase our revenues and build up better relations with others."
+ Response 1
+  "I would like to discuss something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "I'm off! I shall return!"
+
+Trade Route Tutorial Mission rejected:
+ MySpecies
+  "Are you sure? Our Empire could stand to benefit from galactic trade."
+ Response 1
+  "Perhaps later. But I would like to discuss something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Ya, sorry. Maybe later. So long."
+
+Trade Route Tutorial Mission reminder:
+ MySpecies
+  "You haven't established a trade route yet? C'mon we have Spice to offload.~p~Make sure you improve your relationship enough before offering a trade."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "I give up."
+ Response 3
+  "I'm off!"
+
+Trade Route Tutorial Mission aborted:
+ MySpecies
+  "Quitting so soon? Our Empire could stand to benefit from galactic trade..."
+ Response 1
+  "Perhaps later. But I would like to discuss something else..."
+  "Before I go, I have other questions..."
+  "Also..."
+  "One more thing..."
+ Response 2
+  "Very sorry to have bothered you. So long."
+  "Until we speak again. So long."
+  "I'm just too busy at the moment. We'll speak later."
+
+Trade Route Tutorial Mission failed (?):
+ MySpecies
+  "Tsk, tsk, tsk... So much Spice to move and so little time.~p~It's too bad you couldn't get a trade route established."
+ Response 1
+  "I'd like to ask you something else..."
+  "Before I go, I have other questions."
+  "Can I ask about something else?"
+  "One more thing..."
+ Response 2
+  "Sorry. I have another plan for funding. See you soon."
+
+Trade Route Tutorial Mission complete:
+ MySpecies
+  "Great job, Captain! We'll start shipping our Spice reserves right away.~p~Maybe we'll make enough money to buy out other star systems."
+ Response 1
+  "You are most welcome. Before I go..."
+ Response 2
+  "Thanks! I'll see you later!"
+
+War Tutorial Mission briefing 1:
+ Response 1
+  "How do I find these ruffians?"
+  "Tell me where I can find these scallywags!"
+  "How do I find these curs?"
+  "Where can I find them?"
+ Response 2
+  "You mean to start a war! I'll have no part."
+  "No. No. A million times no."
+  "Actually, I'm more of a lover than a fighter."
+  "I'm not so much into the killing and stuff."
+
+War Tutorial Mission briefing 2:
+ MySpecies
+  "We knew we could count on you! Planet ~mission_target_planet~ can be found within the ~mission_target_star~ system.~p~We know you must find this to be a terrible burden to bear, to say nothing of the ethical implications alone! However, if you complete this grave task successfully, we'll give you ~mission_rewards~ Sporebucks."
+ Response 1
+  "Alright. Sounds fun. I'll do it."
+  "Wetworks! Sounds like a larf! I'll do it."
+  "I've always wanted to really lay into those guys. I'll do it."
+  "~mission_target_empire~? I hate those guys. I'm in!"
+ Response 2
+  "I'm out! This feels like bad karma, times a bajillion."
+  "I just can't tolerate this level of violence."
+  "No way. No how. Not now. Not ever."
+  "No. No. A zillion times no."
+
+War Tutorial Mission accepted:
+ MySpecies
+  "Thank you! It pains us to send you on a task such as this, but we've exhausted our every option. Be strong."
+ Response 1
+  "One thing before I go..."
+  "One more thing..."
+  "Let's talk about something else..."
+  "Also..."
+ Response 2
+  "I got the urge. The urge to purge!"
+  "Call me Janitor, 'cause I'm about to do some cleaning!"
+  "You can count on me. They won't know what hit 'em!"
+  "I will leave smoking holes where once were proud cities!"
+
+War Tutorial Mission rejected:
+ MySpecies
+  "I can't say your actions will aid your reputation, but I can't say I blame you either. Intergalactic extermination is a tricky business, fraught with all sorts of knotty ethical dilemmas.~p~We have other missions that may be more appealing."
+ Response 1
+  "Soooo... Anywaaaaay..."
+  "Moving on..."
+  "Let's talk about something else..."
+  "Also..."
+ Response 2
+  "I need a moment to be alone. I'll be back later."
+  "Thanks, I'll see you later."
+
+War Tutorial Mission reminder:
+ MySpecies
+  "You forgot your mission, didn't you? Have you been taking neuropsin suppressors? They are ideal for war-faring species, but they do tend to cloud the mind.~p~The planet of ~mission_target_planet~ is still occupied by ~mission_target_empire~. Rid ~mission_target_planet~ of these hostile forces.~p~For the Empire!"
+ Response 1
+  "Soooo... Anywaaaaay..."
+  "Moving on..."
+  "Let's talk about something else."
+  "Also..."
+ Response 2
+  "My conscience can't bear this. I give up."
+  "This is too horrific. I quit."
+  "I just can't do it. Find someone else."
+  "I give up. Sorry."
+ Response 3
+  "That's right. A bit of the old ultraviolence."
+  "I remember now. Smoke 'em."
+  "Ahh, yes. Global mayhem. Got it."
+  "Aha! Destroy them! That's the part I forgot."
+
+War Tutorial Mission aborted:
+ MySpecies
+  "I can't say your actions will aid your reputation, but I can't say I blame you either. Intergalactic warfare is a tricky business, fraught with all sorts of complexity."
+ Response 1
+  "One thing before I go..."
+  "One more thing..."
+  "Let's talk about something else..."
+  "Also..."
+ Response 2
+  "I need a moment to be alone. I'll be back later."
+  "We're going to have to find another way. War sucks!"
+  "Thanks, I'll see you later."
+
+War Tutorial Mission complete:
+ MySpecies
+  "You have performed this grave task unflinchingly. For that, we salute you. Thank you for your tireless service. Here is ~mission_rewards~ Sporebucks for any hardships you may have endured in the course of this assignment."
+ Response 1
+  "Soooo... Anywaaaaay..."
+  "Moving on..."
+  "Let's talk about something else..."
+  "Also..."
+ Response 2
+  "There is something deeply gratifying about starting a fight."
+  "I had fun. Call me anytime."
+  "Nothing satisfies at the end of the day like global destruction."
+  "That's tiring work. I could use a rest. Bye!"
+
+Ally Tutorial Mission briefing:
+ MySpecies
+  "Now that we know of a new empire, we should form an alliance to our mutual benefit.~p~Return and inquire about an alliance.~p~You may have to shower them with gifts and accomplish missions to gain their trust."
+ Response 1
+  "Ok, I'll do my best."
+
+Ally Tutorial Mission accepted:
+ MySpecies
+  "We will, of course, compensate you with ~mission_rewards~ Sporebucks on your successful return.~p~We await your report once you have completed the mission.~p~Good luck in your search!"
+ Response 1
+  "Also..."
+  "Before I go..."
+  "One other thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Ally Tutorial Mission reminder:
+ MySpecies
+  "You still haven't made friends? Try brushing your mouth receptacle, then return to the Empire and make an ally out of them!"
+ Response 1
+  "Also..."
+  "Before I go..."
+  "One other thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Ally Tutorial Mission complete:
+ MySpecies
+  "Good job, Captain ~player_creature_name~. Now that we have a friend, we'll never be alone again!~p~We've noticed that our new ally has access to powerful technologies... this whole alliance thing is looking better and better.~p~Oh, and don't forget to give them a hand every once in a while, and we shall be rewarded back!"
+ Response 1
+  "Before I leave..."
+ Response 2
+  "Bye."
+
+Colonize Tutorial Mission 2 briefing 1:
+ MySpecies
+  "Hey there! While you've been flying around in that spaceship, we've been analyzing everything you've seen and scanned. One thing is becoming very clear: space is a lot larger than we thought!~p~It's clear that a few little colonies are not going to cut it. We're going to need resources, and we're going to need a wide base of operations.~p~Controlling ~mission_badge_needed_total~ different star systems will be a good start."
+ Response 1
+  "All right. I can manage that."
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Colonize Tutorial Mission 2 briefing 2:
+ MySpecies
+  "You're on your own for acquiring the Colony Incredi-Paks. They're not cheap and Mission Control can't afford to hand them out like candy.~p~Mmmmm, candy. Is it lunch time yet?"
+ Response 1
+  "Not a problem."
+ Response 2
+  "Reject"
+
+Colonize Tutorial Mission 2 accepted:
+ MySpecies
+  "Fantastic! Just head back out into the galaxy and visit planets on different stars. When you find a reasonable plot of land, use the colony tool from your Colonization tool bin. Everything after that is completely automated.~p~Remember, we need colonies on at least ~mission_badge_needed_total~ different star systems. Space is big, so we need to go big, too!"
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Colonize Tutorial Mission 2 rejected:
+ MySpecies
+  "Not interested in helping your species become the greatest, most fantastic, super duper Empire in the entire galaxy?~p~Too bad, we were planning on baking you a cake. I'll tell them to stop."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Colonize Tutorial Mission 2 reminder:
+ MySpecies
+  "Back so soon? There's still a whole galaxy out there, and we don't control anywhere near enough of it!~p~Every minute spent here is a minute wasted. Head back into space and keep colonizing until we control ~mission_badge_needed_total~ different star systems."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "Keep the training fee... but I'm dropping out."
+ Response 3
+  "Now you see me, now you don't."
+
+Colonize Tutorial Mission 2 aborted:
+ MySpecies
+  "You're going to quit now? But our plan for galaxy expansion is not complete."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Colonize Tutorial Mission 2 complete:
+ MySpecies
+  "Excellent work! With all these colonies to harvest resources, we've put our empire in a strong position. But that doesn't mean we're done... this is just the beginning! This empire has got to keep growing if we're going to explore the whole galaxy."
+ Response 1
+  "Yippee! Before I go..."
+ Response 2
+  "I'm off for more adventures!"
+
+Colonize Tutorial Mission 3 briefing 1:
+ MySpecies
+  "We need you to help grow our empire a bit more. Sure, we've come pretty far from having just our home planet, but we haven't gone far enough!~p~It's clear that there are a lot of other species out there, and they are all trying to carve out little pieces of the galaxy. We need to carve out a bigger piece for ourselves, before we get crowded out!"
+ Response 1
+  "Tell me more. I'm fascinated!"
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Colonize Tutorial Mission 3 briefing 2:
+ MySpecies
+  "It's up to you how you want to colonize these additional star systems. Plopping colonies on unoccupied planets is always a sure fire solution.~p~If you're finding good locations hard to come by, you may want to consider taking systems from other species either by brute force, or establishing trade routes with allies and purchasing them outright."
+ Response 1
+  "Let's do this."
+ Response 2
+  "Reject"
+
+Colonize Tutorial Mission 3 accepted:
+ MySpecies
+  "Great! Our immediate goal is to have colonies on ~mission_badge_needed_total~ different star systems.~p~There's one more thing which might be important. Our strategists have been analyzing the layouts of other empires. They haven't reached any conclusions, but the data is definitely pointing towards something. It's pointing towards the center of the galaxy.~p~Get out there and grow our empire to ~mission_badge_needed_total~ star systems! And try to pick stars that are closer to the center of the galaxy. If something is out there, we'll want to know about it sooner or later."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Colonize Tutorial Mission 3 rejected:
+ MySpecies
+  "You're not interested?~p~I guess being a teeny, weeny little empire isn't the worst thing. If you're trying to win the Eeny Teeny Weeny Little Empire award."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Colonize Tutorial Mission 3 reminder:
+ MySpecies
+  "What are you doing back here? Our empire can't grow if you're not helping it!~p~I don't know what you've been up to, but planting new colonies should be your top priority. Use your colony tool on new planets until our empire spans ~mission_badge_needed_total~ different star systems."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "Keep the training fee... but I'm dropping out."
+ Response 3
+  "Now you see me, now you don't."
+
+Colonize Tutorial Mission 3 aborted:
+ MySpecies
+  "You can't quit now, your mission is not complete.~p~I'll cancel the parade."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Colonize Tutorial Mission 3 completed:
+ MySpecies
+  "Well done! With ~mission_badge_needed_total~ stars to our name, we ~player_creature_name~ have built an interstellar empire worthy of respect.~p~But we can't stop just here... There's so much left to explore! Think of all the empires we haven't met! And we still don't know what's happening at the center of the galaxy...~p~We reached our goal of controlling ~mission_badge_needed_total~ stars. It's your choice where to go from here."
+ Response 1
+  "Yippee! Before I go..."
+ Response 2
+  "I'm off to try my Soothing Song!"
+
+Ally Tutorial Mission 2 briefing 1:
+ MySpecies
+  "Our strategists are nervous. They've heard some rumors about the Grox, and they're concerned that we might be headed for a confrontation. They are probably right.~p~You've done a great job of expanding our empire. But if it comes to an interstellar fight with the Grox, we're just not ready. We don't have the economy to support it, and we don't have the military force to fight it.~p~We need to make some allies."
+ Response 1
+  "Tell me more. I'm fascinated!"
+ Response 2
+  "I'm not interested right now. Maybe later."
+
+Ally Tutorial Mission 2 briefing 2:
+ MySpecies
+  "All right, it's time to start negotiating. Head over to star systems controlled by other empires and use your comm screen to ask about an alliance.~p~You might not get a positive response at first, but don't give up! Do whatever you can to win over the hearts and minds of other species. We need at least ~mission_badge_needed_total~ other empires on our side.~p~You've managed our expansion, now it's time to manage our diplomacy. Head out into the galaxy and forge ~mission_badge_needed_total~ alliances!"
+ Response 1
+  "I'll do it."
+ Response 2
+  "Reject"
+
+Ally Tutorial Mission 2 accepted:
+ MySpecies
+  "Thanks Captain! The fate of the ~player_species~ rests on your shoulders."
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Ally Tutorial Mission 2 rejected:
+ MySpecies
+  "Rejecting this mission will leave us vulnerable to Grox attacks.~p~This is truly a sad day.  "
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Ally Tutorial Mission 2 reminder:
+ MySpecies
+  "No luck so far? Well, you're not going to make any allies by sitting around!~p~Head back out into the galaxy and negotiate alliances with at least ~mission_badge_needed_total~ other ~^p^mission_badge_needed_total^empire^empires~."
+ Response 1
+  "Got it. One other thing..."
+ Response 2
+  "Keep the training fee...but I'm dropping out."
+ Response 3
+  "Now you see me, now you don't."
+
+Ally Tutorial Mission 2 aborted:
+ MySpecies
+  "Giving up so soon?~p~But we already started planning the parade.  "
+ Response 1
+  "I'd like to ask you about something else..."
+ Response 2
+  "Now you see me, now you don't."
+
+Ally Tutorial Mission 2 complete:
+ MySpecies
+  "Excellent! With the backing of our new allies, there's nothing in the galaxy that we can't handle.~p~As an empire, we're finally big enough and strong enough to do whatever we want. There's a whole galaxy out there to explore! Get to it, and don't let anybody -- not even the Grox -- stand in your way."
+ Response 1
+  "Yippee! Before I go..."
+ Response 2
+  "I'm off to try my Soothing Song!"
+
+Contact Grox Mission briefing:
+ MySpecies
+  "These are very critical times. It seems all of the galaxy is abuzz with tales of the Grox... and most of them aren't pretty. We should investigate these guys and find out what they are up to.~p~Establish contact and report back."
+ Response 1
+  "Yes, I've heard of these Grox. I'm intrigued..."
+
+Contact Grox Mission accepted:
+ MySpecies
+  "Intelligence seems to indicate they occupy the area near the center of the galaxy.~p~Head in that direction and you should have no trouble finding them... if they don't find you first."
+ Response 1
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Contact Grox Mission reminder:
+ MySpecies
+  "You'll recall you were going to investigate the Grox we've heard so much about.~p~Your Mission Log should have all the relevant details."
+ Response 1
+  "Also..."
+  "Before I go..."
+  "One other thing..."
+ Response 2
+  "Understood. Bye"
+  "Got it. See ya."
+  "Will do! Take it easy!"
+  "I see. I'll be back soon."
+
+Contact Grox Mission complete:
+ MySpecies
+  "Wow! You found 'em, and you lived to tell about it.~p~They seem to be very protective of their territory. Almost like they are hiding something...? Perhaps it has to do with the center of the galaxy...~p~It may be time to take the Grox head on and see what's waiting at the center of the galaxy.~p~Job well done, Captain! Stellar work."
+ Response 1
+  "I agree! I'd like to discuss other matters before I go..."
+ Response 2
+  "Intriguing! Perhaps we should investigate more. Goodbye for now."
+
+Tutorial mission unavailable:
+ MySpecies
+  "We are unable to direct you towards that goal currently. It looks like it is not possible. Please come back."
+ Response 1
+  "I have another question, then."
+ Response 2
+  "Maybe another time."
+
+Tutorial mission menu (old?):
+ MySpecies
+  "Excited Scientists have created SETI device and equipped it on your spaceship. It is capable of locating other life forms living on distant planets, but you'll need to be in deep space to use it.~p~We are all fascinated that you made contact with an Alien race, albeit a deceased one, but there clearly must be more. These Grox sound interesting and perhaps a bit dangerous. We'll need to explore the riches of the galaxy and expand our empire to continue to invest in our burgeoning space program. Captain, we have many missions for you to take on for your people, colonizing, exploring, etc. What would you like to take on first?"
+ Response 1
+  "I want to explore the universe."
+ Response 2
+  "I want to expand our empire."
+ Response 3
+  "I want to interact with others in the universe."
+ Response 4
+  "Nothing for now."

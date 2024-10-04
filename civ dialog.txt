@@ -1,0 +1,461 @@
+Player calls nation:
+ Military (Furious)
+  "You attack us in our homes! What purpose do you have for this madness? You must know that this will not be tolerated."
+ Military (Annoyed)
+  "Our military gathers at your borders. We greet you only to mock you. "
+  "We have little to say to you. Make your point."
+ Military (Pleased)
+  "We are pleased with our relations. How can we assist you?"
+  "You are a fine ally. What is that you wish to speak about?"
+ Military (After capturing player city)
+  "Our mighty forces have taken one of your cities! Have you come to beg for the return of ~source_captured_player_city_name~?"
+ Military (After losing city to player)
+  "Your defiling of ~source_lost_city_to_player_name~ is the last of a litany of mistakes. We will not let you retain it easily. "
+ Military (After capturing NPC city)
+  "Our nation continues to expand. ~source_captured_npc_city_name~ is another fine addition in our quest for dominance. What is your purpose in contacting us?"
+ Military
+  "Your civilization perplexes us. What are your intentions?"
+ Religious (Furious)
+  "You have turned against us and chosen to wage war against our people. We will not tolerate this. Prepare for war."
+ Religious (Annoyed)
+  "You have defiled our beliefs and mocked our people. What do you want?"
+  "The Source frowns on your people and their creations. Why do you contact us?"
+ Religious (Pleased)
+  "We believe you are a force for good in this world. What do you need?"
+  "The Source sings of our alliance and its power. Speak openly, friend."
+ Religious (After capturing player city)
+  "We have conquered your pitiful city of ~source_captured_player_city_name~. Soon, it too, will understand the true meaning of our faith."
+ Religious (After losing city to player)
+  "Your pathetic attempt to break our spirits will fail. You may have captured ~source_lost_city_to_player_name~ but we will reclaim it before long."
+ Religious (After capturing NPC city)
+  " Our influence continues to expand! Our crusade has added the city of ~source_captured_npc_city_name~ to our nation."
+ Religious
+  "We have meditated on it for hours but cannot decide whether you are friend or foe. What do you need?"
+ Economic (Furious)
+  "There is no need for armed conflict but you have chosen to bring it to our city. We are saddened beyond reckoning. "
+ Economic (Annoyed)
+  "Your existence threatens the very existence of this planet. What could you possible want from us?"
+  "Rarely have we seen a threat such as yours. Are you a force for good or evil?"
+ Economic (Pleased)
+  "Greetings! Actions speak louder than words in the market, and you seem a pleasant enough neighbor at present. What do you need?"
+  "Great alliances such as ours will stand the test of ages! Speak your mind, neighbor."
+ Economic (After capturing NPC city)
+  "The purchase of ~source_captured_npc_city_name~ has barely scratched the surface of our ambitions. "
+  " We have purchased ~source_captured_npc_city_name~, proving that we can grow our nation without conflict."
+ Economic
+  "What is your purpose? "
+ Response 1
+  "We have need of your forces. Will you fight on our behalf?"
+ Response 2
+  "Our people admire your wide tracts of land."
+ Response 3
+  "Your people are descended from limbless space slugs."
+ Response 4
+  "We come offering gifts. Do you accept?"
+ Response 5
+  "Goodbye"
+
+Player compliments nation:
+ Default
+  "Your words show great wisdom."
+ Response 1
+  "Take care"
+
+Player insults nation:
+ Default
+  "You'll look good over my mantlepiece..."
+ Response 1
+  "Whatever"
+
+Player offers gift:
+ Default (Neutral or better)
+  "Yes, please. Thanks in advance!"
+ Default (Neutral or worse)
+  "Well, what can you give us?"
+ Response 1
+  "Here's 4000 Sporebucks..."
+ Response 2
+  "Here's 2000 Sporebucks..."
+ Response 3
+  "Here's 1000 Sporebucks..."
+ Response 4
+  "Nevermind"
+
+Nation accepts gift:
+ Default (Neutral or better)
+  "Why, I've always counted on the kindness of strangers..."
+ Default (Neutral or worse)
+  "We appreciate your efforts to improve relations."
+ Response 1
+  "My pleasure"
+
+Player asks nation to attack city:
+ Default
+  "Which city?"
+ Response 1
+  "~city_name_1~"
+ Response 2
+  "~city_name_2~"
+ Response 3
+  "~city_name_3~"
+ Response 4
+  "~city_name_4~"
+ Response 5
+  "~city_name_5~"
+ Response 6
+  "~city_name_6~"
+ Response 7
+  "~city_name_7~"
+ Response 8
+  "~city_name_8~"
+ Response 9
+  "~city_name_9~"
+ Response 10
+  "~city_name_10~"
+ Response 11
+  "Nevermind"
+
+Nation requests payment to attack:
+ Default
+  "We could help you out for a price. How about ~offer_1~ Sporebucks?"
+ Response 1
+  "Okay, we've got a deal."
+ Response 2
+  "Sorry, that's too just too high."
+
+Nation agrees to attack:
+ Default
+  "Alright, we'll get to work!"
+ Response 1
+  "Thanks for the help..."
+
+Nation requests attack:
+ Default
+  "We could use your help. Would you declare war on ~npc1_name_nation~?"
+ Response 1
+  "Absolutely. We're happy to join with you."
+ Response 2
+  "Hmmm... maybe if you sweeten the deal with 2000 Sporebucks?"
+ Response 3
+  "Sorry. We don't consider this to be prudent at this juncture."
+
+Player requests payment to attack:
+ Default
+  "Sounds good. Glad to have you on our side."
+ Response 1
+  "Let's go!"
+
+Player agrees to attack:
+ Default
+  "Excellent. Let's grind our enemies into dust!"
+ Response 1
+  "Huzzah!"
+
+Player refuses to attack:
+ Default
+  "I'm sorry to hear that."
+ Response 1
+  "Well, maybe next time..."
+
+Nation demands tribute:
+ Default
+  "It's time to show us proper respect. We demand ~offer_1~ Sporebucks."
+ Response 1
+  "Very well - we wouldn't want to lose this alliance."
+ Response 2
+  "You can have the money - once you pry it from our dead, cold hands."
+
+Player refuses to pay tribute:
+ Default
+  "We are not pleased."
+ Response 1
+  "You are wasting your breath."
+
+Player pays tribute:
+ Default
+  "You have chosen wisely."
+ Response 1
+  "Don't push it, buddy..."
+
+Player buys node:
+ Default
+  "Thanks for the cash!"
+ Response 1
+  "Our pleasure..."
+
+Nation accepts trade route:
+ Military
+  "Trade can only grow our might. We accept."
+ Religious
+  "Such a partnership can only help spread our faith. We accept. "
+ Economic
+  "Trade can only grow both our coffers. Your offer is accepted."
+ Response 1
+  "Great!"
+
+Nation rejects trade route:
+ Military
+  "We do not need to trade with trifling civilizations such as yourselves. No."
+ Religious
+  "We have pondered your offer deeply but found it lacking. No."
+ Economic
+  "Our coffers overflow. We do not need to trade with you at this time. I'm sorry."
+ Response 1
+  "Very well."
+
+Nation ends trade route:
+ Military
+  "Our military was built in preparation for behavior such as yours. We have ended trade between ~source_city_name~ and ~target_city_name~."
+  "Our military requires no more capital. We have ended trade between ~source_city_name~ and ~target_city_name~."
+ Religious
+  "Even a people of faith have limits to their tolerance. We have ended trade between ~source_city_name~ and ~target_city_name~."
+  "We have communed with the Source and It has spoken. We must end trade between ~source_city_name~ and ~target_city_name~."
+ Economic
+  "It may be bad for business but your behavior is insufferable. We have ended trade between ~source_city_name~ and ~target_city_name~."
+  "Our relationship is no longer mutually beneficial. We have ended trade between ~source_city_name~ and ~target_city_name~."
+ Response 1
+  "We didn't need your money anyway."
+
+Nation proposes trade route:
+ Military
+  "Our armies require goods that ~target_city_name~ possesses in order to flourish. Let us establish a trade route. We will pay you handsomely for each trip. "
+ Religious
+  "The good word cannot spread without avenues of commerce. Let us set up a trade route with ~target_city_name~. Each trip will earn you a tithe."
+ Economic
+  "For our cities to grow, our economies must grow. We would like to establish a trade route with ~target_city_name~. We will send vehicles filled with our finest cargo, and will pay a tax to your city for each trip."
+ Response 1
+  "I accept your offer! Start shipments immediately!"
+ Response 2
+  "I reject your offer! You can keep your tawdry goods."
+
+Player accepts trade route:
+ Military
+  "You are not just a friend, but also a smart friend. We look forward to a long, prosperous relationship."
+ Religious
+  "The Source smiles on your wisdom. May our cities be forever linked."
+ Economic
+  "Excellent. Both of our cities will prosper from this deal. "
+ Response 1
+  "Agreed. Bye for now."
+
+Player rejects trade route:
+ Military
+  "Our generals are not pleased. It is unlikely we will offer such a deal again."
+ Religious
+  "You are a foolish leader. Your nation will not prosper."
+ Economic
+  "We question your logic, but we are happy to take our business elsewhere."
+ Response 1
+  "Duly noted. Goodbye."
+
+Nation requests trade embargo:
+ Default
+  "We are upset that you are trading with ~npc1_name_nation~. We insist that you stop immediately!"
+ Response 1
+  "We understand. We'll cut them off."
+ Response 2
+  "Well, if you would cover our loses with 4000 Sporebucks..."
+ Response 3
+  "Sorry. We don't consider this to be prudent at this juncture."
+
+Player denies trade embargo:
+ Default
+  "We're disappointed to hear that."
+ Response 1
+  "It's our final decision. Goodbye."
+
+Player accepts trade embargo:
+ Default
+  "Thank you, we appreciate your support."
+ Response 1
+  "Excellent. Goodbye."
+
+Player requests payment for embargo:
+ Default
+  "We can do that. Glad to see we could make a deal."
+ Response 1
+  "Thank you. Goodbye."
+
+Player requests to buy city:
+ Default
+  "We understand why you would want fair ~target_city_name~ for your own! Name your price."
+ Response 1
+  "~offer_1~ Sporebucks"
+ Response 2
+  "~offer_2~ Sporebucks"
+ Response 3
+  "~offer_3~ Sporebucks"
+ Response 4
+  "~offer_4~ Sporebucks"
+ Response 5
+  "~offer_5~ Sporebucks"
+ Response 6
+  "Nevermind..."
+
+Nation rejects purchase offer (weak):
+ Default
+  "After due consideration we must inform you that your offer has been rejected."
+ Response 1
+  "Oops."
+
+Nation rejects purchase offer (strong):
+ Default
+  "You insult my parents and my parents' parents. Such a ridiculous offer cannot be tolerated."
+ Response 1
+  "Oops."
+
+Nation accepts purchase offer (weak):
+ Default
+  "You are a shrewd negotiator. We accept."
+ Response 1
+  "Yay!"
+
+Nation accepts purchase offer (strong):
+ Default
+  "You are a very generous bidder. We gladly accept your offer."
+ Response 1
+  "Yay!"
+
+Player cancels purchase offer:
+ Default
+  "Thanks for wasting our time."
+ Response 1
+  "Sorry."
+
+Nation declares war:
+ Military
+  "This planet trembles before our mighty armada. You will not survive. Prepare for war."
+ Religious
+  "The world must unite around the one true Faith. You will learn the Truth as all those before you have learned."
+ Economic
+  "The time for communication and trade is at an end. Prepare for war."
+ Response 1
+  "I'm sorry, did you say something?"
+
+Military player captures city:
+ Default
+  "Okay, bully. We surrender. Hope you like the mess you've made of ~target_city_name~."
+ Response 1
+  "Bye"
+
+Religious player captures city:
+ Default
+  "Your religion has gained popularity in ~target_city_name~! We have no choice but to convert to your culture. Now spread the good word to other cities!"
+ Response 1
+  "Bye"
+
+Military nation captures player city:
+ Default
+  "~target_city_name~ was a cakewalk to defeat. Hope you're better able to defend yourself next time!"
+ Response 1
+  "Bye"
+
+Religious nation captures player city:
+ Default
+  "Was it the song? Was it the music? We're not sure, but your citizens have decided that ~target_city_name~ will be joining our nation. Sorry, but charm like this is hard to contain."
+ Response 1
+  "Bye"
+
+Economic nation offers to buy city:
+ Default
+  "We would like to offer ~offer_1~ Sporebucks for ~target_city_name~. Interested?"
+
+Nation surrenders:
+ Default
+  "We can see the writing on the wall. I think it's time to fight no more forever."
+ Response 1
+  "We happily accept your surrender."
+
+Nation gloats:
+ Default
+  "Hey, we captured ~target_city_name~, woohoo!"
+  "Hope you're ready for us, ~target_city_name~ is ours now."
+  "~target_city_name~ will make a fine addition to our empire!"
+  "~target_city_name~ falls before our might!"
+ Response 1
+  "Good for you."
+
+Ally merges with player:
+ Default
+  "We've won! Let's band together, so the world can live as one."
+ Response 1
+  "I'd hoped someday you'd join us."
+
+Test dialog:
+ Default
+  "Testing this communications channel..."
+ Response 1
+  "one"
+ Response 2
+  "two"
+ Response 3
+  "three"
+
+Greetings (?):
+ Default
+  "Hi, ~target_city_name~ of the ~player_name_nation~ here, what news do you bring?"
+ Response 1
+  "Time to monopolize this planet."
+ Response 2
+  "Time to spread the Truth across this planet."
+ Response 3
+  "Time to conquer this planet."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
